@@ -1,0 +1,112 @@
+4. Validation
+We evaluated both tracks using monthly walk-forward validation from December 2025 to May 2026, covering
+the same 10,069 homes per track. Each month, models were fitted on transactions completed before that
+month began and evaluated on sales within the month. Prediction inputs excluded sale prices, sale dates,
+days on market, and third-party AVM fields. The off-market track additionally excluded asking prices. Category
+encoders and other learned preprocessing were fitted within each training fold.
+
+Historical features used different time cutoffs. Off-market historical sales summaries used only the fold’s
+training transactions completed strictly before each home’s listing date. List-aware historical sale-to-list ratios
+used the preceding three calendar months: training observations received summaries ending before their sale
+month, while validation observations used a fixed training-history snapshot. The overall evaluation therefore
+represents a monthly prediction setting, rather than a strict listing-day backtest.
+
+Our evaluation pipeline checked missing values, duplicate records, positive finite prices, and consistency of
+outcomes across model versions. We reported pooled median absolute percentage error (MdAPE), mean
+absolute percentage error (MAPE), and median signed percentage error. Positive signed errors indicate
+overprediction. We examined errors by property type, observed sale-price decile, and month, with additional
+community analysis for both models. Models were selected by pooled MdAPE, with MAPE as the
+tie-breaker.
+
+
+5. Results
+
+   Track / model         MdAPE (%)       MAPE (%)       Median signed error (%)
+
+
+
+ Off-market baseline    20.84           27.43          +8.07
+
+
+
+ Off-market selected    9.47            12.11          +0.06
+
+
+
+ List-aware baseline    7.26            8.09           +5.68
+
+
+
+ List-aware selected    4.32            5.40           +0.73
+
+
+Table 1. Development-validation performance, December 2025–May 2026, with 10,069 homes per track.
+Baselines use nearby earlier sales for off-market predictions and asking prices for list-aware predictions.
+
+The selected off-market model reduced MdAPE by 11.37 percentage points relative to its baseline. The
+selected list-aware model reduced MdAPE by 2.94 percentage points. Both also reduced MAPE and overall
+median signed error. However, a near-zero median signed error does not establish accuracy or eliminate
+subgroup bias.
+
+The selected models were history_text_boost for off-market and current_v3 for list-aware. In the latest
+list-aware comparison, adding Member 1’s feature sets did not improve pooled MdAPE, so the existing model
+was retained. The list-aware model achieved lower errors, but the two tracks use different information sets; this
+comparison does not isolate the effect of asking price alone.
+
+6. Where the model fails
+
+
+
+
+Figure 1. MdAPE (top) and median signed percentage error (bottom) by observed sale-price decile for the
+selected models. Decile 1 contains the cheapest homes; blue denotes off-market and orange denotes
+list-aware.
+
+Price extremes remained challenging for the off-market model. In the most expensive decile, MdAPE was
+14.27% and median signed error was −9.03%. In the cheapest decile, median signed error was approximately
++10.8%. This tendency to overpredict cheaper homes and underpredict expensive homes persisted despite
+the near-zero overall median signed error.
+
+The list-aware model had smaller directional errors, from approximately +2.3% in the cheapest decile to −0.5%
+in the highest deciles. Its MdAPE was nevertheless higher in the two highest deciles, at approximately 5.5%,
+compared with 3.6%–3.9% in the lower five deciles. Sale-price groups were used only for diagnosis, never as
+predictors.
+
+Figure 2. MdAPE (top) and median signed percentage error (bottom) by property type for the selected models.
+Blue denotes off-market and orange denotes list-aware.
+
+Off-market MdAPE was highest for co-op apartments (14.59%), although this group contained only 48 homes.
+Among the other property types, detached homes had the highest MdAPE (10.35%). List-aware MdAPE
+ranged from 3.55% for condo apartments to 5.81% for freehold townhouses. Differences may reflect property
+characteristics, subgroup composition, and available training examples; these comparisons do not establish
+their causes.
+
+Monthly MdAPE ranged from approximately 9.1% to 9.9% for off-market and 4.0% to 4.7% for list-aware.
+Off-market monthly median signed errors ranged from approximately −1.9% to +3.9%, showing directional
+variation concealed by the overall summary.
+
+Community-level errors varied across both models. Of 145 communities, 132 had at least 30 validation homes
+and were included in the ranking. The highest community MdAPE was 17.50% in Lindenglen for the off-market
+model (n = 62) and 9.22% in Sycamorehaven for the list-aware model (n = 31). These subgroup estimates
+should be interpreted cautiously, particularly for communities with small samples.
+
+
+
+
+7. Limitations
+The same six months were repeatedly used for model development and selection. Reported scores are
+therefore development-validation results, not performance on an untouched test set, and may be optimistic.
+
+Monthly training cutoffs can include transactions completed after a validation home was listed. Although the
+off-market historical summaries separately enforce listing-date cutoffs, this does not make the entire fitted
+model a listing-day forecast. Strict listing-day evaluation would require a separate backtest.
+
+Subgroup results are descriptive and lack confidence intervals in the current evaluation pipeline. Small
+samples and shared monthly market effects limit their interpretation. Median errors also conceal large
+individual misses: approximately 17.75% of off-market predictions exceeded 20% absolute percentage error,
+compared with 1.32% for list-aware predictions.
+
+Finally, the data and community locations are synthetic. These results do not demonstrate accuracy on real
+Toronto transactions. Future work should prioritize stricter prediction-time evaluation, uncertainty estimates,
+and investigation of expensive homes and other poorly predicted subgroups.
+

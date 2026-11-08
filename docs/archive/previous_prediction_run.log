@@ -1,0 +1,16 @@
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W20261107 16:05:47.467391 45699584 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+W20261107 16:05:47.469271 45699584 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+W20261107 16:05:47.469508 45699584 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+W20261107 16:05:47.469692 45699584 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.sse4_2'. Detail: [errno 1] Operation not permitted
+W20261107 16:05:47.469877 45699584 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx1_0'. Detail: [errno 1] Operation not permitted
+W20261107 16:05:47.470049 45699584 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx2_0'. Detail: [errno 1] Operation not permitted
+W20261107 16:05:47.470221 45699584 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.bmi1'. Detail: [errno 1] Operation not permitted
+W20261107 16:05:47.470428 45699584 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.bmi2'. Detail: [errno 1] Operation not permitted
+W20261107 16:05:47.470611 45699584 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512f'. Detail: [errno 1] Operation not permitted
+W20261107 16:05:47.470808 45699584 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512cd'. Detail: [errno 1] Operation not permitted
+W20261107 16:05:47.470978 45699584 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512dq'. Detail: [errno 1] Operation not permitted
+W20261107 16:05:47.471146 45699584 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512bw'. Detail: [errno 1] Operation not permitted
+W20261107 16:05:47.471314 45699584 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512vl'. Detail: [errno 1] Operation not permitted
+Wrote submissions/submission_off_market.csv (3,974 homes)
+Wrote submissions/submission_list_aware.csv (4,064 homes)

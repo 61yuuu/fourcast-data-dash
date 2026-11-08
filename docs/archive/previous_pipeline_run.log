@@ -1,0 +1,132 @@
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W20261107 16:06:08.991786 22348288 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:08.992534 22348288 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:08.992704 22348288 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:08.992862 22348288 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.sse4_2'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:08.993018 22348288 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx1_0'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:08.993171 22348288 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx2_0'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:08.993322 22348288 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.bmi1'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:08.993479 22348288 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.bmi2'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:08.993631 22348288 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512f'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:08.993784 22348288 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512cd'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:08.993937 22348288 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512dq'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:08.994086 22348288 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512bw'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:08.994237 22348288 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512vl'. Detail: [errno 1] Operation not permitted
+# Validation report
+
+Walk-forward validation, 2025-12 to 2026-05: each month was predicted by models trained only on the sales before it.
+Errors are (predicted - sold) / sold. Brackets: bootstrap 95% interval.
+
+| Track | Homes | MAPE | MdAPE | Median signed error |
+|---|---|---|---|---|
+| off_market | 10,069 | 12.09% (11.87 to 12.32) | 9.53% (9.31 to 9.74) | +0.02% |
+| list_aware | 10,069 | 5.40% (5.32 to 5.50) | 4.32% (4.21 to 4.43) | +0.73% |
+
+MAPE: mean absolute percentage error. MdAPE: median absolute percentage error.
+A median signed error above 0 means the model tends to predict too high.
+The intervals treat homes as independent. Homes sold in the same month share the same
+market swings, so the real uncertainty is somewhat wider.
+
+![Error by price range](../figures/error_by_price_range.png)
+
+Wrote reports/validation_report.md, reports/validation_report.json, reports/results_table.tex and figures/error_by_price_range.png
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W20261107 16:06:13.625880 48562688 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:13.626606 48562688 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:13.626780 48562688 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:13.626940 48562688 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.sse4_2'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:13.627099 48562688 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx1_0'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:13.627254 48562688 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx2_0'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:13.627403 48562688 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.bmi1'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:13.627553 48562688 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.bmi2'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:13.627718 48562688 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512f'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:13.627866 48562688 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512cd'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:13.628017 48562688 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512dq'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:13.628228 48562688 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512bw'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:13.628400 48562688 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512vl'. Detail: [errno 1] Operation not permitted
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W20261107 16:06:16.298300 55689728 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:16.299105 55689728 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:16.299295 55689728 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:16.299477 55689728 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.sse4_2'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:16.299654 55689728 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx1_0'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:16.299826 55689728 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx2_0'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:16.299998 55689728 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.bmi1'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:16.300166 55689728 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.bmi2'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:16.300334 55689728 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512f'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:16.300504 55689728 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512cd'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:16.300671 55689728 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512dq'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:16.300837 55689728 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512bw'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:16.301004 55689728 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512vl'. Detail: [errno 1] Operation not permitted
+             model      track     n  MdAPE_pct  MAPE_pct  median_signed_error_pct  overprediction_pct  error_q25_pct  error_q75_pct  median_sold_price  min_sold_price  max_sold_price
+        current_v3 list_aware 10069   4.321280   5.39864                 0.731284           55.189195       2.016586       7.497231           805300.0        226200.0      17035700.0
+history_text_boost off_market 10069   9.530471  12.09317                 0.024535           50.104280       4.460525      16.744264           805300.0        226200.0      17035700.0
+Wrote results to /Users/gaoyizhi/.codex/.chatgpt-projects/g-p-6ac7f6a6687c8191b0d47afa3ac60a22/integrated_data_dash/reports/diagnostics
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W20261107 16:06:47.856793 85590528 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:47.857803 85590528 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:47.857997 85590528 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:47.858165 85590528 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.sse4_2'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:47.858335 85590528 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx1_0'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:47.858487 85590528 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx2_0'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:47.858645 85590528 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.bmi1'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:47.858799 85590528 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.bmi2'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:47.858952 85590528 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512f'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:47.859105 85590528 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512cd'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:47.859252 85590528 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512dq'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:47.859403 85590528 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512bw'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:47.859549 85590528 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512vl'. Detail: [errno 1] Operation not permitted
+submission_off_market.csv: OK
+submission_list_aware.csv: OK
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W20261107 16:06:50.785504 41017856 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:50.786208 41017856 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:50.786375 41017856 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:50.786532 41017856 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.sse4_2'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:50.786685 41017856 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx1_0'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:50.786835 41017856 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx2_0'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:50.786985 41017856 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.bmi1'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:50.787132 41017856 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.bmi2'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:50.787279 41017856 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512f'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:50.787426 41017856 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512cd'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:50.787572 41017856 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512dq'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:50.787719 41017856 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512bw'. Detail: [errno 1] Operation not permitted
+W20261107 16:06:50.787864 41017856 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512vl'. Detail: [errno 1] Operation not permitted
+submission_off_market.csv: OK
+submission_list_aware.csv: OK
+{
+  "validation": {
+    "off_market": {
+      "model": "history_text_boost",
+      "n": 10069,
+      "mdape_pct": 9.530471362312587,
+      "mape_pct": 12.093169870291803,
+      "reference_mdape_pct": 9.474158786012755,
+      "mdape_change_percentage_points": 0.056312576299832884,
+      "predictions_differing_from_reference": 6540
+    },
+    "list_aware": {
+      "model": "current_v3",
+      "n": 10069,
+      "mdape_pct": 4.321280288592422,
+      "mape_pct": 5.39863959071856,
+      "reference_mdape_pct": 4.321280288592422,
+      "mdape_change_percentage_points": 0.0,
+      "predictions_differing_from_reference": 0
+    }
+  },
+  "submission_check": "passed",
+  "environment": {
+    "stage": "validation",
+    "python": "3.11.5",
+    "pandas": "2.0.3",
+    "numpy": "1.24.3",
+    "scikit_learn": "1.3.0",
+    "models": {
+      "off_market": "history_text_boost",
+      "list_aware": "current_v3"
+    },
+    "protocol": "Monthly sale-month walk-forward; not a listing-day backtest"
+  },
+  "note": "Results are development validation. Dependency versions can change fitted predictions."
+}

@@ -1,0 +1,9 @@
+# Python 3.11 or 3.12 recommended.
+numpy==2.2.6
+pandas==2.3.3
+scikit-learn==1.7.2
+matplotlib==3.10.7
+pyarrow==22.0.0
+huggingface_hub>=0.27,<3
+threadpoolctl>=3.1,<4
+pytest==8.4.2

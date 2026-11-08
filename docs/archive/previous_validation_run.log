@@ -1,0 +1,21 @@
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W20261107 16:01:36.712363 50942464 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.l1dcachesize'. Detail: [errno 1] Operation not permitted
+W20261107 16:01:36.714397 50942464 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.l2cachesize'. Detail: [errno 1] Operation not permitted
+W20261107 16:01:36.714646 50942464 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.l3cachesize'. Detail: [errno 1] Operation not permitted
+W20261107 16:01:36.714835 50942464 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.sse4_2'. Detail: [errno 1] Operation not permitted
+W20261107 16:01:36.715008 50942464 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx1_0'. Detail: [errno 1] Operation not permitted
+W20261107 16:01:36.715188 50942464 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx2_0'. Detail: [errno 1] Operation not permitted
+W20261107 16:01:36.715363 50942464 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.bmi1'. Detail: [errno 1] Operation not permitted
+W20261107 16:01:36.715518 50942464 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.bmi2'. Detail: [errno 1] Operation not permitted
+W20261107 16:01:36.715706 50942464 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512f'. Detail: [errno 1] Operation not permitted
+W20261107 16:01:36.715895 50942464 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512cd'. Detail: [errno 1] Operation not permitted
+W20261107 16:01:36.716074 50942464 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512dq'. Detail: [errno 1] Operation not permitted
+W20261107 16:01:36.716231 50942464 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512bw'. Detail: [errno 1] Operation not permitted
+W20261107 16:01:36.716410 50942464 cpu_info.cc:239] IOError: sysctlbyname failed for 'hw.optional.avx512vl'. Detail: [errno 1] Operation not permitted
+2025-12: trained on 139,931 earlier sales, predicted 1,238 homes
+2026-01: trained on 141,169 earlier sales, predicted 1,058 homes
+2026-02: trained on 142,227 earlier sales, predicted 1,442 homes
+2026-03: trained on 143,669 earlier sales, predicted 1,816 homes
+2026-04: trained on 145,485 earlier sales, predicted 2,224 homes
+2026-05: trained on 147,709 earlier sales, predicted 2,291 homes
+Wrote outputs/validation_predictions.csv
