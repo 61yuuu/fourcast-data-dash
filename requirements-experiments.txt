@@ -1,0 +1,3 @@
+-r requirements.txt
+# Only the historical CatBoost candidate needs this dependency.
+catboost==1.2.10
