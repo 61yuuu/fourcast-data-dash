@@ -1,21 +1,23 @@
-# Data Dash — integrated team code
+# Forecast — SSU Data Dash 2026
 
-四位成员代码的统一运行版本。原附件未修改；所有变更仅在本目录。
+Forecast's integrated code for the Toronto Home-Price Prediction Challenge. The pipeline trains separate off-market and list-aware models, performs monthly walk-forward validation, generates error diagnostics, and writes both submission files.
 
-## 最终确认结果
+## Final verified results
 
-2026-11-07 在团队 Mac 上完成完整流程，49 项测试通过、1 项可选 CatBoost 跳过。两个赛道全部 10,069 条验证预测与原交付相同；提交检查通过。
+The team completed the full pipeline on November 7, 2026, using Python 3.11.5 on macOS. Dependency checks passed; 49 tests passed and one optional CatBoost test was skipped. All 10,069 validation predictions per track matched the corresponding member reference, and both submission checks passed.
 
-| Track | MdAPE | MAPE | Median signed error | Test homes |
+| Track / selected model | Validation MdAPE | Validation MAPE | Median signed error | Test homes |
 |---|---:|---:|---:|---:|
-| off_market / history_text_boost | 9.47% | 12.11% | +0.06% | 3,974 |
-| list_aware / current_v3 | 4.32% | 5.40% | +0.73% | 4,064 |
+| Off-market / `history_text_boost` | 9.47% | 12.11% | +0.06% | 3,974 |
+| List-aware / `current_v3` | 4.32% | 5.40% | +0.73% | 4,064 |
 
-`requirements-final.txt` 保存本次完整软件包版本；`requirements.txt` 也转向这份文件。`requirements-tested.txt` 仅保留早期精简环境记录，不作为最终安装入口。
+These are development-validation results for December 2025 through May 2026, not hidden-test scores. Positive signed errors indicate overprediction.
 
-## 最快开始
+`requirements-final.txt` records the full package versions from the verified run. `requirements.txt` includes that file. `requirements-tested.txt` is an earlier minimal environment record, not the final installation entry point.
 
-最终复现环境为 Python 3.11.5。在本目录打开终端：
+## Quick start
+
+Use **Python 3.11.5**. Run the following commands from the repository root:
 
 ```bash
 python3.11 -m venv .venv
@@ -30,34 +32,39 @@ python run.py check
 python verify_delivery.py
 ```
 
-Windows 激活方式为 `.venv\Scripts\activate`。首次运行默认由 Hugging Face 下载官方 synthetic 数据；已有文件时设置 `DATA_DIR` 为包含 `listings.parquet`、`test_off_market.parquet`、`test_list_aware.parquet` 的目录（也支持 CSV），然后运行相同命令。原始数据不包含在 ZIP 中。
+On Windows, activate the environment with `.venv\Scripts\activate`. If `python3.11` is unavailable, use the command pointing to your Python 3.11.5 installation.
 
-## 选中模型与分工
+The first run downloads the official synthetic dataset from [Hugging Face](https://huggingface.co/datasets/Baliyang/SSU_data_dash). Alternatively, set `DATA_DIR` to a directory containing `listings.parquet`, `test_off_market.parquet`, and `test_list_aware.parquet`; CSV inputs are also supported. Raw data are not included in this repository package.
 
-| 成员 | 代码 | 最终用途 |
+## Selected models and team contributions
+
+| Contribution | Main files | Final use |
 |---|---|---|
-| Member 1 | `notebooks/eda.ipynb`、`member1_features.py`、`check_member1_features.py` | EDA、清洗、面积/房屋/历史成交特征 |
-| Member 2 | `off_market_model.py`、`experiment_off_market.py` | off-market 最终 `history_text_boost`，70 项特征，log price HGB |
-| Member 3 | `list_aware_feature_models.py`、`list_aware_member1_model.py`、`list_aware_models.py`、实验脚本 | list-aware 最终 `current_v3`，25 项特征，sold/list ratio HGB |
-| Member 4 | `evaluation.py` | 两轨预测校验、价格/房型/月份/社区误差分析 |
-| 团队入口 | `models.py`、`run.py`、`data.py`、`check_submission.py` | 统一验证、报告、预测、检查 |
+| Member 1 | `notebooks/eda.ipynb`, `member1_features.py`, `check_member1_features.py` | EDA, data cleaning, property/area features, historical sales summaries |
+| Member 2 | `off_market_model.py`, `experiment_off_market.py` | `history_text_boost`: 70 features; histogram gradient boosting on log sale price |
+| Member 3 | `list_aware_feature_models.py`, `list_aware_member1_model.py`, `list_aware_models.py`, experiment scripts | `current_v3`: 25 features; histogram gradient boosting on the sale-to-list price ratio |
+| Member 4 | `evaluation.py` | Prediction checks and error analysis by price, property type, month, and community |
+| Shared pipeline | `models.py`, `run.py`, `data.py`, `check_submission.py` | Validation, reporting, prediction, and submission checks |
 
-`features.py` 保持 starter 接口，用于复现 Member 3 已选中的输入；Member 1 增强特征在独立 `member1_features.py`。不要直接用原始 Member 1 features.py 覆盖它。`selected_off_market.json` 已固定选中方案，日常运行不需要先重跑所有实验。
+`features.py` retains the starter interface used by the selected list-aware model. Member 1's enhanced features are isolated in `member1_features.py`; do not overwrite the shared `features.py` with the original Member 1 version. `selected_off_market.json` fixes the selected off-market candidate, so reproducing the final pipeline does not require rerunning every experiment.
 
-## 输出
+## Outputs
 
-- `outputs/validation_predictions.csv`：两轨逐条验证预测，含 model、community，可直接给 Member 4 分析。
-- `outputs/validation_metadata.json`、`prediction_metadata.json`：实际 Python/包版本和模型信息。
-- `reports/validation_report.md/json`、`results_table.tex`、`figures/error_by_price_range.png`：团队整体评估。
-- `reports/diagnostics/`：Member 4 分组结果表、三张图和文字分析。
-- `submissions/submission_off_market.csv`、`submission_list_aware.csv`：最终两轨预测。
-- `reference_results/member2/`、`member3/`、`member4/`：原交付的结果快照，供核对，重跑不会覆盖它们。
-- `docs/`：成员报告素材、整合说明和本次执行结果。
-- `reference/member1_original/features.py`：只读参考用途的原版备份，有已知历史缩进问题，不参与模型导入。
+- `outputs/validation_predictions.csv`: individual validation predictions for both tracks, including model labels and community identifiers.
+- `outputs/validation_metadata.json` and `outputs/prediction_metadata.json`: Python/package versions and model information for the recorded runs.
+- `reports/validation_report.md`, `reports/validation_report.json`, `reports/results_table.tex`, and `figures/error_by_price_range.png`: aggregate validation results and report materials.
+- `reports/diagnostics/`: subgroup tables, three diagnostic figures, community summaries, and interpretation notes.
+- `submissions/submission_off_market.csv`: 3,974 off-market predictions.
+- `submissions/submission_list_aware.csv`: 4,064 list-aware predictions.
+- `reference_results/member2/`, `reference_results/member3/`, and `reference_results/member4/`: original member result snapshots, retained for comparison.
+- `docs/`: member report materials, integration notes, and run-verification records.
+- `reference/member1_original/features.py`: the original Member 1 reference implementation, containing a known historical-feature indentation issue. This reference file is not imported by the final models.
 
-本目录中的 reports/submissions 会被相应命令重新生成；原始团队交付结果保留在 reference_results。代码、预测与实际环境是否复现原始成绩，见 `docs/INTEGRATION.md`。
+The pipeline regenerates files under `reports/` and `submissions/`. Original member outputs remain under `reference_results/`. See `docs/INTEGRATION.md` and `docs/run_verification.json` for the final reproduction record.
 
-## 重跑候选实验（可选）
+## Optional candidate experiments
+
+These commands are for investigating model alternatives, not for reproducing the fixed final models:
 
 ```bash
 python experiment_off_market.py
@@ -66,29 +73,37 @@ python experiment_list_aware_features.py
 python experiment_list_aware_member1.py
 ```
 
-以上输出分别到 `experiments/off_market/`、`experiments/list_aware_v3/`、`experiments/list_aware_v4/`；off-market 实验会更新 `selected_off_market.json`，之后须重新 validate/predict/report/evaluate。off-market 实验要求显式设置 DATA_DIR，并使用 `reference/starter_validation_predictions.csv` 作为已审计 baseline。
+Outputs are written under `experiments/off_market/`, `experiments/list_aware_v3/`, and `experiments/list_aware_v4/`. The off-market experiment updates `selected_off_market.json`; rerun validation, reporting, evaluation, and prediction after changing the selected candidate. This experiment requires an explicit `DATA_DIR` and uses the audited baseline predictions in `reference/starter_validation_predictions.csv`.
 
-最早的全算法比较包含可选 CatBoost：
+The earliest algorithm comparison includes optional CatBoost:
 
 ```bash
 python -m pip install -r requirements-experiments.txt
 python experiment_list_aware.py
 ```
 
-结果到 `experiments/list_aware_v2/`。未安装 CatBoost 时只跳过对应可选测试；两个最终模型不依赖 CatBoost。`compare_list_aware.py` 仅供最早 FeatureModel 比较参考，当前选中模型下不应运行。R baseline 和 quickstart notebook 是 starter 教学材料，不是最终模型入口。
+Its outputs are stored under `experiments/list_aware_v2/`. Neither final model requires CatBoost. Without it, the corresponding optional test is skipped. `compare_list_aware.py` is an earlier FeatureModel comparison and should not be used with the currently selected model. The R baseline and quickstart notebook are starter teaching materials rather than final model entry points.
 
-## EDA
+## Exploratory data analysis
 
-从本目录启动 Jupyter，再打开 `notebooks/eda.ipynb`，使 working directory 能找到 data.py。Notebook 保留原分析及保存输出，整合时未重新执行；它不会自动重训练最终模型。
+Start Jupyter from the repository root and open `notebooks/eda.ipynb`, keeping the working directory at the root so that `data.py` can be imported. The notebook preserves the analysis and saved outputs; it was not rerun during final integration and does not automatically retrain the selected models.
 
-## 解释边界与提交
+## Validation scope and limitations
 
-验证采用 December 2025–May 2026 的 monthly sale-month walk-forward，而非严格 listing-day backtest。同一期间参与过开发与选模，因此是 development validation；不能当作 untouched test 或保证 hidden-test 表现。没有加入外部真实房产记录或 AVM。
+Validation uses monthly sale-month walk-forward evaluation from December 2025 through May 2026, not a strict listing-day backtest. These months were reused for development and model selection, so the reported scores are not independent test estimates and do not guarantee hidden-test performance.
 
-`report/report.tex` 仍是待团队填写的模板；`docs/` 为素材。最终 PDF、全员姓名、视频、GitHub 链接及其权限需要团队另行完成。本次交付范围是代码整合和运行验证，没有发布 repository 或发送任何材料。
+The aggregate bootstrap intervals resample individual homes as independent observations. They do not account for shared monthly effects or model-selection uncertainty. Subgroup tables do not provide confidence intervals. All data and community locations are synthetic; validation results do not establish accuracy on real Toronto transactions. No external real-property records or third-party AVMs were added to the prediction inputs.
 
-## 最终版本与归档
+## Report and submission materials
 
-以 outputs/、reports/、figures/、submissions/ 和 docs/run_verification.json 为当前结果。docs/archive/ 保存旧环境说明、旧运行日志和旧校验清单，其中的 9.53% 是先前运行的历史记录，不是当前提交成绩。reference_results/ 保留成员实验记录。
+The competition submission consists of a PDF report linking to a video and a GitHub repository containing the code and both prediction CSVs. `report/report.tex` is the starter report template; the material under `docs/` supports the final write-up. The submitted PDF should include all team members' full names and the final video and repository links.
 
-Python 模型与评估源码、预测 CSV 和已生成图表在本次整理中均未修改、未重训练。只更新环境入口、说明和文件校验清单。锁定包版本并不保证不同操作系统/底层计算库下逐位相同；最终环境记录和保存的输出一起提供复现依据。
+## Final artifacts and archives
+
+Use `outputs/`, `reports/`, `figures/`, `submissions/`, and `docs/run_verification.json` as the current results. `docs/archive/` retains older environment notes, run logs, and checksums. In particular, the archived **9.53%** off-market score belongs to an earlier run; the final verified score is **9.47%**. `reference_results/` preserves member experiment records.
+
+The final packaging preserved the model/evaluation source, prediction CSVs, and diagnostic figures. Pinned versions improve reproducibility, but different operating systems and numerical libraries may still produce small differences. Environment records and saved outputs provide the reference for comparison.
+
+## Starter code and data
+
+This project builds on the [official SSU Data Dash starter repository](https://github.com/erwinzhang7/SSU-Data-Dash) and its supplied synthetic data. See `LICENSE` for the code license.
