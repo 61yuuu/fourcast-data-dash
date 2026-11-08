@@ -1,0 +1,55 @@
+{
+  "validation_months": [
+    "2025-12",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05"
+  ],
+  "candidates": [
+    "starter_boost",
+    "member1_boost",
+    "history_boost",
+    "history_text_boost",
+    "extra_trees"
+  ],
+  "python": "3.13.1",
+  "random_seed": 0,
+  "data_sha256": {
+    "listings.csv": "64c780c97e395e20c9c5fb93ceb50fe0c1ff94604b2f8fc5f173f998c5b96ecb",
+    "test_off_market.csv": "5840818b2045bcfc4eaaf8eb6b1fe9c1f2f45616e9698b573304799d140dbe58"
+  },
+  "source_sha256": {
+    "check_submission.py": "f61e4a820a4e0436f83825bc622db1d4aa72ade0de92f00db193b9ff5061f87f",
+    "data.py": "ccb691af73e97e97f34e5a2dabcf935dd89d96206d8e73d0b82294a2b3445fa2",
+    "experiment_off_market.py": "1816530647c36ea5c4d23ec81629d15bb4d1da99190addbec0a0177bf169a138",
+    "features.py": "ad586572affa1f4146f15c5ec68643fa015421ee3d38dde043a416a208d9bbde",
+    "list_aware_feature_models.py": "dcd4ef8f6143c3f78b4a1ece2586ec33417169f48ba3c4a1ac051f8580bf2cbd",
+    "member1_features.py": "f2a03ae73032ed2374370571bb45ead932aeb46c25261ca3750dca23521bf401",
+    "models.py": "d47b2a6dc4df83d5aaadfb41ca06b67df5cb7395b77806bbf49f34f9d156b583",
+    "off_market_model.py": "b252c15d8c324798729994237851eb9341c9c968b0a8cc1233798de08eaf048e",
+    "run.py": "bf87fd2967ff6422de14cb950bcc8bf4221178225e0111c336bcaed08a70b70f",
+    "starter_models.py": "d8f853acf5e24c08af7e8834261989237ce50dc8f2ee0d4c18f41e697a37bd7f"
+  },
+  "text_patterns": {
+    "renovated": "renovat|fully redone|remodel|updated|upgraded|modern finish",
+    "needs_work": "needs? work|fixer|handyman|as.is|tlc|original condition|renovation opportunity",
+    "new_kitchen": "new kitchen|updated kitchen|renovated kitchen|quartz|granite|stainless",
+    "new_floor": "new.*floor|hardwood|refinished|newer flooring",
+    "finished_basement": "finished basement|finished lower level|basement apartment",
+    "unfinished_basement": "unfinished basement|unfinished lower",
+    "separate_entry": "separate entrance|separate entry|in.law|income potential",
+    "view": "unobstructed|panoramic|skyline|lake view|ravine view",
+    "outdoor": "balcony|terrace|patio|backyard|back yard|garden",
+    "pool": "\\bpool\\b",
+    "corner": "corner|end.unit",
+    "parking": "parking|garage|driveway",
+    "transit": "subway|transit|commut|\\bttc\\b|go station",
+    "amenities": "gym|concierge|amenities|fitness",
+    "premium": "luxury|luxurious|premium|custom.built|high.end",
+    "move_in": "turnkey|turn.key|move.in.ready|nothing to do|unpack"
+  },
+  "baseline": "Imported and audited starter predictions; not rerun",
+  "protocol": "Train on date_sold before validation sale month; history windows end strictly before each date_listed"
+}

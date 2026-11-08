@@ -1,0 +1,2225 @@
+ml_num,month,house_type_name,community,sold_price,predicted_price,model
+SYN-0115062,2026-04,Detached,Cypressheights,1398500.0,1895047.0,extra_trees
+SYN-0150625,2026-04,Detached,Maplemills,2689100.0,2170882.0,extra_trees
+SYN-0017516,2026-04,Detached,Cedarwood,1686000.0,1555814.0,extra_trees
+SYN-0096632,2026-04,Detached,Sumacvale,1271900.0,2076578.0,extra_trees
+SYN-0145249,2026-04,Condo Apt,Chestnutvale,594300.0,644602.0,extra_trees
+SYN-0099815,2026-04,Freehold Townhouse,Rowanbank,1414400.0,1150381.0,extra_trees
+SYN-0111533,2026-04,Freehold Townhouse,Cypressbrook,864200.0,1012422.0,extra_trees
+SYN-0045396,2026-04,Detached,Lindendale,3274600.0,3708581.0,extra_trees
+SYN-0063625,2026-04,Condo Apt,Elmmills,378400.0,467829.0,extra_trees
+SYN-0099586,2026-04,Condo Apt,Chestnutglen,768100.0,826214.0,extra_trees
+SYN-0035091,2026-04,Detached,Hawthorncliffe,965900.0,923517.0,extra_trees
+SYN-0049883,2026-04,Condo Apt,Aspenworth,541200.0,587146.0,extra_trees
+SYN-0105443,2026-04,Semi-Detached,Magnoliaworth,1000000.0,1044390.0,extra_trees
+SYN-0040320,2026-04,Semi-Detached,Hickoryvale,1194100.0,1166497.0,extra_trees
+SYN-0077411,2026-04,Semi-Detached,Hemlockvale,1638600.0,1187081.0,extra_trees
+SYN-0061374,2026-04,Detached,Walnuthollow,1759700.0,2112483.0,extra_trees
+SYN-0033958,2026-04,Condo Apt,Chestnutbank,283800.0,406922.0,extra_trees
+SYN-0145723,2026-04,Condo Apt,Elmgardens,541200.0,571076.0,extra_trees
+SYN-0039116,2026-04,Condo Apt,Rowangardens,913700.0,756146.0,extra_trees
+SYN-0094871,2026-04,Condo Apt,Elmview,791700.0,880619.0,extra_trees
+SYN-0076464,2026-04,Condo Apt,Spruceview,636400.0,656394.0,extra_trees
+SYN-0141775,2026-04,Detached,Hickorymills,2191900.0,1161353.0,extra_trees
+SYN-0022646,2026-04,Condo Apt,Spruceview,382900.0,416537.0,extra_trees
+SYN-0007358,2026-04,Detached,Lindendale,5876800.0,4889312.0,extra_trees
+SYN-0139454,2026-04,Condo Apt,Hickoryhaven,481700.0,538094.0,extra_trees
+SYN-0094145,2026-04,Condo Townhouse,Elmmills,578500.0,609413.0,extra_trees
+SYN-0153089,2026-04,Detached,Cedarbank,868900.0,1172367.0,extra_trees
+SYN-0049591,2026-04,Detached,Lindenmills,1226500.0,1313493.0,extra_trees
+SYN-0118872,2026-04,Condo Apt,Sumacwood,374900.0,448077.0,extra_trees
+SYN-0029183,2026-04,Semi-Detached,Sumaccrest,1859600.0,1590594.0,extra_trees
+SYN-0128466,2026-04,Detached,Maplevale,2080600.0,1891644.0,extra_trees
+SYN-0014878,2026-04,Detached,Willowglen,726100.0,975574.0,extra_trees
+SYN-0138707,2026-04,Semi-Detached,Junipergardens,1178000.0,1107682.0,extra_trees
+SYN-0081047,2026-04,Condo Apt,Beechglen,669300.0,893344.0,extra_trees
+SYN-0031389,2026-04,Detached,Aspenwood,1775800.0,1627757.0,extra_trees
+SYN-0093108,2026-04,Detached,Dogwoodglen,450000.0,824860.0,extra_trees
+SYN-0009530,2026-04,Co-Op Apt,Sumacglen,383900.0,574531.0,extra_trees
+SYN-0096997,2026-04,Condo Apt,Cypresspark,683900.0,692796.0,extra_trees
+SYN-0006981,2026-04,Condo Apt,Mulberryhaven,605700.0,528266.0,extra_trees
+SYN-0094908,2026-04,Detached,Cedarbank,1207600.0,1592939.0,extra_trees
+SYN-0027811,2026-04,Detached,Sumacwood,1139900.0,1497450.0,extra_trees
+SYN-0045441,2026-04,Condo Apt,Chestnutbank,375600.0,377020.0,extra_trees
+SYN-0104302,2026-04,Detached,Cedarwood,1025400.0,908257.0,extra_trees
+SYN-0133927,2026-04,Semi-Detached,Hickoryvale,1013800.0,1029524.0,extra_trees
+SYN-0090190,2026-04,Detached,Pineridge,759400.0,1000763.0,extra_trees
+SYN-0051845,2026-04,Semi-Detached,Birchhollow,1033800.0,1028019.0,extra_trees
+SYN-0044195,2026-04,Condo Apt,Hickoryhaven,550100.0,613474.0,extra_trees
+SYN-0003202,2026-04,Condo Apt,Willowglen,613500.0,611293.0,extra_trees
+SYN-0064877,2026-04,Condo Apt,Cedarview,585100.0,476022.0,extra_trees
+SYN-0087388,2026-04,Condo Apt,Chestnutbank,378800.0,484624.0,extra_trees
+SYN-0022694,2026-04,Detached,Pineridge,1276700.0,1309756.0,extra_trees
+SYN-0087629,2026-04,Condo Apt,Oakbourne,473500.0,419409.0,extra_trees
+SYN-0026795,2026-04,Condo Apt,Elmview,492600.0,632275.0,extra_trees
+SYN-0117038,2026-04,Detached,Maplebourne,1554000.0,1504381.0,extra_trees
+SYN-0012352,2026-04,Condo Apt,Sumacworth,489300.0,554858.0,extra_trees
+SYN-0064461,2026-04,Detached,Cedarbank,884700.0,1291279.0,extra_trees
+SYN-0049140,2026-04,Semi-Detached,Chestnutgrove,738000.0,1071466.0,extra_trees
+SYN-0107314,2026-04,Condo Apt,Magnoliaview,283200.0,354419.0,extra_trees
+SYN-0010286,2026-04,Condo Apt,Aspenworth,447000.0,510198.0,extra_trees
+SYN-0140685,2026-04,Co-Op Apt,Elmbrook,725300.0,699830.0,extra_trees
+SYN-0024676,2026-04,Detached,Birchbrook,8994400.0,5222218.0,extra_trees
+SYN-0108908,2026-04,Detached,Birchheights,1008500.0,955615.0,extra_trees
+SYN-0154510,2026-04,Co-Op Apt,Sumacbank,531000.0,658795.0,extra_trees
+SYN-0064996,2026-04,Detached,Sumacworth,1732400.0,1282010.0,extra_trees
+SYN-0117167,2026-04,Detached,Maplemills,2950300.0,4528461.0,extra_trees
+SYN-0000759,2026-04,Detached,Rowanbank,1136000.0,1142559.0,extra_trees
+SYN-0019621,2026-04,Detached,Pinevale,1126100.0,1432793.0,extra_trees
+SYN-0080925,2026-04,Detached,Lindendale,3871400.0,5040337.0,extra_trees
+SYN-0014653,2026-04,Condo Apt,Birchheights,456400.0,470935.0,extra_trees
+SYN-0094546,2026-04,Freehold Townhouse,Rowanhollow,1694200.0,1987256.0,extra_trees
+SYN-0028692,2026-04,Condo Apt,Magnoliaview,606600.0,510811.0,extra_trees
+SYN-0004360,2026-04,Semi-Detached,Cypressbrook,1311600.0,1239737.0,extra_trees
+SYN-0113501,2026-04,Freehold Townhouse,Junipergardens,1187200.0,1149566.0,extra_trees
+SYN-0134319,2026-04,Condo Townhouse,Maplebank,415400.0,546763.0,extra_trees
+SYN-0056874,2026-04,Condo Apt,Sumacbank,659200.0,793665.0,extra_trees
+SYN-0094434,2026-04,Detached,Elmbourne,1272000.0,930595.0,extra_trees
+SYN-0075454,2026-04,Detached,Elmpark,1172600.0,1104600.0,extra_trees
+SYN-0058983,2026-04,Detached,Hemlockvale,1659300.0,1441969.0,extra_trees
+SYN-0087816,2026-04,Condo Townhouse,Magnoliacrest,1441100.0,1016060.0,extra_trees
+SYN-0085777,2026-04,Condo Apt,Junipergardens,537000.0,537143.0,extra_trees
+SYN-0146356,2026-04,Condo Apt,Cedarview,316600.0,339187.0,extra_trees
+SYN-0025241,2026-04,Condo Townhouse,Sequoiaview,639700.0,855150.0,extra_trees
+SYN-0024621,2026-04,Condo Apt,Ashbank,639500.0,688558.0,extra_trees
+SYN-0149003,2026-04,Condo Apt,Sequoiaview,353300.0,411838.0,extra_trees
+SYN-0034107,2026-04,Condo Townhouse,Mulberryvale,564900.0,759554.0,extra_trees
+SYN-0085920,2026-04,Condo Apt,Sumacbank,680100.0,616954.0,extra_trees
+SYN-0101172,2026-04,Condo Townhouse,Aspenworth,609400.0,682265.0,extra_trees
+SYN-0133932,2026-04,Detached,Lindencrest,893700.0,1063156.0,extra_trees
+SYN-0149622,2026-04,Condo Apt,Sumacworth,510800.0,460510.0,extra_trees
+SYN-0026034,2026-04,Detached,Beechbourne,1509900.0,1498841.0,extra_trees
+SYN-0005304,2026-04,Condo Apt,Sumacpark,479700.0,494068.0,extra_trees
+SYN-0132394,2026-04,Detached,Cypressglen,1528900.0,1983196.0,extra_trees
+SYN-0021977,2026-04,Semi-Detached,Maplebourne,1261400.0,1213289.0,extra_trees
+SYN-0104140,2026-04,Detached,Walnuthollow,1185100.0,1293516.0,extra_trees
+SYN-0153179,2026-04,Detached,Hickoryvale,1323100.0,1206093.0,extra_trees
+SYN-0059242,2026-04,Condo Apt,Mulberryvale,748900.0,748608.0,extra_trees
+SYN-0130135,2026-04,Detached,Hemlockhollow,1219700.0,988939.0,extra_trees
+SYN-0154351,2026-04,Condo Apt,Lindendale,721600.0,640445.0,extra_trees
+SYN-0109909,2026-04,Condo Apt,Mapleview,477200.0,566784.0,extra_trees
+SYN-0104454,2026-04,Condo Apt,Elmview,1014800.0,1067838.0,extra_trees
+SYN-0030550,2026-04,Condo Apt,Rowanbrook,1148800.0,784242.0,extra_trees
+SYN-0150017,2026-04,Detached,Chestnutbrook,1073600.0,1252917.0,extra_trees
+SYN-0046608,2026-04,Condo Apt,Hickorybourne,488600.0,492371.0,extra_trees
+SYN-0055923,2026-04,Detached,Rowangrove,5079500.0,2692212.0,extra_trees
+SYN-0119875,2026-04,Condo Apt,Magnoliaworth,1064500.0,918466.0,extra_trees
+SYN-0053745,2026-04,Detached,Sycamoreview,960700.0,1227527.0,extra_trees
+SYN-0090276,2026-04,Condo Apt,Ashworth,665800.0,563671.0,extra_trees
+SYN-0028574,2026-04,Detached,Sumacdale,1639600.0,1325854.0,extra_trees
+SYN-0043763,2026-04,Semi-Detached,Oakview,1251400.0,1033034.0,extra_trees
+SYN-0045896,2026-04,Detached,Magnoliavale,525500.0,817353.0,extra_trees
+SYN-0120517,2026-04,Condo Apt,Ashworth,539100.0,587416.0,extra_trees
+SYN-0043934,2026-04,Condo Apt,Hickorybourne,555400.0,713277.0,extra_trees
+SYN-0114433,2026-04,Condo Apt,Spruceview,542300.0,545017.0,extra_trees
+SYN-0055497,2026-04,Condo Apt,Tamarackmills,725000.0,868526.0,extra_trees
+SYN-0083873,2026-04,Detached,Hickoryglen,1031700.0,1409766.0,extra_trees
+SYN-0090347,2026-04,Condo Apt,Beechglen,924100.0,1004030.0,extra_trees
+SYN-0009624,2026-04,Detached,Beechbourne,1414000.0,1668195.0,extra_trees
+SYN-0007570,2026-04,Condo Townhouse,Lindendale,848500.0,804079.0,extra_trees
+SYN-0084454,2026-04,Freehold Townhouse,Cedarwood,925300.0,1153932.0,extra_trees
+SYN-0104021,2026-04,Condo Apt,Cedarglen,425100.0,437504.0,extra_trees
+SYN-0044804,2026-04,Condo Apt,Larchview,516000.0,566646.0,extra_trees
+SYN-0033888,2026-04,Condo Townhouse,Sumacdale,708000.0,677635.0,extra_trees
+SYN-0006436,2026-04,Detached,Cypressheights,1810300.0,2544569.0,extra_trees
+SYN-0107018,2026-04,Condo Apt,Walnutfield,1086100.0,1271480.0,extra_trees
+SYN-0131486,2026-04,Condo Apt,Hickoryhaven,1284600.0,1020615.0,extra_trees
+SYN-0042282,2026-04,Condo Apt,Alderworth,677700.0,728119.0,extra_trees
+SYN-0008473,2026-04,Detached,Beechcrest,3397300.0,3310903.0,extra_trees
+SYN-0011991,2026-04,Detached,Maplebourne,973500.0,1032905.0,extra_trees
+SYN-0157260,2026-04,Detached,Hazelbourne,1079100.0,963810.0,extra_trees
+SYN-0128560,2026-04,Detached,Willowglen,1433300.0,1068102.0,extra_trees
+SYN-0033795,2026-04,Condo Townhouse,Sprucehaven,654500.0,664910.0,extra_trees
+SYN-0108279,2026-04,Condo Townhouse,Pineridge,597000.0,883584.0,extra_trees
+SYN-0127791,2026-04,Condo Apt,Walnutfield,1271500.0,1080457.0,extra_trees
+SYN-0154826,2026-04,Detached,Pineridge,840500.0,997878.0,extra_trees
+SYN-0046918,2026-04,Detached,Beechglen,4778200.0,4979573.0,extra_trees
+SYN-0112620,2026-04,Detached,Willowpark,4989400.0,6486536.0,extra_trees
+SYN-0067535,2026-04,Condo Apt,Elmgardens,968300.0,1045754.0,extra_trees
+SYN-0113772,2026-04,Detached,Chestnutglen,1112300.0,1150362.0,extra_trees
+SYN-0138054,2026-04,Detached,Maplegrove,2027500.0,1865956.0,extra_trees
+SYN-0129139,2026-04,Condo Townhouse,Sumacdale,888800.0,878053.0,extra_trees
+SYN-0145930,2026-04,Condo Apt,Juniperpark,408200.0,502638.0,extra_trees
+SYN-0085085,2026-04,Condo Apt,Juniperheights,1224700.0,713218.0,extra_trees
+SYN-0145328,2026-04,Detached,Maplevale,2350400.0,2451869.0,extra_trees
+SYN-0118101,2026-04,Condo Apt,Chestnutbank,383800.0,399519.0,extra_trees
+SYN-0151400,2026-04,Detached,Walnutpark,2477700.0,2384597.0,extra_trees
+SYN-0008795,2026-04,Condo Apt,Pineridge,413900.0,480190.0,extra_trees
+SYN-0118644,2026-04,Condo Apt,Sequoiafield,400900.0,465455.0,extra_trees
+SYN-0120225,2026-04,Condo Apt,Balsamgrove,552500.0,507878.0,extra_trees
+SYN-0005428,2026-04,Condo Apt,Sumacwood,555700.0,453280.0,extra_trees
+SYN-0079686,2026-04,Detached,Elmbourne,791000.0,874619.0,extra_trees
+SYN-0090819,2026-04,Detached,Birchhollow,1318500.0,1029073.0,extra_trees
+SYN-0149212,2026-04,Condo Apt,Hickoryglen,424200.0,551249.0,extra_trees
+SYN-0027742,2026-04,Condo Apt,Mulberryhaven,570400.0,527484.0,extra_trees
+SYN-0035619,2026-04,Freehold Townhouse,Willowglen,883900.0,959024.0,extra_trees
+SYN-0077754,2026-04,Condo Townhouse,Birchhollow,769300.0,647766.0,extra_trees
+SYN-0002617,2026-04,Condo Apt,Sumacwood,330200.0,365918.0,extra_trees
+SYN-0047148,2026-04,Detached,Maplevale,1561400.0,1755096.0,extra_trees
+SYN-0083424,2026-04,Condo Apt,Hickorybourne,463800.0,526057.0,extra_trees
+SYN-0094520,2026-04,Condo Apt,Sumacbank,634900.0,524426.0,extra_trees
+SYN-0060019,2026-04,Condo Apt,Hickoryhaven,516300.0,482739.0,extra_trees
+SYN-0025767,2026-04,Freehold Townhouse,Elmbrook,1006200.0,1384090.0,extra_trees
+SYN-0036003,2026-04,Condo Townhouse,Spruceview,741300.0,733628.0,extra_trees
+SYN-0052670,2026-04,Condo Apt,Rowanbrook,599900.0,545589.0,extra_trees
+SYN-0022082,2026-04,Condo Apt,Elmbrook,545800.0,514598.0,extra_trees
+SYN-0026306,2026-04,Condo Apt,Dogwoodmills,357300.0,576033.0,extra_trees
+SYN-0034506,2026-04,Detached,Pinevale,1193200.0,1132646.0,extra_trees
+SYN-0037870,2026-04,Semi-Detached,Ashbank,845600.0,904992.0,extra_trees
+SYN-0007253,2026-04,Detached,Hickoryridge,1715900.0,1896987.0,extra_trees
+SYN-0100365,2026-04,Semi-Detached,Elmgardens,1278400.0,1307599.0,extra_trees
+SYN-0046620,2026-04,Condo Townhouse,Cedarglen,563600.0,690302.0,extra_trees
+SYN-0064874,2026-04,Condo Apt,Elmview,845600.0,692141.0,extra_trees
+SYN-0045279,2026-04,Condo Apt,Cypresspark,1302500.0,1021962.0,extra_trees
+SYN-0074989,2026-04,Condo Townhouse,Cedarheights,1108200.0,1242095.0,extra_trees
+SYN-0045476,2026-04,Condo Apt,Oakbourne,357900.0,408792.0,extra_trees
+SYN-0004802,2026-04,Condo Townhouse,Elmview,918900.0,1036511.0,extra_trees
+SYN-0091129,2026-04,Detached,Cedarwood,1264900.0,1007733.0,extra_trees
+SYN-0118177,2026-04,Condo Apt,Poplarcrest,510200.0,537397.0,extra_trees
+SYN-0057962,2026-04,Semi-Detached,Hawthornbourne,1326800.0,1870751.0,extra_trees
+SYN-0036015,2026-04,Detached,Rowanbank,969600.0,835939.0,extra_trees
+SYN-0134957,2026-04,Condo Apt,Rowangrove,866300.0,1251713.0,extra_trees
+SYN-0038112,2026-04,Semi-Detached,Cedarwood,939500.0,1094954.0,extra_trees
+SYN-0061133,2026-04,Detached,Maplebrook,1521900.0,2491980.0,extra_trees
+SYN-0150840,2026-04,Detached,Sequoiaview,1067200.0,1205919.0,extra_trees
+SYN-0063420,2026-04,Detached,Balsamgrove,2514400.0,2482045.0,extra_trees
+SYN-0085703,2026-04,Condo Apt,Cypresspark,528300.0,542971.0,extra_trees
+SYN-0010139,2026-04,Condo Apt,Beechglen,1137300.0,1004030.0,extra_trees
+SYN-0136687,2026-04,Condo Apt,Balsamgrove,544300.0,603141.0,extra_trees
+SYN-0016135,2026-04,Condo Townhouse,Chestnutview,548900.0,606451.0,extra_trees
+SYN-0125599,2026-04,Semi-Detached,Hawthornbourne,1843800.0,1447745.0,extra_trees
+SYN-0132926,2026-04,Detached,Lindenmills,1734100.0,1616015.0,extra_trees
+SYN-0114858,2026-04,Condo Apt,Lindenridge,525700.0,642639.0,extra_trees
+SYN-0017988,2026-04,Semi-Detached,Beechglen,2170300.0,1517830.0,extra_trees
+SYN-0124115,2026-04,Condo Townhouse,Poplarcrest,809100.0,1168666.0,extra_trees
+SYN-0094653,2026-04,Condo Apt,Hickoryhaven,894700.0,755447.0,extra_trees
+SYN-0001951,2026-04,Condo Apt,Dogwoodmills,365600.0,569347.0,extra_trees
+SYN-0136090,2026-04,Semi-Detached,Willowglen,992400.0,1006232.0,extra_trees
+SYN-0046989,2026-04,Condo Apt,Rowanbrook,1355400.0,1223738.0,extra_trees
+SYN-0075521,2026-04,Detached,Chestnutbourne,1137000.0,1321026.0,extra_trees
+SYN-0033418,2026-04,Condo Apt,Willowglen,1174300.0,851583.0,extra_trees
+SYN-0153216,2026-04,Detached,Aspenwood,1174400.0,1205082.0,extra_trees
+SYN-0052111,2026-04,Detached,Cedarbank,1552000.0,2182846.0,extra_trees
+SYN-0141810,2026-04,Condo Apt,Maplebank,543100.0,522542.0,extra_trees
+SYN-0140153,2026-04,Freehold Townhouse,Maplegrove,1232500.0,1026142.0,extra_trees
+SYN-0153260,2026-04,Semi-Detached,Birchgrove,1271700.0,1107746.0,extra_trees
+SYN-0009052,2026-04,Condo Townhouse,Walnutfield,632400.0,774851.0,extra_trees
+SYN-0022185,2026-04,Condo Apt,Oakbourne,416400.0,442992.0,extra_trees
+SYN-0121804,2026-04,Condo Apt,Hickoryhaven,623500.0,793886.0,extra_trees
+SYN-0032894,2026-04,Detached,Walnuthollow,1765300.0,1926363.0,extra_trees
+SYN-0148652,2026-04,Condo Apt,Chestnutglen,682800.0,934480.0,extra_trees
+SYN-0061822,2026-04,Semi-Detached,Willowglen,1228200.0,1059371.0,extra_trees
+SYN-0121205,2026-04,Condo Apt,Ashbank,544800.0,543619.0,extra_trees
+SYN-0091041,2026-04,Detached,Alderworth,1206700.0,1167509.0,extra_trees
+SYN-0140166,2026-04,Detached,Dogwoodcliffe,747300.0,934638.0,extra_trees
+SYN-0094829,2026-04,Detached,Sycamoredale,1333300.0,1193744.0,extra_trees
+SYN-0146401,2026-04,Condo Apt,Cedarview,493200.0,613880.0,extra_trees
+SYN-0143683,2026-04,Condo Townhouse,Mulberryvale,660000.0,814861.0,extra_trees
+SYN-0086485,2026-04,Detached,Ashpark,893800.0,1089422.0,extra_trees
+SYN-0013945,2026-04,Condo Apt,Rowangardens,518600.0,476537.0,extra_trees
+SYN-0103642,2026-04,Semi-Detached,Rowangardens,1032800.0,1271197.0,extra_trees
+SYN-0049153,2026-04,Detached,Magnoliavale,1110100.0,1104362.0,extra_trees
+SYN-0071231,2026-04,Detached,Maplevale,3826000.0,3008599.0,extra_trees
+SYN-0150548,2026-04,Detached,Cedarbank,1563700.0,1724778.0,extra_trees
+SYN-0095642,2026-04,Condo Apt,Sumacbank,519900.0,536541.0,extra_trees
+SYN-0077518,2026-04,Detached,Cedargardens,885300.0,983099.0,extra_trees
+SYN-0063124,2026-04,Condo Townhouse,Willowglen,692900.0,703722.0,extra_trees
+SYN-0037757,2026-04,Condo Townhouse,Hickoryhaven,664600.0,790756.0,extra_trees
+SYN-0119970,2026-04,Condo Townhouse,Elmview,930600.0,1057443.0,extra_trees
+SYN-0134207,2026-04,Detached,Mulberrydale,865300.0,1209123.0,extra_trees
+SYN-0097355,2026-04,Condo Apt,Elmcrest,484900.0,481734.0,extra_trees
+SYN-0055730,2026-04,Condo Apt,Spruceview,545500.0,560889.0,extra_trees
+SYN-0055360,2026-04,Detached,Chestnutglen,1436900.0,1997207.0,extra_trees
+SYN-0137821,2026-04,Freehold Townhouse,Juniperbrook,1114700.0,1123545.0,extra_trees
+SYN-0109767,2026-04,Condo Apt,Maplebank,447400.0,489235.0,extra_trees
+SYN-0147971,2026-04,Detached,Chestnutbourne,830400.0,1059046.0,extra_trees
+SYN-0055374,2026-04,Condo Townhouse,Larchbank,569600.0,733640.0,extra_trees
+SYN-0041270,2026-04,Semi-Detached,Elmgardens,2276700.0,2163547.0,extra_trees
+SYN-0065342,2026-04,Detached,Aspenwood,2140400.0,1595444.0,extra_trees
+SYN-0006355,2026-04,Condo Apt,Sycamoreglen,537000.0,497370.0,extra_trees
+SYN-0054298,2026-04,Condo Townhouse,Cypressheights,631700.0,733756.0,extra_trees
+SYN-0157541,2026-04,Condo Apt,Magnoliaworth,738200.0,702237.0,extra_trees
+SYN-0105527,2026-04,Condo Apt,Sequoiaview,525800.0,601819.0,extra_trees
+SYN-0076328,2026-04,Condo Apt,Hawthornbourne,630000.0,650466.0,extra_trees
+SYN-0077612,2026-04,Freehold Townhouse,Elmview,2249500.0,1863350.0,extra_trees
+SYN-0054028,2026-04,Detached,Ashbank,1147300.0,1489919.0,extra_trees
+SYN-0116985,2026-04,Co-Op Apt,Elmview,799400.0,680629.0,extra_trees
+SYN-0090587,2026-04,Condo Apt,Hawthornbourne,764900.0,812337.0,extra_trees
+SYN-0071326,2026-04,Detached,Chestnutmills,1040000.0,1086929.0,extra_trees
+SYN-0146131,2026-04,Detached,Mulberryvale,2031600.0,2593884.0,extra_trees
+SYN-0150597,2026-04,Condo Apt,Lindenglen,1102400.0,947604.0,extra_trees
+SYN-0135113,2026-04,Condo Apt,Cypressglen,264200.0,382653.0,extra_trees
+SYN-0065499,2026-04,Condo Apt,Willowglen,647000.0,654881.0,extra_trees
+SYN-0063478,2026-04,Co-Op Apt,Cedarwood,630100.0,598893.0,extra_trees
+SYN-0056989,2026-04,Detached,Cedarbank,1169700.0,1666959.0,extra_trees
+SYN-0026328,2026-04,Detached,Hemlockvale,750200.0,1034364.0,extra_trees
+SYN-0051745,2026-04,Condo Apt,Hickoryhaven,514800.0,601404.0,extra_trees
+SYN-0031904,2026-04,Condo Apt,Cypressdale,764800.0,710010.0,extra_trees
+SYN-0087256,2026-04,Detached,Maplevale,1755000.0,1581413.0,extra_trees
+SYN-0015943,2026-04,Detached,Dogwoodhaven,743500.0,811069.0,extra_trees
+SYN-0057151,2026-04,Detached,Cedarbank,884400.0,1577539.0,extra_trees
+SYN-0011262,2026-04,Detached,Chestnutmills,832400.0,970094.0,extra_trees
+SYN-0017337,2026-04,Condo Apt,Juniperpark,564100.0,506205.0,extra_trees
+SYN-0139926,2026-04,Detached,Hemlockvale,1349700.0,1395554.0,extra_trees
+SYN-0090533,2026-04,Detached,Balsamcrest,1904400.0,2039248.0,extra_trees
+SYN-0064178,2026-04,Condo Apt,Sumacdale,741900.0,755447.0,extra_trees
+SYN-0013941,2026-04,Condo Apt,Sumacwood,331300.0,419206.0,extra_trees
+SYN-0117040,2026-04,Detached,Hickoryhaven,781600.0,1001803.0,extra_trees
+SYN-0101102,2026-04,Detached,Pineglen,1329700.0,1077901.0,extra_trees
+SYN-0080317,2026-04,Condo Apt,Mulberrygrove,630600.0,524010.0,extra_trees
+SYN-0101489,2026-04,Detached,Hemlockvale,1393600.0,1807831.0,extra_trees
+SYN-0142382,2026-04,Detached,Elmbourne,1126500.0,1166833.0,extra_trees
+SYN-0151241,2026-04,Freehold Townhouse,Cedargrove,1422300.0,1276744.0,extra_trees
+SYN-0043814,2026-04,Detached,Hickoryhaven,1260700.0,1539966.0,extra_trees
+SYN-0125832,2026-04,Condo Apt,Sumacpark,482700.0,414032.0,extra_trees
+SYN-0094757,2026-04,Detached,Chestnutview,1092600.0,1432603.0,extra_trees
+SYN-0107552,2026-04,Condo Apt,Elmview,628700.0,1292290.0,extra_trees
+SYN-0025415,2026-04,Detached,Lindencliffe,2722300.0,2756591.0,extra_trees
+SYN-0028991,2026-04,Detached,Magnoliaworth,1251800.0,1111793.0,extra_trees
+SYN-0017123,2026-04,Condo Apt,Ashworth,627100.0,599988.0,extra_trees
+SYN-0070983,2026-04,Condo Apt,Hazelmills,523600.0,556659.0,extra_trees
+SYN-0007082,2026-04,Detached,Juniperpark,930300.0,1119084.0,extra_trees
+SYN-0000698,2026-04,Freehold Townhouse,Walnuthollow,888700.0,1264625.0,extra_trees
+SYN-0074304,2026-04,Detached,Rowangrove,10328400.0,6056394.0,extra_trees
+SYN-0127532,2026-04,Condo Apt,Rowangardens,643700.0,553941.0,extra_trees
+SYN-0026656,2026-04,Condo Apt,Poplarview,766500.0,812052.0,extra_trees
+SYN-0132018,2026-04,Detached,Balsamcrest,1336600.0,1229834.0,extra_trees
+SYN-0019690,2026-04,Condo Apt,Elmgardens,524800.0,503883.0,extra_trees
+SYN-0127051,2026-04,Condo Apt,Elmbrook,455500.0,451899.0,extra_trees
+SYN-0050561,2026-04,Condo Apt,Cedarview,457600.0,485389.0,extra_trees
+SYN-0081550,2026-04,Detached,Maplepark,3173000.0,5759272.0,extra_trees
+SYN-0062345,2026-04,Freehold Townhouse,Dogwoodcliffe,1081500.0,1108506.0,extra_trees
+SYN-0113239,2026-04,Condo Apt,Willowglen,496100.0,509839.0,extra_trees
+SYN-0014303,2026-04,Detached,Mulberryvale,1320400.0,1547037.0,extra_trees
+SYN-0148887,2026-04,Condo Apt,Beechbourne,953800.0,758489.0,extra_trees
+SYN-0135022,2026-04,Freehold Townhouse,Maplemills,1346600.0,1606850.0,extra_trees
+SYN-0147082,2026-04,Condo Apt,Ashworth,575400.0,696476.0,extra_trees
+SYN-0094955,2026-04,Condo Apt,Elmmills,539700.0,548477.0,extra_trees
+SYN-0011062,2026-04,Detached,Poplargardens,3185700.0,2335627.0,extra_trees
+SYN-0136320,2026-04,Condo Apt,Hawthornbourne,566200.0,598864.0,extra_trees
+SYN-0066989,2026-04,Condo Apt,Cypressdale,395800.0,464528.0,extra_trees
+SYN-0097452,2026-04,Condo Apt,Cedarglen,973700.0,982060.0,extra_trees
+SYN-0105198,2026-04,Freehold Townhouse,Beechglen,2176900.0,1682102.0,extra_trees
+SYN-0114153,2026-04,Freehold Townhouse,Beechbourne,727200.0,1025889.0,extra_trees
+SYN-0142600,2026-04,Detached,Cypressheights,836800.0,944287.0,extra_trees
+SYN-0075672,2026-04,Detached,Ashpark,1275100.0,1317732.0,extra_trees
+SYN-0074070,2026-04,Condo Apt,Elmview,1158200.0,1235286.0,extra_trees
+SYN-0124357,2026-04,Condo Townhouse,Oakhaven,848200.0,650234.0,extra_trees
+SYN-0053035,2026-04,Semi-Detached,Willowview,1009100.0,1189592.0,extra_trees
+SYN-0056228,2026-04,Condo Townhouse,Tamarackmills,882300.0,890895.0,extra_trees
+SYN-0085712,2026-04,Semi-Detached,Chestnutview,1063100.0,1216268.0,extra_trees
+SYN-0052934,2026-04,Condo Apt,Larchbank,576400.0,595399.0,extra_trees
+SYN-0097760,2026-04,Condo Apt,Cypresspark,668800.0,712056.0,extra_trees
+SYN-0091641,2026-04,Condo Apt,Oakbourne,394500.0,414230.0,extra_trees
+SYN-0005324,2026-04,Condo Apt,Juniperheights,774100.0,578459.0,extra_trees
+SYN-0045592,2026-04,Detached,Dogwoodbrook,857200.0,895397.0,extra_trees
+SYN-0052341,2026-04,Detached,Rowanridge,1102600.0,1295289.0,extra_trees
+SYN-0090076,2026-04,Condo Apt,Maplebrook,409400.0,563496.0,extra_trees
+SYN-0106212,2026-04,Condo Apt,Rowangardens,567900.0,646192.0,extra_trees
+SYN-0148440,2026-04,Detached,Tamarackbourne,1912900.0,1520927.0,extra_trees
+SYN-0009441,2026-04,Detached,Magnoliabank,644000.0,881300.0,extra_trees
+SYN-0029644,2026-04,Semi-Detached,Willowglen,1215700.0,1236306.0,extra_trees
+SYN-0088500,2026-04,Condo Apt,Elmbrook,635500.0,621810.0,extra_trees
+SYN-0016779,2026-04,Detached,Hickoryvale,1640800.0,2097634.0,extra_trees
+SYN-0002579,2026-04,Condo Apt,Hazelmills,275400.0,482856.0,extra_trees
+SYN-0062235,2026-04,Detached,Rowanbank,1221600.0,1187631.0,extra_trees
+SYN-0126525,2026-04,Detached,Hickoryvale,1227200.0,1254631.0,extra_trees
+SYN-0089898,2026-04,Condo Townhouse,Chestnutbourne,851700.0,979944.0,extra_trees
+SYN-0116639,2026-04,Detached,Poplarview,2160000.0,2345040.0,extra_trees
+SYN-0087243,2026-04,Condo Apt,Tamarackmills,532000.0,561022.0,extra_trees
+SYN-0068412,2026-04,Condo Apt,Pineridge,851300.0,852835.0,extra_trees
+SYN-0053865,2026-04,Condo Apt,Ashbank,510000.0,526858.0,extra_trees
+SYN-0048229,2026-04,Semi-Detached,Mulberrygrove,1203900.0,1174284.0,extra_trees
+SYN-0019331,2026-04,Condo Apt,Sumacpark,438000.0,626835.0,extra_trees
+SYN-0088108,2026-04,Condo Townhouse,Rowangrove,868700.0,928884.0,extra_trees
+SYN-0149480,2026-04,Condo Apt,Cedarview,356400.0,449429.0,extra_trees
+SYN-0132375,2026-04,Condo Apt,Elmview,598100.0,615109.0,extra_trees
+SYN-0139824,2026-04,Detached,Junipergardens,2601500.0,1922897.0,extra_trees
+SYN-0002503,2026-04,Detached,Hemlockvale,1459500.0,1346795.0,extra_trees
+SYN-0066833,2026-04,Co-Op Apt,Hickorybourne,528000.0,523096.0,extra_trees
+SYN-0041819,2026-04,Detached,Ashpark,1026000.0,1175080.0,extra_trees
+SYN-0121292,2026-04,Detached,Lindenridge,1869500.0,2475245.0,extra_trees
+SYN-0079439,2026-04,Detached,Elmbourne,694800.0,926579.0,extra_trees
+SYN-0032558,2026-04,Condo Apt,Lindencliffe,449800.0,606952.0,extra_trees
+SYN-0074512,2026-04,Condo Apt,Oakbourne,692200.0,866622.0,extra_trees
+SYN-0028959,2026-04,Detached,Chestnutbourne,1068200.0,1115697.0,extra_trees
+SYN-0061005,2026-04,Condo Apt,Ashworth,715500.0,682961.0,extra_trees
+SYN-0082579,2026-04,Detached,Hawthorncliffe,901400.0,1101689.0,extra_trees
+SYN-0017189,2026-04,Condo Apt,Rowanhollow,672500.0,418921.0,extra_trees
+SYN-0020061,2026-04,Condo Apt,Hickoryhaven,605700.0,688009.0,extra_trees
+SYN-0023827,2026-04,Semi-Detached,Cypressheights,765700.0,1020501.0,extra_trees
+SYN-0033146,2026-04,Condo Apt,Hemlockvale,757700.0,874397.0,extra_trees
+SYN-0039231,2026-04,Condo Townhouse,Hickorybourne,555600.0,671428.0,extra_trees
+SYN-0121559,2026-04,Detached,Beechbourne,1136000.0,1076961.0,extra_trees
+SYN-0067750,2026-04,Freehold Townhouse,Hazelfield,1952100.0,2326907.0,extra_trees
+SYN-0057570,2026-04,Condo Apt,Hickorybourne,490500.0,473288.0,extra_trees
+SYN-0039625,2026-04,Detached,Spruceview,2168700.0,1394346.0,extra_trees
+SYN-0109427,2026-04,Condo Apt,Mulberryhaven,665700.0,722132.0,extra_trees
+SYN-0128631,2026-04,Condo Apt,Elmgardens,548000.0,644793.0,extra_trees
+SYN-0143511,2026-04,Condo Apt,Juniperheights,877400.0,907015.0,extra_trees
+SYN-0144822,2026-04,Condo Apt,Elmview,703400.0,893380.0,extra_trees
+SYN-0068920,2026-04,Semi-Detached,Mulberrygrove,1262500.0,1044052.0,extra_trees
+SYN-0071470,2026-04,Condo Townhouse,Hickoryhaven,861100.0,918874.0,extra_trees
+SYN-0147571,2026-04,Semi-Detached,Hazelfield,3000600.0,2928003.0,extra_trees
+SYN-0085860,2026-04,Condo Apt,Hemlockhollow,666200.0,524604.0,extra_trees
+SYN-0095385,2026-04,Condo Apt,Junipergardens,811000.0,1040198.0,extra_trees
+SYN-0102670,2026-04,Detached,Cedarhaven,1994300.0,1512062.0,extra_trees
+SYN-0095897,2026-04,Detached,Hickoryglen,1230800.0,1546145.0,extra_trees
+SYN-0061559,2026-04,Condo Apt,Cedarbank,479300.0,606497.0,extra_trees
+SYN-0150083,2026-04,Detached,Tamarackmills,1223400.0,1168833.0,extra_trees
+SYN-0148649,2026-04,Condo Apt,Lindendale,784400.0,787702.0,extra_trees
+SYN-0110031,2026-04,Condo Apt,Rowangardens,463500.0,463646.0,extra_trees
+SYN-0062460,2026-04,Condo Apt,Lindenridge,438800.0,502049.0,extra_trees
+SYN-0064965,2026-04,Detached,Sumacdale,2156500.0,1673540.0,extra_trees
+SYN-0109406,2026-04,Condo Apt,Elmmills,619300.0,546942.0,extra_trees
+SYN-0032892,2026-04,Semi-Detached,Sumacworth,1775100.0,1499792.0,extra_trees
+SYN-0135908,2026-04,Condo Townhouse,Hazelmills,464000.0,576421.0,extra_trees
+SYN-0002723,2026-04,Semi-Detached,Elmview,2469400.0,1611628.0,extra_trees
+SYN-0116285,2026-04,Semi-Detached,Sumacworth,1248300.0,936553.0,extra_trees
+SYN-0047857,2026-04,Detached,Dogwoodmills,1578200.0,1493471.0,extra_trees
+SYN-0123928,2026-04,Detached,Maplepark,5248800.0,4167782.0,extra_trees
+SYN-0148433,2026-04,Condo Apt,Walnutfield,670300.0,546891.0,extra_trees
+SYN-0156323,2026-04,Detached,Cedargardens,921900.0,972709.0,extra_trees
+SYN-0091095,2026-04,Condo Apt,Poplarcrest,611000.0,681819.0,extra_trees
+SYN-0102667,2026-04,Detached,Elmcrest,1228100.0,1347424.0,extra_trees
+SYN-0116596,2026-04,Detached,Hemlockvale,1282900.0,1666985.0,extra_trees
+SYN-0093271,2026-04,Condo Townhouse,Elmgardens,707500.0,821910.0,extra_trees
+SYN-0157402,2026-04,Condo Apt,Dogwoodbrook,595100.0,738101.0,extra_trees
+SYN-0121276,2026-04,Detached,Chestnutgrove,734300.0,983577.0,extra_trees
+SYN-0135465,2026-04,Detached,Junipergardens,1026200.0,1152610.0,extra_trees
+SYN-0095008,2026-04,Semi-Detached,Hawthornbourne,1706100.0,1334159.0,extra_trees
+SYN-0146314,2026-04,Detached,Oakcrest,1283700.0,1099705.0,extra_trees
+SYN-0127045,2026-04,Condo Apt,Junipergardens,485000.0,438488.0,extra_trees
+SYN-0052192,2026-04,Condo Apt,Elmview,600500.0,638158.0,extra_trees
+SYN-0136620,2026-04,Condo Townhouse,Elmhaven,729300.0,667802.0,extra_trees
+SYN-0085965,2026-04,Condo Apt,Chestnutvale,877100.0,805703.0,extra_trees
+SYN-0022658,2026-04,Freehold Townhouse,Chestnutglen,1169600.0,1335872.0,extra_trees
+SYN-0015668,2026-04,Condo Apt,Spruceview,741700.0,561201.0,extra_trees
+SYN-0082811,2026-04,Condo Apt,Rowanbrook,791700.0,682061.0,extra_trees
+SYN-0126984,2026-04,Condo Apt,Cypressbrook,465200.0,460036.0,extra_trees
+SYN-0134536,2026-04,Semi-Detached,Chestnutgrove,1256900.0,1133942.0,extra_trees
+SYN-0078892,2026-04,Detached,Sprucehaven,1086300.0,1300646.0,extra_trees
+SYN-0084039,2026-04,Condo Apt,Beechbourne,716500.0,681589.0,extra_trees
+SYN-0110801,2026-04,Detached,Poplarview,1425900.0,1504926.0,extra_trees
+SYN-0073799,2026-04,Detached,Hemlockvale,992500.0,1084990.0,extra_trees
+SYN-0038528,2026-04,Condo Apt,Elmgardens,732800.0,709285.0,extra_trees
+SYN-0003055,2026-04,Detached,Magnoliaglen,1839700.0,1166081.0,extra_trees
+SYN-0135545,2026-04,Condo Townhouse,Ashworth,860600.0,966427.0,extra_trees
+SYN-0150003,2026-04,Condo Apt,Walnutfield,848200.0,752695.0,extra_trees
+SYN-0029306,2026-04,Detached,Hawthorncliffe,698100.0,828542.0,extra_trees
+SYN-0071210,2026-04,Detached,Cypressdale,2536600.0,2572427.0,extra_trees
+SYN-0015747,2026-04,Condo Apt,Beechbourne,659100.0,729391.0,extra_trees
+SYN-0029980,2026-04,Condo Apt,Lindenglen,1528200.0,1618012.0,extra_trees
+SYN-0098435,2026-04,Condo Apt,Hemlockvale,684600.0,753182.0,extra_trees
+SYN-0155861,2026-04,Condo Apt,Willowglen,380500.0,467251.0,extra_trees
+SYN-0084872,2026-04,Condo Apt,Rowangardens,505300.0,596473.0,extra_trees
+SYN-0121541,2026-04,Detached,Hickoryridge,1157500.0,1107742.0,extra_trees
+SYN-0144031,2026-04,Semi-Detached,Willowview,1710500.0,1879318.0,extra_trees
+SYN-0028001,2026-04,Freehold Townhouse,Oakcrest,959200.0,1027991.0,extra_trees
+SYN-0073914,2026-04,Condo Apt,Walnutfield,705700.0,607317.0,extra_trees
+SYN-0128502,2026-04,Condo Apt,Cedargrove,738000.0,652642.0,extra_trees
+SYN-0111916,2026-04,Condo Apt,Elmview,989000.0,894761.0,extra_trees
+SYN-0095300,2026-04,Freehold Townhouse,Hickoryhaven,1190500.0,1284525.0,extra_trees
+SYN-0099909,2026-04,Detached,Maplegrove,2243600.0,2103574.0,extra_trees
+SYN-0142782,2026-04,Condo Apt,Mapleview,787700.0,837751.0,extra_trees
+SYN-0078012,2026-04,Condo Apt,Magnoliaview,529000.0,640098.0,extra_trees
+SYN-0015052,2026-04,Condo Apt,Willowglen,495900.0,524335.0,extra_trees
+SYN-0092200,2026-04,Detached,Sycamorehaven,1415200.0,1718179.0,extra_trees
+SYN-0021422,2026-04,Condo Apt,Sycamoreglen,510200.0,494587.0,extra_trees
+SYN-0056819,2026-04,Detached,Beechbourne,1539700.0,1432697.0,extra_trees
+SYN-0050830,2026-04,Condo Apt,Elmbrook,1410100.0,983770.0,extra_trees
+SYN-0151676,2026-04,Condo Apt,Sumaccrest,554100.0,499505.0,extra_trees
+SYN-0035542,2026-04,Condo Townhouse,Hickorybourne,461600.0,625049.0,extra_trees
+SYN-0047909,2026-04,Condo Apt,Hazelmills,451600.0,483180.0,extra_trees
+SYN-0132173,2026-04,Condo Apt,Alderworth,390600.0,454837.0,extra_trees
+SYN-0055941,2026-04,Semi-Detached,Balsamcrest,1050100.0,1275315.0,extra_trees
+SYN-0023992,2026-04,Condo Apt,Sumacpark,398000.0,471125.0,extra_trees
+SYN-0060639,2026-04,Condo Apt,Balsamcrest,358200.0,411694.0,extra_trees
+SYN-0047493,2026-04,Condo Apt,Sequoiaview,592900.0,603680.0,extra_trees
+SYN-0051276,2026-04,Condo Apt,Cypresspark,515000.0,617088.0,extra_trees
+SYN-0087104,2026-04,Semi-Detached,Magnoliabank,1285700.0,1068214.0,extra_trees
+SYN-0026439,2026-04,Detached,Junipergardens,1449100.0,1498940.0,extra_trees
+SYN-0072950,2026-04,Semi-Detached,Chestnutgrove,1039800.0,1088408.0,extra_trees
+SYN-0013372,2026-04,Condo Apt,Lindenridge,738500.0,720002.0,extra_trees
+SYN-0113084,2026-04,Condo Apt,Elmbank,459400.0,688022.0,extra_trees
+SYN-0141523,2026-04,Detached,Mulberryhollow,1365400.0,1157542.0,extra_trees
+SYN-0140640,2026-04,Detached,Hickoryvale,902600.0,1006988.0,extra_trees
+SYN-0031727,2026-04,Condo Apt,Lindenridge,708300.0,868456.0,extra_trees
+SYN-0002803,2026-04,Condo Apt,Cypresspark,667000.0,613719.0,extra_trees
+SYN-0078114,2026-04,Detached,Hemlockvale,1055600.0,1300513.0,extra_trees
+SYN-0050252,2026-04,Detached,Hickoryvale,1069400.0,982110.0,extra_trees
+SYN-0137907,2026-04,Condo Apt,Walnutfield,665500.0,760030.0,extra_trees
+SYN-0114319,2026-04,Detached,Sumacdale,877200.0,809681.0,extra_trees
+SYN-0093624,2026-04,Detached,Hickoryridge,1530200.0,2190531.0,extra_trees
+SYN-0120827,2026-04,Semi-Detached,Pineridge,1333000.0,1419762.0,extra_trees
+SYN-0147930,2026-04,Condo Apt,Hawthornbourne,764500.0,1078320.0,extra_trees
+SYN-0145991,2026-04,Detached,Hickoryhaven,2796800.0,1994723.0,extra_trees
+SYN-0000309,2026-04,Condo Townhouse,Sycamorehaven,782200.0,756025.0,extra_trees
+SYN-0015876,2026-04,Condo Apt,Cypressdale,586900.0,502372.0,extra_trees
+SYN-0103411,2026-04,Detached,Cypressheights,1028400.0,1141024.0,extra_trees
+SYN-0135895,2026-04,Condo Apt,Birchheights,659400.0,640180.0,extra_trees
+SYN-0026615,2026-04,Condo Apt,Magnoliacrest,692500.0,577937.0,extra_trees
+SYN-0085008,2026-04,Detached,Chestnutbourne,1089300.0,1031156.0,extra_trees
+SYN-0093900,2026-04,Detached,Willowglen,632100.0,965950.0,extra_trees
+SYN-0036686,2026-04,Detached,Maplebrook,965400.0,1045983.0,extra_trees
+SYN-0012930,2026-04,Condo Apt,Sumacwood,511300.0,524324.0,extra_trees
+SYN-0014275,2026-04,Detached,Dogwoodglen,648600.0,842732.0,extra_trees
+SYN-0072422,2026-04,Condo Apt,Cypressdale,1004600.0,711726.0,extra_trees
+SYN-0108376,2026-04,Condo Apt,Sumacpark,460700.0,596619.0,extra_trees
+SYN-0120636,2026-04,Condo Apt,Magnoliacrest,489000.0,480744.0,extra_trees
+SYN-0130157,2026-04,Condo Apt,Ashworth,1211100.0,1042033.0,extra_trees
+SYN-0095400,2026-04,Condo Apt,Spruceview,479300.0,545423.0,extra_trees
+SYN-0135012,2026-04,Freehold Townhouse,Pineridge,735600.0,1029864.0,extra_trees
+SYN-0044242,2026-04,Semi-Detached,Willowglen,1099100.0,1207100.0,extra_trees
+SYN-0125362,2026-04,Condo Apt,Hickoryvale,409100.0,537446.0,extra_trees
+SYN-0055732,2026-04,Condo Apt,Cedargrove,773300.0,705829.0,extra_trees
+SYN-0125569,2026-04,Detached,Chestnutmills,1362200.0,1532073.0,extra_trees
+SYN-0100254,2026-04,Detached,Willowglen,836700.0,948444.0,extra_trees
+SYN-0035094,2026-04,Detached,Hemlockvale,1134700.0,1150262.0,extra_trees
+SYN-0078914,2026-04,Condo Apt,Poplarview,464100.0,486088.0,extra_trees
+SYN-0153604,2026-04,Condo Apt,Hawthornbourne,1549200.0,1287780.0,extra_trees
+SYN-0083244,2026-04,Detached,Lindendale,4610500.0,3799566.0,extra_trees
+SYN-0028283,2026-04,Condo Apt,Cypressdale,525100.0,601153.0,extra_trees
+SYN-0026562,2026-04,Condo Apt,Rowanridge,425100.0,485213.0,extra_trees
+SYN-0156290,2026-04,Detached,Hemlockvale,1486200.0,1290332.0,extra_trees
+SYN-0029140,2026-04,Detached,Sycamoreview,912900.0,802366.0,extra_trees
+SYN-0102698,2026-04,Condo Apt,Balsamgrove,323400.0,446564.0,extra_trees
+SYN-0104658,2026-04,Detached,Elmhaven,1395000.0,1279065.0,extra_trees
+SYN-0024739,2026-04,Condo Apt,Walnutfield,593000.0,1007369.0,extra_trees
+SYN-0012569,2026-04,Semi-Detached,Cedarwood,1315800.0,1399351.0,extra_trees
+SYN-0042060,2026-04,Condo Apt,Balsamgrove,610400.0,681927.0,extra_trees
+SYN-0000970,2026-04,Condo Apt,Juniperheights,529900.0,600171.0,extra_trees
+SYN-0102335,2026-04,Semi-Detached,Sequoiafield,864200.0,989883.0,extra_trees
+SYN-0078196,2026-04,Condo Apt,Juniperheights,1160700.0,807241.0,extra_trees
+SYN-0072664,2026-04,Condo Apt,Hickoryhaven,578300.0,827958.0,extra_trees
+SYN-0107198,2026-04,Freehold Townhouse,Maplegrove,1046200.0,1017340.0,extra_trees
+SYN-0048059,2026-04,Semi-Detached,Walnutpark,873200.0,1056119.0,extra_trees
+SYN-0119328,2026-04,Condo Townhouse,Chestnutmills,570800.0,713264.0,extra_trees
+SYN-0155894,2026-04,Condo Townhouse,Magnoliacrest,1254700.0,897937.0,extra_trees
+SYN-0081878,2026-04,Condo Apt,Balsamgrove,635700.0,580789.0,extra_trees
+SYN-0085509,2026-04,Detached,Juniperpark,899900.0,948224.0,extra_trees
+SYN-0060130,2026-04,Detached,Hazelbourne,1569400.0,1184726.0,extra_trees
+SYN-0149485,2026-04,Freehold Townhouse,Cypressdale,1427000.0,1395890.0,extra_trees
+SYN-0157488,2026-04,Detached,Hickorybourne,910500.0,815167.0,extra_trees
+SYN-0079358,2026-04,Detached,Lindenridge,1603200.0,1785577.0,extra_trees
+SYN-0038973,2026-04,Condo Apt,Hawthornbourne,673700.0,616479.0,extra_trees
+SYN-0122831,2026-04,Condo Apt,Rowangardens,634500.0,779973.0,extra_trees
+SYN-0058608,2026-04,Condo Apt,Lindendale,597200.0,600504.0,extra_trees
+SYN-0001732,2026-04,Detached,Hemlockvale,1395500.0,1449166.0,extra_trees
+SYN-0134712,2026-04,Condo Apt,Cedarwood,886200.0,802289.0,extra_trees
+SYN-0043166,2026-04,Condo Apt,Cedarview,315800.0,466087.0,extra_trees
+SYN-0003964,2026-04,Condo Apt,Ashworth,750100.0,756355.0,extra_trees
+SYN-0060395,2026-04,Condo Apt,Chestnutmills,699300.0,617497.0,extra_trees
+SYN-0074669,2026-04,Detached,Lindenridge,2021400.0,2122995.0,extra_trees
+SYN-0051347,2026-04,Condo Apt,Pinevale,456200.0,515220.0,extra_trees
+SYN-0036718,2026-04,Semi-Detached,Elmgardens,1923800.0,1505276.0,extra_trees
+SYN-0117105,2026-04,Condo Apt,Maplebank,409100.0,489728.0,extra_trees
+SYN-0061576,2026-04,Condo Apt,Hickorybourne,302000.0,429088.0,extra_trees
+SYN-0024458,2026-04,Condo Apt,Cedarwood,844800.0,659214.0,extra_trees
+SYN-0063036,2026-04,Detached,Mulberrydale,1111200.0,1190748.0,extra_trees
+SYN-0128070,2026-04,Detached,Hazelfield,3602700.0,2428345.0,extra_trees
+SYN-0149249,2026-04,Detached,Sycamorewood,1219300.0,1519980.0,extra_trees
+SYN-0092214,2026-04,Detached,Hazelbourne,1123000.0,1152438.0,extra_trees
+SYN-0056296,2026-04,Condo Apt,Hickorybourne,512000.0,423456.0,extra_trees
+SYN-0005212,2026-04,Condo Apt,Hickoryhaven,745800.0,760368.0,extra_trees
+SYN-0078362,2026-04,Detached,Sycamorewood,1432500.0,1632173.0,extra_trees
+SYN-0131613,2026-04,Condo Townhouse,Beechbourne,473600.0,675440.0,extra_trees
+SYN-0140007,2026-04,Condo Apt,Sumacwood,561800.0,525203.0,extra_trees
+SYN-0046252,2026-04,Detached,Birchgrove,757100.0,1020625.0,extra_trees
+SYN-0138830,2026-04,Freehold Townhouse,Rowanbank,934100.0,1200320.0,extra_trees
+SYN-0007302,2026-04,Condo Apt,Hickorybourne,454800.0,509928.0,extra_trees
+SYN-0064956,2026-04,Semi-Detached,Magnoliaworth,1162800.0,1204498.0,extra_trees
+SYN-0076659,2026-04,Condo Apt,Cedarview,365200.0,366931.0,extra_trees
+SYN-0033572,2026-04,Semi-Detached,Beechglen,2867000.0,1903015.0,extra_trees
+SYN-0032979,2026-04,Condo Apt,Magnoliacrest,491600.0,475705.0,extra_trees
+SYN-0079626,2026-04,Detached,Hickorymills,1808000.0,1240809.0,extra_trees
+SYN-0122168,2026-04,Semi-Detached,Magnoliaworth,1253600.0,1330637.0,extra_trees
+SYN-0132921,2026-04,Condo Townhouse,Walnutfield,900800.0,988181.0,extra_trees
+SYN-0115403,2026-04,Detached,Rowanbrook,1784900.0,1381661.0,extra_trees
+SYN-0113376,2026-04,Detached,Beechcrest,7216400.0,4397235.0,extra_trees
+SYN-0018268,2026-04,Condo Apt,Cedarglen,643900.0,759534.0,extra_trees
+SYN-0009668,2026-04,Condo Apt,Hickoryhaven,807800.0,895044.0,extra_trees
+SYN-0152199,2026-04,Condo Apt,Birchgrove,939700.0,860240.0,extra_trees
+SYN-0088538,2026-04,Condo Apt,Larchbank,385500.0,526602.0,extra_trees
+SYN-0090013,2026-04,Detached,Mulberryvale,1989300.0,1830538.0,extra_trees
+SYN-0030243,2026-04,Detached,Elmbourne,1532700.0,1194034.0,extra_trees
+SYN-0042185,2026-04,Freehold Townhouse,Hazelfield,3446400.0,2751262.0,extra_trees
+SYN-0096929,2026-04,Condo Townhouse,Maplebank,696800.0,828809.0,extra_trees
+SYN-0141324,2026-04,Condo Apt,Balsamgrove,838700.0,815281.0,extra_trees
+SYN-0036401,2026-04,Condo Townhouse,Magnoliavale,638100.0,795900.0,extra_trees
+SYN-0032377,2026-04,Condo Apt,Cedarglen,583900.0,509062.0,extra_trees
+SYN-0000659,2026-04,Detached,Chestnutglen,1093900.0,1278587.0,extra_trees
+SYN-0095163,2026-04,Detached,Cedarwood,1709100.0,1407116.0,extra_trees
+SYN-0118434,2026-04,Condo Apt,Larchview,629900.0,607207.0,extra_trees
+SYN-0046920,2026-04,Detached,Balsamcrest,1047400.0,1121873.0,extra_trees
+SYN-0054376,2026-04,Condo Apt,Elmview,904600.0,860952.0,extra_trees
+SYN-0131128,2026-04,Condo Apt,Cypressdale,418500.0,517304.0,extra_trees
+SYN-0146327,2026-04,Condo Apt,Hickoryhaven,642100.0,636823.0,extra_trees
+SYN-0069914,2026-04,Condo Apt,Hickorybourne,374200.0,423349.0,extra_trees
+SYN-0061684,2026-04,Condo Apt,Tamarackmills,650000.0,792881.0,extra_trees
+SYN-0019533,2026-04,Detached,Beechcrest,4563100.0,4781425.0,extra_trees
+SYN-0026716,2026-04,Condo Apt,Sprucehaven,514800.0,596755.0,extra_trees
+SYN-0105334,2026-04,Detached,Hemlockvale,1909000.0,1688394.0,extra_trees
+SYN-0105988,2026-04,Condo Apt,Willowglen,402600.0,466213.0,extra_trees
+SYN-0021797,2026-04,Condo Apt,Dogwoodmills,398500.0,421475.0,extra_trees
+SYN-0151680,2026-04,Condo Apt,Pineridge,663700.0,808911.0,extra_trees
+SYN-0018075,2026-04,Semi-Detached,Maplegrove,2085700.0,2159280.0,extra_trees
+SYN-0018256,2026-04,Condo Apt,Junipergardens,554600.0,635816.0,extra_trees
+SYN-0002122,2026-04,Condo Apt,Sequoiahollow,873400.0,763515.0,extra_trees
+SYN-0123183,2026-04,Semi-Detached,Elmbrook,1042400.0,1234703.0,extra_trees
+SYN-0098106,2026-04,Detached,Maplebrook,1763500.0,1734326.0,extra_trees
+SYN-0019941,2026-04,Condo Apt,Elmcrest,574400.0,543152.0,extra_trees
+SYN-0076312,2026-04,Freehold Townhouse,Hazelfield,4545400.0,4355198.0,extra_trees
+SYN-0153336,2026-04,Condo Townhouse,Sumacfield,573700.0,785141.0,extra_trees
+SYN-0151264,2026-04,Detached,Chestnutbourne,1171700.0,1538202.0,extra_trees
+SYN-0140348,2026-04,Condo Apt,Aspenworth,477400.0,606322.0,extra_trees
+SYN-0037846,2026-04,Semi-Detached,Maplebourne,1318200.0,1100788.0,extra_trees
+SYN-0093746,2026-04,Condo Apt,Chestnutvale,514300.0,591646.0,extra_trees
+SYN-0058621,2026-04,Condo Apt,Mulberryvale,514400.0,612503.0,extra_trees
+SYN-0084280,2026-04,Detached,Chestnutglen,2573800.0,2467840.0,extra_trees
+SYN-0015935,2026-04,Detached,Dogwoodbrook,1110700.0,958734.0,extra_trees
+SYN-0085129,2026-04,Detached,Lindendale,4154700.0,3043797.0,extra_trees
+SYN-0100812,2026-04,Detached,Dogwoodbrook,1124500.0,1056672.0,extra_trees
+SYN-0091972,2026-04,Detached,Hemlockvale,2592200.0,2544244.0,extra_trees
+SYN-0070277,2026-04,Condo Apt,Ashworth,931800.0,1058671.0,extra_trees
+SYN-0072501,2026-04,Condo Apt,Cypresspark,422400.0,473279.0,extra_trees
+SYN-0032146,2026-04,Condo Apt,Lindenridge,451900.0,502976.0,extra_trees
+SYN-0151883,2026-04,Condo Apt,Chestnutbank,846100.0,557563.0,extra_trees
+SYN-0033739,2026-04,Condo Apt,Hemlockvale,478900.0,539109.0,extra_trees
+SYN-0119992,2026-04,Condo Apt,Magnoliaworth,451400.0,569089.0,extra_trees
+SYN-0152310,2026-04,Detached,Chestnutridge,1209200.0,1517700.0,extra_trees
+SYN-0065285,2026-04,Semi-Detached,Dogwoodhaven,1453800.0,1444341.0,extra_trees
+SYN-0153416,2026-04,Detached,Chestnutbourne,720100.0,1055629.0,extra_trees
+SYN-0118801,2026-04,Detached,Sumacdale,2376700.0,1647179.0,extra_trees
+SYN-0076078,2026-04,Detached,Elmbank,1151700.0,1398732.0,extra_trees
+SYN-0033427,2026-04,Condo Apt,Sumacbank,644500.0,649253.0,extra_trees
+SYN-0141771,2026-04,Condo Apt,Rowangardens,682200.0,586880.0,extra_trees
+SYN-0135602,2026-04,Condo Apt,Mulberryhaven,764500.0,688068.0,extra_trees
+SYN-0083847,2026-04,Detached,Sumacdale,1069700.0,1186589.0,extra_trees
+SYN-0111205,2026-04,Semi-Detached,Hazelbourne,779600.0,979981.0,extra_trees
+SYN-0128038,2026-04,Condo Apt,Sycamoreview,508100.0,570213.0,extra_trees
+SYN-0147644,2026-04,Detached,Ashbank,1652300.0,1224960.0,extra_trees
+SYN-0087874,2026-04,Detached,Magnoliabank,953700.0,979129.0,extra_trees
+SYN-0038766,2026-04,Semi-Detached,Mulberryvale,1047000.0,1585435.0,extra_trees
+SYN-0035237,2026-04,Condo Apt,Maplebank,486300.0,482987.0,extra_trees
+SYN-0133096,2026-04,Detached,Sumacwood,924300.0,1080468.0,extra_trees
+SYN-0074849,2026-04,Semi-Detached,Juniperpark,775100.0,961851.0,extra_trees
+SYN-0077750,2026-04,Condo Apt,Balsamcrest,514800.0,511435.0,extra_trees
+SYN-0053786,2026-04,Detached,Mulberrydale,941200.0,1056088.0,extra_trees
+SYN-0021360,2026-04,Condo Apt,Cedarview,644600.0,591425.0,extra_trees
+SYN-0014181,2026-04,Condo Apt,Willowglen,641400.0,744870.0,extra_trees
+SYN-0041412,2026-04,Detached,Hawthorncliffe,894900.0,1054466.0,extra_trees
+SYN-0053389,2026-04,Condo Apt,Walnutfield,806100.0,674150.0,extra_trees
+SYN-0005334,2026-04,Condo Apt,Sumaccrest,730500.0,596813.0,extra_trees
+SYN-0108549,2026-04,Condo Apt,Hickorybourne,613800.0,613412.0,extra_trees
+SYN-0099179,2026-04,Condo Apt,Beechbourne,541500.0,489358.0,extra_trees
+SYN-0083741,2026-04,Condo Apt,Magnoliaview,329300.0,431562.0,extra_trees
+SYN-0051306,2026-04,Condo Apt,Hickoryglen,306700.0,376610.0,extra_trees
+SYN-0022402,2026-04,Detached,Sycamoredale,2163100.0,1663091.0,extra_trees
+SYN-0063095,2026-04,Detached,Hemlockvale,1286100.0,1543182.0,extra_trees
+SYN-0086012,2026-04,Condo Apt,Tamarackmills,371800.0,522991.0,extra_trees
+SYN-0069110,2026-04,Condo Apt,Mapleview,622800.0,606256.0,extra_trees
+SYN-0075722,2026-04,Detached,Pineridge,864300.0,1189291.0,extra_trees
+SYN-0078222,2026-04,Condo Apt,Sumacdale,501400.0,470783.0,extra_trees
+SYN-0133367,2026-04,Semi-Detached,Sycamoreview,802600.0,814641.0,extra_trees
+SYN-0036551,2026-04,Condo Apt,Aspenwood,452800.0,645275.0,extra_trees
+SYN-0136220,2026-04,Condo Apt,Cypressdale,937200.0,748817.0,extra_trees
+SYN-0130755,2026-04,Semi-Detached,Poplarcrest,1968500.0,1855783.0,extra_trees
+SYN-0067028,2026-04,Semi-Detached,Magnoliabank,914000.0,1040808.0,extra_trees
+SYN-0107848,2026-04,Detached,Ashbank,1256400.0,1383138.0,extra_trees
+SYN-0048914,2026-04,Detached,Hemlockvale,599200.0,878712.0,extra_trees
+SYN-0121071,2026-04,Condo Apt,Sprucehaven,465400.0,614680.0,extra_trees
+SYN-0050450,2026-04,Condo Apt,Larchbank,455600.0,415098.0,extra_trees
+SYN-0112344,2026-04,Condo Townhouse,Ashhollow,895800.0,930398.0,extra_trees
+SYN-0035508,2026-04,Detached,Elmcrest,2317600.0,1505318.0,extra_trees
+SYN-0122376,2026-04,Semi-Detached,Chestnutgrove,784700.0,1116237.0,extra_trees
+SYN-0039675,2026-04,Semi-Detached,Spruceview,1153800.0,1021274.0,extra_trees
+SYN-0044938,2026-04,Semi-Detached,Magnoliacrest,1575300.0,1387128.0,extra_trees
+SYN-0110917,2026-04,Detached,Juniperheights,6241300.0,4191486.0,extra_trees
+SYN-0120131,2026-04,Condo Apt,Spruceview,612000.0,694586.0,extra_trees
+SYN-0143435,2026-04,Freehold Townhouse,Junipergardens,1300500.0,1205676.0,extra_trees
+SYN-0019796,2026-04,Detached,Birchheights,1621600.0,1507059.0,extra_trees
+SYN-0004353,2026-04,Condo Apt,Rowanridge,505000.0,587001.0,extra_trees
+SYN-0010187,2026-04,Freehold Townhouse,Juniperheights,1595300.0,1949082.0,extra_trees
+SYN-0011914,2026-04,Detached,Birchgrove,2737300.0,1973048.0,extra_trees
+SYN-0065701,2026-04,Condo Apt,Poplarview,622300.0,670619.0,extra_trees
+SYN-0077701,2026-04,Semi-Detached,Maplegrove,1496000.0,1228749.0,extra_trees
+SYN-0003444,2026-04,Condo Apt,Beechglen,780000.0,626627.0,extra_trees
+SYN-0030039,2026-04,Condo Townhouse,Elmgardens,1120700.0,1076988.0,extra_trees
+SYN-0049806,2026-04,Freehold Townhouse,Junipergardens,967500.0,1059246.0,extra_trees
+SYN-0144801,2026-04,Freehold Townhouse,Cedarwood,1149500.0,1253613.0,extra_trees
+SYN-0149296,2026-04,Detached,Hemlockvale,1453500.0,1084923.0,extra_trees
+SYN-0001960,2026-04,Condo Apt,Sequoiahollow,544800.0,482964.0,extra_trees
+SYN-0093769,2026-04,Freehold Townhouse,Sumacdale,836200.0,1028062.0,extra_trees
+SYN-0053776,2026-04,Condo Apt,Elmgardens,1275000.0,1212478.0,extra_trees
+SYN-0004751,2026-04,Condo Apt,Birchhollow,554700.0,513489.0,extra_trees
+SYN-0016581,2026-04,Condo Apt,Aspenworth,310100.0,400767.0,extra_trees
+SYN-0105000,2026-04,Detached,Sumacdale,1614900.0,1242606.0,extra_trees
+SYN-0063169,2026-04,Condo Apt,Hickorybourne,613400.0,580611.0,extra_trees
+SYN-0034213,2026-04,Condo Apt,Cedarheights,701000.0,777316.0,extra_trees
+SYN-0073522,2026-04,Condo Apt,Hickoryridge,508500.0,566713.0,extra_trees
+SYN-0047194,2026-04,Condo Townhouse,Rowangrove,763000.0,836521.0,extra_trees
+SYN-0106752,2026-04,Condo Apt,Sumacpark,402400.0,426397.0,extra_trees
+SYN-0058948,2026-04,Condo Apt,Aspenworth,419000.0,436181.0,extra_trees
+SYN-0056138,2026-04,Detached,Hemlockvale,1816700.0,1568403.0,extra_trees
+SYN-0143590,2026-04,Detached,Mapleview,1158700.0,1294490.0,extra_trees
+SYN-0073945,2026-04,Condo Apt,Alderworth,346800.0,522701.0,extra_trees
+SYN-0094165,2026-04,Condo Apt,Oakbourne,464100.0,499755.0,extra_trees
+SYN-0079983,2026-04,Detached,Chestnutridge,568600.0,791893.0,extra_trees
+SYN-0134513,2026-04,Condo Apt,Poplarcrest,993800.0,858755.0,extra_trees
+SYN-0092248,2026-04,Detached,Birchhollow,1008600.0,1142242.0,extra_trees
+SYN-0096628,2026-04,Condo Apt,Larchview,440600.0,536012.0,extra_trees
+SYN-0120293,2026-04,Condo Apt,Magnoliaview,308000.0,407842.0,extra_trees
+SYN-0123262,2026-04,Condo Apt,Cedarglen,416700.0,435275.0,extra_trees
+SYN-0089373,2026-04,Detached,Rowanbrook,1847200.0,1408012.0,extra_trees
+SYN-0070558,2026-04,Detached,Lindendale,4151400.0,4574271.0,extra_trees
+SYN-0034080,2026-04,Condo Apt,Cypresspark,646800.0,566646.0,extra_trees
+SYN-0150669,2026-04,Detached,Sycamoredale,1827800.0,2278405.0,extra_trees
+SYN-0014655,2026-04,Condo Apt,Balsamgrove,837300.0,806978.0,extra_trees
+SYN-0097031,2026-04,Condo Apt,Elmgardens,471600.0,551033.0,extra_trees
+SYN-0077059,2026-04,Detached,Lindendale,4110100.0,3841571.0,extra_trees
+SYN-0016463,2026-04,Detached,Elmbank,1139000.0,1272490.0,extra_trees
+SYN-0006456,2026-04,Condo Apt,Rowanridge,616600.0,635116.0,extra_trees
+SYN-0139074,2026-04,Condo Apt,Chestnutbourne,494200.0,601050.0,extra_trees
+SYN-0068129,2026-04,Condo Apt,Cedargrove,749600.0,755893.0,extra_trees
+SYN-0006934,2026-04,Condo Apt,Hickoryhaven,660500.0,723388.0,extra_trees
+SYN-0050343,2026-04,Condo Apt,Rowanbrook,693500.0,651237.0,extra_trees
+SYN-0017749,2026-04,Condo Apt,Sumacpark,343700.0,467649.0,extra_trees
+SYN-0039384,2026-04,Condo Apt,Dogwoodbrook,555800.0,763618.0,extra_trees
+SYN-0008941,2026-04,Detached,Walnuthollow,1350500.0,1322205.0,extra_trees
+SYN-0153402,2026-04,Condo Apt,Sumacbank,678700.0,645468.0,extra_trees
+SYN-0089412,2026-04,Detached,Magnoliavale,1007100.0,969957.0,extra_trees
+SYN-0139619,2026-04,Co-Op Apt,Sequoiabourne,358200.0,511591.0,extra_trees
+SYN-0133594,2026-04,Condo Apt,Rowanridge,451300.0,438690.0,extra_trees
+SYN-0086324,2026-04,Detached,Pinevale,1357400.0,1879632.0,extra_trees
+SYN-0052413,2026-04,Condo Apt,Aspenworth,548100.0,652148.0,extra_trees
+SYN-0035068,2026-04,Detached,Hickoryhaven,1246100.0,1445285.0,extra_trees
+SYN-0155554,2026-04,Condo Apt,Cedarview,531700.0,439958.0,extra_trees
+SYN-0121112,2026-04,Detached,Ashbank,929400.0,1213758.0,extra_trees
+SYN-0063142,2026-04,Condo Apt,Sumaccrest,718400.0,621204.0,extra_trees
+SYN-0012726,2026-04,Detached,Birchheights,945800.0,970952.0,extra_trees
+SYN-0069081,2026-04,Detached,Elmpark,946100.0,1073465.0,extra_trees
+SYN-0121835,2026-04,Detached,Rowanridge,1347600.0,1333506.0,extra_trees
+SYN-0028113,2026-04,Condo Apt,Junipergardens,811400.0,828192.0,extra_trees
+SYN-0006120,2026-04,Condo Townhouse,Cedarview,718200.0,742443.0,extra_trees
+SYN-0019965,2026-04,Condo Apt,Cedarview,349100.0,319896.0,extra_trees
+SYN-0005330,2026-04,Detached,Maplepark,3013600.0,5453720.0,extra_trees
+SYN-0075704,2026-04,Condo Apt,Juniperbrook,520400.0,695454.0,extra_trees
+SYN-0067303,2026-04,Condo Apt,Maplebank,556700.0,548052.0,extra_trees
+SYN-0133961,2026-04,Condo Apt,Ashbank,588000.0,478439.0,extra_trees
+SYN-0095141,2026-04,Condo Apt,Elmview,2827200.0,1860898.0,extra_trees
+SYN-0022645,2026-04,Condo Townhouse,Rowangardens,638100.0,665070.0,extra_trees
+SYN-0029153,2026-04,Condo Apt,Sequoiaview,436500.0,618799.0,extra_trees
+SYN-0134225,2026-04,Condo Apt,Hickoryhaven,585900.0,693878.0,extra_trees
+SYN-0005875,2026-04,Freehold Townhouse,Aspenwood,853300.0,1181564.0,extra_trees
+SYN-0092080,2026-04,Condo Apt,Cypressdale,681800.0,675352.0,extra_trees
+SYN-0014570,2026-04,Condo Apt,Hickoryridge,482500.0,505484.0,extra_trees
+SYN-0087497,2026-04,Condo Apt,Chestnutglen,446100.0,538482.0,extra_trees
+SYN-0083692,2026-04,Condo Apt,Cypressbrook,390500.0,460036.0,extra_trees
+SYN-0028251,2026-04,Condo Apt,Tamarackmills,621900.0,765283.0,extra_trees
+SYN-0015871,2026-04,Condo Apt,Chestnutmills,354500.0,428819.0,extra_trees
+SYN-0131526,2026-04,Condo Apt,Walnutfield,791100.0,930482.0,extra_trees
+SYN-0135893,2026-04,Condo Apt,Cedarglen,611500.0,635859.0,extra_trees
+SYN-0017616,2026-04,Detached,Lindenvale,658900.0,949752.0,extra_trees
+SYN-0118772,2026-04,Condo Apt,Dogwoodcliffe,401500.0,566646.0,extra_trees
+SYN-0149120,2026-04,Detached,Pineglen,1426300.0,1460192.0,extra_trees
+SYN-0044599,2026-04,Detached,Chestnutvale,1014700.0,1330172.0,extra_trees
+SYN-0126168,2026-04,Semi-Detached,Cypressbrook,1423500.0,1172171.0,extra_trees
+SYN-0011289,2026-04,Detached,Hemlockvale,947200.0,1274770.0,extra_trees
+SYN-0009256,2026-04,Condo Apt,Walnuthollow,882400.0,956726.0,extra_trees
+SYN-0026693,2026-04,Condo Apt,Mulberryvale,655600.0,863527.0,extra_trees
+SYN-0145269,2026-04,Detached,Rowangardens,1154200.0,1001673.0,extra_trees
+SYN-0114238,2026-04,Detached,Willowpark,3913800.0,3501876.0,extra_trees
+SYN-0075016,2026-04,Condo Apt,Hickoryhaven,756500.0,600859.0,extra_trees
+SYN-0017500,2026-04,Freehold Townhouse,Junipergardens,966100.0,1229243.0,extra_trees
+SYN-0068668,2026-04,Condo Apt,Willowpark,856600.0,970723.0,extra_trees
+SYN-0096939,2026-04,Condo Apt,Sequoiaview,414500.0,484188.0,extra_trees
+SYN-0081782,2026-04,Condo Townhouse,Maplebank,422300.0,539014.0,extra_trees
+SYN-0141692,2026-04,Detached,Elmmills,947400.0,1217768.0,extra_trees
+SYN-0095394,2026-04,Semi-Detached,Sumacvale,850200.0,1234569.0,extra_trees
+SYN-0005414,2026-04,Condo Apt,Cedarheights,1065300.0,979424.0,extra_trees
+SYN-0045930,2026-04,Condo Apt,Mulberryvale,465300.0,550560.0,extra_trees
+SYN-0092247,2026-04,Detached,Birchheights,1148800.0,1178799.0,extra_trees
+SYN-0094650,2026-04,Condo Apt,Cypresspark,516900.0,537535.0,extra_trees
+SYN-0106033,2026-04,Condo Apt,Rowangrove,439700.0,433377.0,extra_trees
+SYN-0154042,2026-04,Condo Apt,Lindencliffe,741400.0,779819.0,extra_trees
+SYN-0154390,2026-04,Condo Apt,Elmview,797600.0,868238.0,extra_trees
+SYN-0083232,2026-04,Condo Apt,Balsamgrove,556900.0,537800.0,extra_trees
+SYN-0090502,2026-04,Condo Townhouse,Balsamwood,691700.0,942026.0,extra_trees
+SYN-0107233,2026-04,Condo Apt,Elmview,1421800.0,1027248.0,extra_trees
+SYN-0076227,2026-04,Condo Apt,Elmcrest,667700.0,560234.0,extra_trees
+SYN-0054043,2026-04,Detached,Dogwoodglen,1091400.0,1116305.0,extra_trees
+SYN-0123177,2026-04,Semi-Detached,Rowanbank,845300.0,1076909.0,extra_trees
+SYN-0067671,2026-04,Condo Apt,Cedarheights,1175200.0,1053119.0,extra_trees
+SYN-0000806,2026-04,Detached,Chestnutglen,1802200.0,2005260.0,extra_trees
+SYN-0152495,2026-04,Detached,Elmbourne,1485500.0,1489267.0,extra_trees
+SYN-0005754,2026-04,Detached,Sycamoredale,1740100.0,1361280.0,extra_trees
+SYN-0151404,2026-04,Condo Apt,Sumacfield,659100.0,560661.0,extra_trees
+SYN-0143300,2026-04,Detached,Rowanridge,1776900.0,1830281.0,extra_trees
+SYN-0138867,2026-04,Semi-Detached,Maplemills,1931900.0,1650051.0,extra_trees
+SYN-0033546,2026-04,Condo Townhouse,Birchhollow,759700.0,759635.0,extra_trees
+SYN-0030790,2026-04,Condo Apt,Juniperhaven,673300.0,685569.0,extra_trees
+SYN-0080048,2026-04,Condo Apt,Elmview,883600.0,1115693.0,extra_trees
+SYN-0026446,2026-04,Condo Apt,Elmcrest,637500.0,583956.0,extra_trees
+SYN-0082200,2026-04,Condo Apt,Elmview,486400.0,608224.0,extra_trees
+SYN-0098996,2026-04,Condo Apt,Cedarglen,424300.0,448181.0,extra_trees
+SYN-0080568,2026-04,Detached,Aspenwood,1532600.0,1464744.0,extra_trees
+SYN-0034969,2026-04,Condo Apt,Rowangardens,484900.0,560761.0,extra_trees
+SYN-0071377,2026-04,Detached,Sequoiahollow,1349000.0,1745412.0,extra_trees
+SYN-0083300,2026-04,Condo Apt,Cypressglen,451200.0,504006.0,extra_trees
+SYN-0140104,2026-04,Condo Apt,Hemlockhollow,599000.0,534947.0,extra_trees
+SYN-0034387,2026-04,Condo Apt,Beechbourne,655200.0,618853.0,extra_trees
+SYN-0147271,2026-04,Detached,Maplebrook,1241400.0,1221751.0,extra_trees
+SYN-0059101,2026-04,Condo Apt,Elmbrook,552700.0,512897.0,extra_trees
+SYN-0019870,2026-04,Condo Apt,Dogwoodmills,434700.0,559908.0,extra_trees
+SYN-0032584,2026-04,Semi-Detached,Juniperhaven,1062600.0,1231136.0,extra_trees
+SYN-0057928,2026-04,Detached,Maplevale,1047300.0,1263860.0,extra_trees
+SYN-0073772,2026-04,Condo Apt,Magnoliabank,412100.0,507646.0,extra_trees
+SYN-0113471,2026-04,Detached,Hemlockvale,1873900.0,1326209.0,extra_trees
+SYN-0152619,2026-04,Condo Apt,Elmview,593100.0,623027.0,extra_trees
+SYN-0091473,2026-04,Condo Apt,Hawthornbourne,779200.0,641902.0,extra_trees
+SYN-0005975,2026-04,Condo Apt,Larchview,859600.0,1042869.0,extra_trees
+SYN-0140327,2026-04,Semi-Detached,Oakview,898300.0,1032850.0,extra_trees
+SYN-0094560,2026-04,Condo Apt,Chestnutbourne,443000.0,443878.0,extra_trees
+SYN-0081111,2026-04,Condo Apt,Beechbourne,672800.0,694971.0,extra_trees
+SYN-0077461,2026-04,Detached,Willowview,2238600.0,2102619.0,extra_trees
+SYN-0087518,2026-04,Detached,Beechbourne,2255700.0,2247326.0,extra_trees
+SYN-0087754,2026-04,Condo Townhouse,Aspenworth,662700.0,835842.0,extra_trees
+SYN-0031079,2026-04,Detached,Maplegrove,1296700.0,1059011.0,extra_trees
+SYN-0074641,2026-04,Detached,Chestnutview,1554800.0,1585690.0,extra_trees
+SYN-0003843,2026-04,Semi-Detached,Elmcrest,1142400.0,1235507.0,extra_trees
+SYN-0086926,2026-04,Detached,Lindendale,4674900.0,4482412.0,extra_trees
+SYN-0144991,2026-04,Condo Apt,Lindenridge,454500.0,504551.0,extra_trees
+SYN-0069652,2026-04,Condo Apt,Beechbourne,627700.0,599615.0,extra_trees
+SYN-0021238,2026-04,Condo Townhouse,Hickorybourne,725000.0,684662.0,extra_trees
+SYN-0071593,2026-04,Condo Apt,Cedarview,320400.0,377740.0,extra_trees
+SYN-0079249,2026-04,Detached,Maplevale,2168600.0,1472559.0,extra_trees
+SYN-0040407,2026-04,Detached,Walnuthollow,1097700.0,1204937.0,extra_trees
+SYN-0144279,2026-04,Condo Apt,Hickoryhaven,858900.0,994339.0,extra_trees
+SYN-0067207,2026-04,Semi-Detached,Sycamoreglen,1242900.0,1467976.0,extra_trees
+SYN-0100607,2026-04,Condo Apt,Hawthornbourne,1053300.0,1064793.0,extra_trees
+SYN-0150738,2026-04,Detached,Elmbourne,1846200.0,1611798.0,extra_trees
+SYN-0114905,2026-04,Condo Townhouse,Oakbourne,443900.0,435426.0,extra_trees
+SYN-0121371,2026-04,Detached,Elmbank,1025400.0,1328572.0,extra_trees
+SYN-0099732,2026-04,Condo Townhouse,Hawthorncliffe,584000.0,665710.0,extra_trees
+SYN-0114369,2026-04,Condo Apt,Poplargardens,644700.0,706438.0,extra_trees
+SYN-0073812,2026-04,Condo Apt,Junipergardens,633500.0,716010.0,extra_trees
+SYN-0100189,2026-04,Condo Apt,Cedarheights,1022900.0,2076425.0,extra_trees
+SYN-0054650,2026-04,Condo Apt,Hickoryhaven,612100.0,536340.0,extra_trees
+SYN-0050890,2026-04,Condo Apt,Sumacdale,508400.0,595539.0,extra_trees
+SYN-0047268,2026-04,Condo Apt,Cypressbrook,489500.0,481260.0,extra_trees
+SYN-0146535,2026-04,Detached,Beechbourne,1648200.0,1145463.0,extra_trees
+SYN-0112076,2026-04,Semi-Detached,Birchgrove,1212000.0,1144798.0,extra_trees
+SYN-0135938,2026-04,Detached,Hemlockvale,2018700.0,1701754.0,extra_trees
+SYN-0073650,2026-04,Condo Apt,Oakbourne,561400.0,633916.0,extra_trees
+SYN-0053896,2026-04,Detached,Elmbourne,946200.0,994328.0,extra_trees
+SYN-0032972,2026-04,Freehold Townhouse,Hemlockvale,1083700.0,1221390.0,extra_trees
+SYN-0034123,2026-04,Condo Apt,Chestnutbourne,426100.0,453693.0,extra_trees
+SYN-0068509,2026-04,Condo Townhouse,Willowglen,811400.0,804904.0,extra_trees
+SYN-0061371,2026-04,Condo Apt,Alderworth,365400.0,518034.0,extra_trees
+SYN-0131860,2026-04,Detached,Hemlockvale,1259300.0,990619.0,extra_trees
+SYN-0085502,2026-04,Detached,Mapleview,1534100.0,1323449.0,extra_trees
+SYN-0092957,2026-04,Detached,Maplevale,1478100.0,1529590.0,extra_trees
+SYN-0069445,2026-04,Condo Apt,Elmview,830000.0,892755.0,extra_trees
+SYN-0064055,2026-04,Semi-Detached,Hazelbourne,872200.0,967378.0,extra_trees
+SYN-0066724,2026-04,Detached,Hickoryhaven,1136000.0,1176377.0,extra_trees
+SYN-0029624,2026-04,Detached,Cedarbank,1267800.0,1287467.0,extra_trees
+SYN-0147181,2026-04,Detached,Cedargardens,821300.0,998359.0,extra_trees
+SYN-0112725,2026-04,Detached,Hemlockvale,1136300.0,1295361.0,extra_trees
+SYN-0008231,2026-04,Condo Townhouse,Hemlockvale,891900.0,916893.0,extra_trees
+SYN-0136886,2026-04,Condo Apt,Cypressdale,588100.0,546284.0,extra_trees
+SYN-0137100,2026-04,Detached,Hemlockvale,807700.0,1247296.0,extra_trees
+SYN-0138944,2026-04,Detached,Junipergardens,1641700.0,1084249.0,extra_trees
+SYN-0114563,2026-04,Semi-Detached,Walnutfield,1844900.0,1567286.0,extra_trees
+SYN-0111994,2026-04,Condo Apt,Balsamgrove,563100.0,492614.0,extra_trees
+SYN-0129417,2026-04,Detached,Maplebrook,1762600.0,2449405.0,extra_trees
+SYN-0142193,2026-04,Freehold Townhouse,Juniperheights,2040200.0,1798560.0,extra_trees
+SYN-0088283,2026-04,Detached,Walnuthollow,1148600.0,1068093.0,extra_trees
+SYN-0002654,2026-04,Condo Apt,Elmgardens,730600.0,686454.0,extra_trees
+SYN-0152624,2026-04,Condo Apt,Lindenridge,439300.0,501198.0,extra_trees
+SYN-0080300,2026-04,Semi-Detached,Hemlockvale,1119500.0,1015083.0,extra_trees
+SYN-0018008,2026-04,Condo Apt,Hickoryhaven,611800.0,808639.0,extra_trees
+SYN-0035173,2026-04,Detached,Dogwoodmills,955600.0,1187360.0,extra_trees
+SYN-0026113,2026-04,Freehold Townhouse,Dogwoodglen,1063000.0,1086154.0,extra_trees
+SYN-0028367,2026-04,Condo Apt,Hazelmills,352600.0,465602.0,extra_trees
+SYN-0051834,2026-04,Condo Apt,Rowanbrook,775100.0,749192.0,extra_trees
+SYN-0078031,2026-04,Condo Apt,Ashworth,677900.0,721871.0,extra_trees
+SYN-0037806,2026-04,Detached,Poplargardens,1636400.0,985042.0,extra_trees
+SYN-0068497,2026-04,Detached,Sequoiaview,874600.0,1038678.0,extra_trees
+SYN-0135413,2026-04,Condo Townhouse,Cypressbrook,706500.0,755993.0,extra_trees
+SYN-0034566,2026-04,Freehold Townhouse,Sumacpark,679600.0,942294.0,extra_trees
+SYN-0085753,2026-04,Detached,Sycamoreview,911800.0,844029.0,extra_trees
+SYN-0054032,2026-04,Condo Townhouse,Elmview,1073700.0,1326027.0,extra_trees
+SYN-0008068,2026-04,Condo Apt,Elmbrook,471100.0,463142.0,extra_trees
+SYN-0130212,2026-04,Condo Townhouse,Hickorybourne,593900.0,664483.0,extra_trees
+SYN-0046580,2026-04,Freehold Townhouse,Willowview,963200.0,1131941.0,extra_trees
+SYN-0153137,2026-04,Condo Apt,Cedarglen,446300.0,561726.0,extra_trees
+SYN-0112671,2026-04,Condo Apt,Chestnutbank,546800.0,640240.0,extra_trees
+SYN-0140846,2026-04,Condo Apt,Lindencliffe,670000.0,759415.0,extra_trees
+SYN-0102249,2026-04,Condo Apt,Cedarwood,484900.0,566646.0,extra_trees
+SYN-0147802,2026-04,Condo Apt,Cedarview,338900.0,370242.0,extra_trees
+SYN-0013290,2026-04,Detached,Cypressglen,949600.0,985135.0,extra_trees
+SYN-0100333,2026-04,Condo Apt,Walnutfield,638200.0,606767.0,extra_trees
+SYN-0000589,2026-04,Condo Apt,Cypressdale,539200.0,603357.0,extra_trees
+SYN-0157258,2026-04,Condo Apt,Rowanbrook,573900.0,608585.0,extra_trees
+SYN-0001146,2026-04,Detached,Sequoiabourne,1288900.0,1408129.0,extra_trees
+SYN-0138932,2026-04,Detached,Lindenvale,1946700.0,2091367.0,extra_trees
+SYN-0044927,2026-04,Semi-Detached,Willowglen,1214600.0,1021569.0,extra_trees
+SYN-0103837,2026-04,Condo Apt,Ashworth,708700.0,706469.0,extra_trees
+SYN-0013951,2026-04,Detached,Hawthorncliffe,723400.0,763184.0,extra_trees
+SYN-0102619,2026-04,Condo Apt,Cypresspark,702100.0,814545.0,extra_trees
+SYN-0153511,2026-04,Condo Apt,Lindenridge,426700.0,493946.0,extra_trees
+SYN-0096728,2026-04,Condo Apt,Maplebank,314100.0,430777.0,extra_trees
+SYN-0120327,2026-04,Detached,Hemlockvale,1182900.0,988483.0,extra_trees
+SYN-0022723,2026-04,Condo Apt,Elmview,550000.0,670261.0,extra_trees
+SYN-0157781,2026-04,Semi-Detached,Elmcrest,1160000.0,1242094.0,extra_trees
+SYN-0156219,2026-04,Detached,Elmpark,1126500.0,1188324.0,extra_trees
+SYN-0076280,2026-04,Condo Townhouse,Cedarheights,954700.0,1087003.0,extra_trees
+SYN-0139945,2026-04,Semi-Detached,Willowview,1084700.0,1066498.0,extra_trees
+SYN-0096548,2026-04,Condo Apt,Cypressdale,796500.0,948213.0,extra_trees
+SYN-0014927,2026-04,Condo Apt,Rowanbrook,763300.0,756186.0,extra_trees
+SYN-0081531,2026-04,Condo Apt,Willowglen,503900.0,587488.0,extra_trees
+SYN-0120122,2026-04,Condo Apt,Sequoiaview,470500.0,486800.0,extra_trees
+SYN-0039063,2026-04,Detached,Cedarbank,1169600.0,1469975.0,extra_trees
+SYN-0082331,2026-04,Detached,Ashworth,6495100.0,3217954.0,extra_trees
+SYN-0109030,2026-04,Detached,Sprucehollow,1028600.0,1459546.0,extra_trees
+SYN-0050251,2026-04,Detached,Walnutpark,817600.0,1127543.0,extra_trees
+SYN-0131397,2026-04,Condo Apt,Cedarview,511500.0,505590.0,extra_trees
+SYN-0001069,2026-04,Detached,Beechbourne,1626600.0,1159809.0,extra_trees
+SYN-0038484,2026-04,Detached,Hickorymills,1697200.0,1382640.0,extra_trees
+SYN-0081706,2026-04,Condo Apt,Hazelmills,532800.0,552565.0,extra_trees
+SYN-0007377,2026-04,Condo Apt,Junipergardens,435900.0,554876.0,extra_trees
+SYN-0053323,2026-04,Detached,Sequoiaview,1841200.0,2905485.0,extra_trees
+SYN-0058762,2026-04,Semi-Detached,Willowglen,1225600.0,1019849.0,extra_trees
+SYN-0054911,2026-04,Semi-Detached,Cedarview,740800.0,1065556.0,extra_trees
+SYN-0025202,2026-04,Condo Apt,Ashworth,944600.0,999560.0,extra_trees
+SYN-0000225,2026-04,Condo Townhouse,Junipergardens,910500.0,1076712.0,extra_trees
+SYN-0148664,2026-04,Semi-Detached,Hickoryvale,892800.0,1168479.0,extra_trees
+SYN-0086066,2026-04,Condo Apt,Poplarview,588400.0,629398.0,extra_trees
+SYN-0024939,2026-04,Condo Apt,Oakbourne,554500.0,507006.0,extra_trees
+SYN-0151685,2026-04,Detached,Mulberrydale,1288800.0,1624940.0,extra_trees
+SYN-0046604,2026-04,Condo Apt,Cedarglen,395900.0,431246.0,extra_trees
+SYN-0019644,2026-04,Condo Apt,Cypresspark,550500.0,548901.0,extra_trees
+SYN-0096275,2026-04,Freehold Townhouse,Cedarwood,923700.0,1066267.0,extra_trees
+SYN-0036482,2026-04,Condo Apt,Hickorybourne,494900.0,548007.0,extra_trees
+SYN-0112809,2026-04,Detached,Cedarwood,857400.0,964144.0,extra_trees
+SYN-0050839,2026-04,Condo Apt,Elmbrook,340600.0,374158.0,extra_trees
+SYN-0104142,2026-04,Detached,Hickoryglen,755300.0,1184281.0,extra_trees
+SYN-0053946,2026-04,Detached,Balsamgrove,2088200.0,1679633.0,extra_trees
+SYN-0114966,2026-04,Detached,Hickoryridge,1825600.0,1581280.0,extra_trees
+SYN-0117799,2026-04,Semi-Detached,Pineridge,1038200.0,1060420.0,extra_trees
+SYN-0064495,2026-04,Detached,Hawthorncliffe,1109100.0,1035867.0,extra_trees
+SYN-0099973,2026-04,Condo Apt,Hickoryglen,576200.0,629843.0,extra_trees
+SYN-0078803,2026-04,Detached,Hazelbourne,580100.0,696498.0,extra_trees
+SYN-0016181,2026-04,Condo Apt,Cypressdale,540500.0,553253.0,extra_trees
+SYN-0090201,2026-04,Detached,Magnoliabank,781700.0,955768.0,extra_trees
+SYN-0152075,2026-04,Detached,Hickoryvale,1312600.0,2699466.0,extra_trees
+SYN-0013673,2026-04,Condo Apt,Walnutpark,407700.0,576542.0,extra_trees
+SYN-0045011,2026-04,Detached,Maplegrove,3985100.0,2902746.0,extra_trees
+SYN-0079292,2026-04,Condo Apt,Cedarglen,465700.0,580708.0,extra_trees
+SYN-0073326,2026-04,Freehold Townhouse,Rowanbank,807500.0,1044590.0,extra_trees
+SYN-0142662,2026-04,Detached,Cedargardens,929900.0,1134453.0,extra_trees
+SYN-0141481,2026-04,Freehold Townhouse,Mulberryhaven,844100.0,1025546.0,extra_trees
+SYN-0113717,2026-04,Detached,Hazelbourne,932800.0,1119157.0,extra_trees
+SYN-0049866,2026-04,Condo Apt,Hazelmills,565600.0,616991.0,extra_trees
+SYN-0055893,2026-04,Condo Apt,Cypressdale,899600.0,1004030.0,extra_trees
+SYN-0140973,2026-04,Condo Apt,Walnutfield,538400.0,524693.0,extra_trees
+SYN-0153252,2026-04,Condo Apt,Chestnutbourne,714100.0,700538.0,extra_trees
+SYN-0117302,2026-04,Condo Apt,Sumacpark,410700.0,409638.0,extra_trees
+SYN-0090147,2026-04,Detached,Aspenworth,1502400.0,1508291.0,extra_trees
+SYN-0025244,2026-04,Condo Apt,Elmgardens,723000.0,691696.0,extra_trees
+SYN-0088588,2026-04,Condo Apt,Sequoiabourne,409200.0,508977.0,extra_trees
+SYN-0113655,2026-04,Detached,Cedargardens,1199100.0,1112247.0,extra_trees
+SYN-0088184,2026-04,Condo Apt,Poplarview,539200.0,696008.0,extra_trees
+SYN-0092337,2026-04,Detached,Maplevale,1941100.0,2173179.0,extra_trees
+SYN-0098013,2026-04,Semi-Detached,Rowanridge,1053100.0,1055612.0,extra_trees
+SYN-0006037,2026-04,Condo Apt,Cedargardens,633500.0,595406.0,extra_trees
+SYN-0039070,2026-04,Detached,Lindendale,4233700.0,4476400.0,extra_trees
+SYN-0065906,2026-04,Detached,Poplarview,1988100.0,2093801.0,extra_trees
+SYN-0034127,2026-04,Detached,Oakview,3443300.0,1582123.0,extra_trees
+SYN-0084839,2026-04,Detached,Spruceview,1497000.0,1014615.0,extra_trees
+SYN-0095449,2026-04,Semi-Detached,Willowglen,1017900.0,1179070.0,extra_trees
+SYN-0044299,2026-04,Condo Apt,Elmview,707200.0,915580.0,extra_trees
+SYN-0000296,2026-04,Detached,Willowglen,1350000.0,1157419.0,extra_trees
+SYN-0043466,2026-04,Condo Apt,Chestnutbank,447900.0,453742.0,extra_trees
+SYN-0125127,2026-04,Detached,Hickorymills,2824400.0,1458565.0,extra_trees
+SYN-0013984,2026-04,Condo Apt,Walnutfield,534400.0,639458.0,extra_trees
+SYN-0019989,2026-04,Condo Apt,Hickorybourne,404600.0,465763.0,extra_trees
+SYN-0024238,2026-04,Freehold Townhouse,Dogwoodglen,1288800.0,1363157.0,extra_trees
+SYN-0070858,2026-04,Condo Apt,Willowpark,548000.0,512552.0,extra_trees
+SYN-0034946,2026-04,Semi-Detached,Cedargrove,1027600.0,917926.0,extra_trees
+SYN-0034818,2026-04,Condo Apt,Ashworth,894900.0,922436.0,extra_trees
+SYN-0157078,2026-04,Condo Apt,Sequoiaview,450400.0,424461.0,extra_trees
+SYN-0113696,2026-04,Condo Apt,Magnoliabank,482900.0,655445.0,extra_trees
+SYN-0043659,2026-04,Semi-Detached,Sprucehaven,1091600.0,1189048.0,extra_trees
+SYN-0087016,2026-04,Detached,Cypressheights,1019400.0,1128900.0,extra_trees
+SYN-0037098,2026-04,Detached,Birchgrove,2766600.0,2637548.0,extra_trees
+SYN-0063806,2026-04,Semi-Detached,Junipergardens,1308300.0,1242884.0,extra_trees
+SYN-0116479,2026-04,Detached,Pineglen,797400.0,879449.0,extra_trees
+SYN-0049954,2026-04,Condo Apt,Lindenridge,643400.0,848554.0,extra_trees
+SYN-0039073,2026-04,Detached,Aspenworth,692100.0,1278360.0,extra_trees
+SYN-0114582,2026-04,Condo Apt,Cypresspark,491500.0,560518.0,extra_trees
+SYN-0023821,2026-04,Detached,Beechbourne,1065400.0,1106557.0,extra_trees
+SYN-0127951,2026-04,Freehold Townhouse,Rowanbank,1078800.0,1018588.0,extra_trees
+SYN-0150923,2026-04,Condo Townhouse,Rowanbrook,1529700.0,1216340.0,extra_trees
+SYN-0091393,2026-04,Detached,Poplargardens,4433600.0,3233484.0,extra_trees
+SYN-0029101,2026-04,Condo Apt,Birchheights,599100.0,517968.0,extra_trees
+SYN-0032202,2026-04,Condo Apt,Magnoliaview,399000.0,459637.0,extra_trees
+SYN-0065572,2026-04,Condo Apt,Magnoliaworth,844400.0,664725.0,extra_trees
+SYN-0059588,2026-04,Condo Apt,Elmview,2583800.0,2944184.0,extra_trees
+SYN-0059736,2026-04,Condo Apt,Sumacvale,638900.0,626889.0,extra_trees
+SYN-0151083,2026-04,Detached,Walnuthollow,1295000.0,1015930.0,extra_trees
+SYN-0140193,2026-04,Semi-Detached,Spruceview,887200.0,1004632.0,extra_trees
+SYN-0132795,2026-04,Detached,Maplebank,1040000.0,1739606.0,extra_trees
+SYN-0111561,2026-04,Semi-Detached,Spruceview,1091200.0,1139355.0,extra_trees
+SYN-0069548,2026-04,Detached,Chestnutridge,1621400.0,1522734.0,extra_trees
+SYN-0010741,2026-04,Detached,Hazelfield,14833100.0,10170261.0,extra_trees
+SYN-0092804,2026-04,Condo Apt,Lindendale,490500.0,566646.0,extra_trees
+SYN-0006753,2026-04,Condo Apt,Cypresspark,831100.0,681059.0,extra_trees
+SYN-0102238,2026-04,Detached,Dogwoodhaven,1102100.0,1026766.0,extra_trees
+SYN-0139818,2026-04,Freehold Townhouse,Walnutpark,902300.0,1124522.0,extra_trees
+SYN-0002119,2026-04,Semi-Detached,Sumacfield,974800.0,976438.0,extra_trees
+SYN-0115051,2026-04,Detached,Mulberrydale,848600.0,1073757.0,extra_trees
+SYN-0035791,2026-04,Condo Apt,Hickoryhaven,725300.0,696737.0,extra_trees
+SYN-0047386,2026-04,Detached,Sycamoreview,1125800.0,1533675.0,extra_trees
+SYN-0139078,2026-04,Condo Apt,Juniperheights,1378300.0,1005973.0,extra_trees
+SYN-0000306,2026-04,Condo Apt,Hazelmills,574800.0,618223.0,extra_trees
+SYN-0083191,2026-04,Condo Apt,Poplarcrest,1907900.0,2028293.0,extra_trees
+SYN-0068714,2026-04,Semi-Detached,Chestnutbourne,833900.0,903890.0,extra_trees
+SYN-0073955,2026-04,Detached,Hemlockvale,1350900.0,1464476.0,extra_trees
+SYN-0080271,2026-04,Detached,Chestnutbourne,1159900.0,1310840.0,extra_trees
+SYN-0107977,2026-04,Co-Op Apt,Elmbrook,575400.0,534422.0,extra_trees
+SYN-0043519,2026-04,Detached,Birchhollow,2459800.0,1609396.0,extra_trees
+SYN-0124477,2026-04,Condo Townhouse,Hawthornbourne,1682200.0,1670473.0,extra_trees
+SYN-0155421,2026-04,Condo Apt,Magnoliaworth,461100.0,443743.0,extra_trees
+SYN-0157996,2026-04,Condo Apt,Mulberryvale,480300.0,626399.0,extra_trees
+SYN-0116496,2026-04,Detached,Ashbank,1193800.0,1395671.0,extra_trees
+SYN-0033894,2026-04,Detached,Chestnutbank,1311000.0,1810140.0,extra_trees
+SYN-0082861,2026-04,Detached,Cypressbrook,1404800.0,1551246.0,extra_trees
+SYN-0130985,2026-04,Condo Apt,Cypressbrook,383100.0,427840.0,extra_trees
+SYN-0054213,2026-04,Detached,Magnoliavale,801800.0,998907.0,extra_trees
+SYN-0013563,2026-04,Condo Apt,Sumacdale,598100.0,571278.0,extra_trees
+SYN-0040881,2026-04,Detached,Pinevale,870800.0,1104303.0,extra_trees
+SYN-0043480,2026-04,Condo Apt,Cypressdale,470900.0,504259.0,extra_trees
+SYN-0006597,2026-04,Detached,Beechcrest,3447500.0,4226010.0,extra_trees
+SYN-0096995,2026-04,Semi-Detached,Balsamwood,904700.0,1159709.0,extra_trees
+SYN-0078798,2026-04,Condo Townhouse,Willowglen,675500.0,703363.0,extra_trees
+SYN-0047286,2026-04,Condo Apt,Hickoryhaven,617100.0,704559.0,extra_trees
+SYN-0109756,2026-04,Semi-Detached,Magnoliabank,1241700.0,1189280.0,extra_trees
+SYN-0074961,2026-04,Semi-Detached,Sumacworth,1285100.0,1290055.0,extra_trees
+SYN-0115988,2026-04,Detached,Sycamoreview,1857800.0,2268965.0,extra_trees
+SYN-0082529,2026-04,Detached,Junipergardens,2140300.0,1579138.0,extra_trees
+SYN-0024555,2026-04,Condo Apt,Elmview,711500.0,653266.0,extra_trees
+SYN-0114867,2026-04,Detached,Magnoliaglen,1738300.0,1222999.0,extra_trees
+SYN-0024858,2026-04,Condo Apt,Cedargrove,761600.0,802742.0,extra_trees
+SYN-0134560,2026-04,Co-Op Apt,Cypressglen,417800.0,476459.0,extra_trees
+SYN-0088927,2026-04,Condo Apt,Elmgardens,559800.0,515410.0,extra_trees
+SYN-0106898,2026-04,Detached,Dogwoodglen,995900.0,878095.0,extra_trees
+SYN-0055252,2026-04,Detached,Junipergardens,1273500.0,1185318.0,extra_trees
+SYN-0112093,2026-04,Condo Townhouse,Birchgrove,872700.0,905855.0,extra_trees
+SYN-0092205,2026-04,Condo Apt,Sycamoreglen,466200.0,521655.0,extra_trees
+SYN-0026396,2026-04,Condo Apt,Cedarview,393100.0,453348.0,extra_trees
+SYN-0051866,2026-04,Condo Apt,Ashhollow,402200.0,507015.0,extra_trees
+SYN-0093867,2026-04,Condo Apt,Mulberrydale,578000.0,655053.0,extra_trees
+SYN-0123842,2026-04,Condo Apt,Sycamoreglen,752700.0,815958.0,extra_trees
+SYN-0112911,2026-04,Condo Apt,Junipergardens,586900.0,686732.0,extra_trees
+SYN-0092401,2026-04,Detached,Junipergardens,1722200.0,1738154.0,extra_trees
+SYN-0014787,2026-04,Condo Apt,Mapleview,465200.0,468885.0,extra_trees
+SYN-0016085,2026-04,Freehold Townhouse,Birchheights,880600.0,1175515.0,extra_trees
+SYN-0082705,2026-04,Condo Apt,Junipergardens,510300.0,553479.0,extra_trees
+SYN-0035255,2026-04,Detached,Hemlockvale,1125900.0,1098109.0,extra_trees
+SYN-0107480,2026-04,Condo Apt,Cedarview,264300.0,326291.0,extra_trees
+SYN-0024136,2026-04,Detached,Walnuthollow,1476300.0,1505216.0,extra_trees
+SYN-0098515,2026-04,Freehold Townhouse,Juniperhaven,1446800.0,1075557.0,extra_trees
+SYN-0073403,2026-04,Detached,Juniperpark,1380800.0,1706580.0,extra_trees
+SYN-0118685,2026-04,Detached,Lindencliffe,2410200.0,2133559.0,extra_trees
+SYN-0094450,2026-04,Detached,Oakview,1774400.0,2730396.0,extra_trees
+SYN-0047605,2026-04,Detached,Poplarview,1666600.0,1424288.0,extra_trees
+SYN-0091960,2026-04,Condo Apt,Willowglen,387900.0,402975.0,extra_trees
+SYN-0035246,2026-04,Condo Apt,Ashworth,772400.0,828381.0,extra_trees
+SYN-0037332,2026-04,Detached,Sycamoreview,847500.0,875889.0,extra_trees
+SYN-0040101,2026-04,Freehold Townhouse,Willowglen,1083000.0,1158633.0,extra_trees
+SYN-0155081,2026-04,Condo Apt,Elmgardens,1095600.0,1008485.0,extra_trees
+SYN-0117416,2026-04,Detached,Chestnutview,1264400.0,1296526.0,extra_trees
+SYN-0041551,2026-04,Semi-Detached,Cypressdale,1336900.0,1440526.0,extra_trees
+SYN-0025541,2026-04,Condo Townhouse,Chestnutbourne,853100.0,835435.0,extra_trees
+SYN-0003731,2026-04,Condo Apt,Sumacdale,340700.0,440616.0,extra_trees
+SYN-0115370,2026-04,Condo Apt,Chestnutview,596800.0,560421.0,extra_trees
+SYN-0052550,2026-04,Detached,Poplarview,1454000.0,1432144.0,extra_trees
+SYN-0100048,2026-04,Condo Apt,Balsamgrove,681100.0,566260.0,extra_trees
+SYN-0019826,2026-04,Condo Apt,Walnuthollow,542800.0,691207.0,extra_trees
+SYN-0046422,2026-04,Detached,Birchheights,838800.0,970282.0,extra_trees
+SYN-0102280,2026-04,Condo Apt,Hazelmills,1019000.0,875717.0,extra_trees
+SYN-0139862,2026-04,Condo Apt,Tamarackmills,456100.0,558606.0,extra_trees
+SYN-0055174,2026-04,Condo Apt,Mulberrydale,455800.0,727766.0,extra_trees
+SYN-0085397,2026-04,Condo Apt,Cypressbrook,390300.0,377163.0,extra_trees
+SYN-0118880,2026-04,Detached,Magnoliaglen,1767700.0,1197003.0,extra_trees
+SYN-0136713,2026-04,Condo Apt,Oakbourne,332900.0,419966.0,extra_trees
+SYN-0030847,2026-04,Semi-Detached,Junipergardens,1415100.0,1403692.0,extra_trees
+SYN-0033880,2026-04,Detached,Sycamorehaven,1220600.0,1103990.0,extra_trees
+SYN-0076483,2026-04,Freehold Townhouse,Magnoliaworth,878400.0,1060827.0,extra_trees
+SYN-0128046,2026-04,Freehold Townhouse,Elmbrook,1125400.0,1163561.0,extra_trees
+SYN-0112679,2026-04,Detached,Willowglen,657300.0,947606.0,extra_trees
+SYN-0143032,2026-04,Detached,Maplemills,3815400.0,2032189.0,extra_trees
+SYN-0126820,2026-04,Condo Apt,Balsamgrove,1380100.0,939381.0,extra_trees
+SYN-0061733,2026-04,Condo Apt,Willowglen,584300.0,706438.0,extra_trees
+SYN-0070208,2026-04,Condo Apt,Lindenridge,586100.0,777128.0,extra_trees
+SYN-0070226,2026-04,Condo Apt,Hawthornbourne,598000.0,612255.0,extra_trees
+SYN-0049578,2026-04,Detached,Hickoryhaven,1163000.0,1756277.0,extra_trees
+SYN-0102001,2026-04,Detached,Lindenmills,1104700.0,1330601.0,extra_trees
+SYN-0012417,2026-04,Condo Apt,Hazelfield,986400.0,586290.0,extra_trees
+SYN-0146475,2026-04,Condo Apt,Larchbank,782800.0,622043.0,extra_trees
+SYN-0026652,2026-04,Condo Apt,Willowglen,681400.0,579339.0,extra_trees
+SYN-0003773,2026-04,Detached,Dogwoodbrook,981000.0,1389604.0,extra_trees
+SYN-0068936,2026-04,Detached,Maplebourne,1927400.0,2059289.0,extra_trees
+SYN-0059005,2026-04,Condo Apt,Balsamcrest,454800.0,404377.0,extra_trees
+SYN-0103483,2026-04,Condo Apt,Oakbourne,344800.0,431298.0,extra_trees
+SYN-0088622,2026-04,Detached,Walnutfield,2165400.0,1224202.0,extra_trees
+SYN-0062212,2026-04,Condo Apt,Oakbourne,416600.0,375306.0,extra_trees
+SYN-0074838,2026-04,Condo Townhouse,Tamarackmills,652600.0,803221.0,extra_trees
+SYN-0155120,2026-04,Condo Townhouse,Cedargrove,809600.0,676689.0,extra_trees
+SYN-0118191,2026-04,Condo Apt,Spruceview,662700.0,645542.0,extra_trees
+SYN-0122183,2026-04,Detached,Hazelfield,5182300.0,5875872.0,extra_trees
+SYN-0010138,2026-04,Detached,Elmbourne,1270700.0,1047627.0,extra_trees
+SYN-0049564,2026-04,Condo Apt,Cypresspark,680000.0,566646.0,extra_trees
+SYN-0133454,2026-04,Condo Apt,Poplarview,694600.0,692782.0,extra_trees
+SYN-0052851,2026-04,Detached,Poplargardens,1518900.0,1333618.0,extra_trees
+SYN-0004532,2026-04,Condo Apt,Cypresspark,416100.0,605529.0,extra_trees
+SYN-0031667,2026-04,Condo Apt,Hawthornbourne,725900.0,689013.0,extra_trees
+SYN-0059211,2026-04,Semi-Detached,Balsamgrove,1862900.0,1986824.0,extra_trees
+SYN-0065718,2026-04,Condo Apt,Cedarview,402800.0,436543.0,extra_trees
+SYN-0146533,2026-04,Detached,Tamarackbourne,1078200.0,1269232.0,extra_trees
+SYN-0152095,2026-04,Detached,Magnoliaglen,2051900.0,1383485.0,extra_trees
+SYN-0053482,2026-04,Condo Townhouse,Mulberrydale,846300.0,781221.0,extra_trees
+SYN-0089032,2026-04,Condo Apt,Lindencliffe,406000.0,499656.0,extra_trees
+SYN-0114497,2026-04,Semi-Detached,Birchheights,1165000.0,1259881.0,extra_trees
+SYN-0060119,2026-04,Detached,Sumacfield,1019500.0,1194684.0,extra_trees
+SYN-0005038,2026-04,Condo Apt,Ashbank,423100.0,437559.0,extra_trees
+SYN-0120693,2026-04,Condo Apt,Chestnutbank,555700.0,604848.0,extra_trees
+SYN-0004913,2026-04,Detached,Chestnutmills,1330000.0,1372783.0,extra_trees
+SYN-0102500,2026-04,Condo Apt,Cypressglen,385500.0,559977.0,extra_trees
+SYN-0012366,2026-04,Semi-Detached,Chestnutmills,927800.0,1260909.0,extra_trees
+SYN-0082006,2026-04,Semi-Detached,Aspenwood,1197700.0,1895421.0,extra_trees
+SYN-0153851,2026-04,Condo Apt,Junipergardens,544600.0,692018.0,extra_trees
+SYN-0064268,2026-04,Detached,Chestnutgrove,836600.0,1164357.0,extra_trees
+SYN-0143379,2026-04,Condo Apt,Hazelmills,439100.0,497564.0,extra_trees
+SYN-0115257,2026-04,Condo Apt,Oakbourne,399600.0,411857.0,extra_trees
+SYN-0059115,2026-04,Semi-Detached,Willowglen,1140200.0,1182875.0,extra_trees
+SYN-0031367,2026-04,Condo Apt,Maplebourne,408200.0,484270.0,extra_trees
+SYN-0015457,2026-04,Condo Apt,Sumacpark,373700.0,511268.0,extra_trees
+SYN-0114663,2026-04,Condo Apt,Junipergardens,674200.0,745224.0,extra_trees
+SYN-0125291,2026-04,Condo Apt,Lindendale,1115800.0,2005351.0,extra_trees
+SYN-0064229,2026-04,Semi-Detached,Willowglen,1085000.0,963649.0,extra_trees
+SYN-0080790,2026-04,Condo Apt,Elmview,944400.0,1305236.0,extra_trees
+SYN-0052568,2026-04,Semi-Detached,Beechglen,1835100.0,1441649.0,extra_trees
+SYN-0090085,2026-04,Condo Apt,Balsamgrove,578000.0,555129.0,extra_trees
+SYN-0054959,2026-04,Detached,Beechbourne,1241000.0,1208808.0,extra_trees
+SYN-0104634,2026-04,Semi-Detached,Rowanridge,742000.0,996561.0,extra_trees
+SYN-0057430,2026-04,Detached,Cedarbank,895000.0,1570342.0,extra_trees
+SYN-0124792,2026-04,Detached,Cedarwood,1030400.0,974731.0,extra_trees
+SYN-0081980,2026-04,Detached,Maplevale,1267200.0,1529795.0,extra_trees
+SYN-0141819,2026-04,Condo Apt,Elmbrook,563900.0,521083.0,extra_trees
+SYN-0123574,2026-04,Detached,Cypressbrook,2637600.0,1625601.0,extra_trees
+SYN-0143111,2026-04,Detached,Cedarwood,1131400.0,934335.0,extra_trees
+SYN-0053704,2026-04,Condo Apt,Cedarview,358500.0,453242.0,extra_trees
+SYN-0137818,2026-04,Condo Apt,Mulberryhaven,619700.0,538341.0,extra_trees
+SYN-0097809,2026-04,Detached,Elmbank,762800.0,998144.0,extra_trees
+SYN-0044690,2026-04,Condo Townhouse,Rowanbank,727400.0,685903.0,extra_trees
+SYN-0008180,2026-04,Condo Apt,Balsamgrove,465100.0,558242.0,extra_trees
+SYN-0035202,2026-04,Semi-Detached,Cedarwood,1330100.0,1047858.0,extra_trees
+SYN-0063719,2026-04,Condo Apt,Lindenglen,554800.0,556045.0,extra_trees
+SYN-0002738,2026-04,Condo Apt,Aspenworth,462000.0,365011.0,extra_trees
+SYN-0032313,2026-04,Semi-Detached,Magnoliabank,609600.0,1142319.0,extra_trees
+SYN-0060596,2026-04,Semi-Detached,Sumacfield,988400.0,1053884.0,extra_trees
+SYN-0007691,2026-04,Condo Apt,Poplarview,580600.0,561866.0,extra_trees
+SYN-0101433,2026-04,Semi-Detached,Juniperheights,1765500.0,2059066.0,extra_trees
+SYN-0039103,2026-04,Condo Apt,Lindendale,632000.0,585886.0,extra_trees
+SYN-0045458,2026-04,Condo Townhouse,Balsamgrove,877800.0,895975.0,extra_trees
+SYN-0051574,2026-04,Condo Apt,Dogwoodmills,412000.0,537287.0,extra_trees
+SYN-0100574,2026-04,Semi-Detached,Willowglen,1052400.0,1052299.0,extra_trees
+SYN-0112678,2026-04,Condo Apt,Rowangardens,625200.0,778495.0,extra_trees
+SYN-0046494,2026-04,Detached,Chestnutbourne,854300.0,970141.0,extra_trees
+SYN-0060448,2026-04,Condo Apt,Chestnutbank,389800.0,377996.0,extra_trees
+SYN-0124191,2026-04,Detached,Maplepark,5299800.0,4483503.0,extra_trees
+SYN-0014614,2026-04,Detached,Junipergardens,1305300.0,1316199.0,extra_trees
+SYN-0149866,2026-04,Condo Apt,Elmbrook,583300.0,460857.0,extra_trees
+SYN-0147430,2026-04,Condo Apt,Walnutpark,768400.0,764256.0,extra_trees
+SYN-0024142,2026-04,Condo Apt,Poplarcrest,896500.0,831901.0,extra_trees
+SYN-0077264,2026-04,Detached,Lindencliffe,1190200.0,1876327.0,extra_trees
+SYN-0127805,2026-04,Detached,Elmbank,1362700.0,1592327.0,extra_trees
+SYN-0006792,2026-04,Condo Apt,Ashhollow,411800.0,543309.0,extra_trees
+SYN-0097120,2026-04,Condo Apt,Chestnutbourne,383400.0,459380.0,extra_trees
+SYN-0011099,2026-04,Detached,Cypressdale,5091300.0,2724615.0,extra_trees
+SYN-0031591,2026-04,Semi-Detached,Willowglen,1647700.0,1397193.0,extra_trees
+SYN-0037305,2026-04,Condo Apt,Sumacdale,803300.0,860558.0,extra_trees
+SYN-0151357,2026-04,Condo Apt,Chestnutbourne,309200.0,473825.0,extra_trees
+SYN-0062379,2026-04,Detached,Ashbank,1083400.0,1251733.0,extra_trees
+SYN-0107397,2026-04,Detached,Sumacdale,1670400.0,1246784.0,extra_trees
+SYN-0050817,2026-04,Condo Apt,Junipergardens,610900.0,650539.0,extra_trees
+SYN-0028018,2026-04,Detached,Walnuthollow,826200.0,1104995.0,extra_trees
+SYN-0095295,2026-04,Condo Apt,Ashbank,511000.0,553680.0,extra_trees
+SYN-0078757,2026-04,Condo Apt,Mulberryhaven,496400.0,469650.0,extra_trees
+SYN-0029621,2026-04,Condo Apt,Cedarheights,574200.0,557911.0,extra_trees
+SYN-0150650,2026-04,Detached,Hickoryvale,1324700.0,1224431.0,extra_trees
+SYN-0136811,2026-04,Condo Apt,Hickorybourne,727300.0,687684.0,extra_trees
+SYN-0029949,2026-04,Semi-Detached,Ashbank,1090000.0,1063887.0,extra_trees
+SYN-0037646,2026-04,Detached,Junipergardens,2496400.0,2189323.0,extra_trees
+SYN-0053107,2026-04,Detached,Willowpark,8682500.0,6078521.0,extra_trees
+SYN-0138964,2026-04,Condo Apt,Sumaccrest,520800.0,517796.0,extra_trees
+SYN-0047590,2026-04,Condo Apt,Hawthornbourne,772700.0,928404.0,extra_trees
+SYN-0050551,2026-04,Detached,Oakcrest,1338800.0,1238401.0,extra_trees
+SYN-0074786,2026-04,Detached,Maplevale,2047400.0,2189793.0,extra_trees
+SYN-0139674,2026-04,Condo Apt,Hazelmills,356500.0,492187.0,extra_trees
+SYN-0089012,2026-04,Detached,Mulberrydale,1140600.0,1174394.0,extra_trees
+SYN-0099337,2026-04,Detached,Sumacdale,2067900.0,1863658.0,extra_trees
+SYN-0156384,2026-04,Condo Apt,Hawthorncliffe,489100.0,580869.0,extra_trees
+SYN-0092629,2026-04,Condo Apt,Elmview,906500.0,889709.0,extra_trees
+SYN-0027634,2026-04,Condo Apt,Lindencliffe,425200.0,575751.0,extra_trees
+SYN-0074437,2026-04,Detached,Oakview,1391200.0,1121112.0,extra_trees
+SYN-0123422,2026-04,Semi-Detached,Chestnutview,977700.0,1103766.0,extra_trees
+SYN-0011396,2026-04,Detached,Chestnutridge,1233200.0,1132291.0,extra_trees
+SYN-0075249,2026-04,Condo Apt,Larchview,485500.0,590791.0,extra_trees
+SYN-0064532,2026-04,Detached,Chestnutbourne,1347600.0,1425026.0,extra_trees
+SYN-0077131,2026-04,Freehold Townhouse,Maplegrove,1561400.0,1472230.0,extra_trees
+SYN-0095434,2026-04,Detached,Mulberryhollow,2127600.0,1598741.0,extra_trees
+SYN-0092280,2026-04,Detached,Poplarview,1695400.0,1523927.0,extra_trees
+SYN-0047778,2026-04,Condo Apt,Cedarview,652300.0,574044.0,extra_trees
+SYN-0085785,2026-04,Condo Apt,Pineglen,810300.0,891798.0,extra_trees
+SYN-0025182,2026-04,Condo Apt,Magnoliaview,357600.0,428756.0,extra_trees
+SYN-0141598,2026-04,Condo Apt,Cedarheights,899400.0,905561.0,extra_trees
+SYN-0046066,2026-04,Condo Apt,Magnoliaview,451300.0,579315.0,extra_trees
+SYN-0002084,2026-04,Condo Townhouse,Cedarglen,546600.0,660996.0,extra_trees
+SYN-0077226,2026-04,Detached,Maplepark,5650400.0,5207291.0,extra_trees
+SYN-0029678,2026-04,Semi-Detached,Beechglen,3548100.0,3044309.0,extra_trees
+SYN-0035534,2026-04,Condo Apt,Juniperbrook,399800.0,483120.0,extra_trees
+SYN-0021739,2026-04,Condo Apt,Cedargrove,634400.0,573374.0,extra_trees
+SYN-0080876,2026-04,Condo Apt,Hickoryhaven,471400.0,568911.0,extra_trees
+SYN-0145904,2026-04,Semi-Detached,Pineridge,1490100.0,1684889.0,extra_trees
+SYN-0103072,2026-04,Co-Op Apt,Willowpark,3310000.0,1440523.0,extra_trees
+SYN-0141194,2026-04,Condo Apt,Spruceview,742300.0,734083.0,extra_trees
+SYN-0015645,2026-04,Condo Apt,Magnoliaview,387300.0,438906.0,extra_trees
+SYN-0076744,2026-04,Detached,Mapleview,1083600.0,1243228.0,extra_trees
+SYN-0091213,2026-04,Condo Apt,Lindenridge,653000.0,627735.0,extra_trees
+SYN-0060893,2026-04,Detached,Mulberryhollow,1209100.0,1487600.0,extra_trees
+SYN-0121104,2026-04,Detached,Junipergardens,1279800.0,2040170.0,extra_trees
+SYN-0032821,2026-04,Condo Apt,Cypressdale,551600.0,723812.0,extra_trees
+SYN-0010547,2026-04,Condo Apt,Oakbourne,588900.0,503406.0,extra_trees
+SYN-0127990,2026-04,Freehold Townhouse,Rowanhollow,2356300.0,1787388.0,extra_trees
+SYN-0135989,2026-04,Condo Apt,Elmgardens,689300.0,765664.0,extra_trees
+SYN-0100879,2026-04,Detached,Hemlockvale,1218900.0,1165611.0,extra_trees
+SYN-0112424,2026-04,Detached,Magnoliavale,909400.0,938036.0,extra_trees
+SYN-0154693,2026-04,Condo Townhouse,Hickoryhaven,549000.0,630566.0,extra_trees
+SYN-0093304,2026-04,Condo Apt,Sumaccrest,511300.0,500936.0,extra_trees
+SYN-0038746,2026-04,Condo Apt,Mulberryvale,492000.0,528771.0,extra_trees
+SYN-0120076,2026-04,Detached,Junipergardens,1717400.0,1794742.0,extra_trees
+SYN-0132684,2026-04,Condo Apt,Sumacbank,531800.0,527037.0,extra_trees
+SYN-0046272,2026-04,Condo Apt,Balsamcrest,651200.0,625918.0,extra_trees
+SYN-0065311,2026-04,Condo Apt,Ashworth,596000.0,615434.0,extra_trees
+SYN-0152078,2026-04,Condo Apt,Sumacbank,469700.0,515848.0,extra_trees
+SYN-0096338,2026-04,Condo Townhouse,Cedarglen,530500.0,512066.0,extra_trees
+SYN-0141316,2026-04,Semi-Detached,Juniperheights,1533900.0,1392478.0,extra_trees
+SYN-0025105,2026-04,Condo Apt,Elmbrook,349400.0,443005.0,extra_trees
+SYN-0120726,2026-04,Detached,Ashpark,694100.0,993795.0,extra_trees
+SYN-0013032,2026-04,Semi-Detached,Hemlockvale,1216600.0,1332377.0,extra_trees
+SYN-0004695,2026-04,Condo Apt,Hazelfield,1075200.0,812172.0,extra_trees
+SYN-0025510,2026-04,Detached,Poplarview,1623200.0,1203869.0,extra_trees
+SYN-0034792,2026-04,Condo Townhouse,Beechbourne,482700.0,547221.0,extra_trees
+SYN-0095925,2026-04,Condo Townhouse,Oakbourne,597100.0,623047.0,extra_trees
+SYN-0044696,2026-04,Condo Townhouse,Hawthornbourne,828900.0,947258.0,extra_trees
+SYN-0118820,2026-04,Detached,Juniperheights,4660200.0,3547999.0,extra_trees
+SYN-0088843,2026-04,Detached,Sequoiaview,1018600.0,1344364.0,extra_trees
+SYN-0117558,2026-04,Detached,Sumaccrest,2142200.0,1479709.0,extra_trees
+SYN-0039226,2026-04,Condo Apt,Lindendale,550600.0,479673.0,extra_trees
+SYN-0137878,2026-04,Detached,Dogwoodglen,1529700.0,1403969.0,extra_trees
+SYN-0005475,2026-04,Detached,Maplevale,1868200.0,1732115.0,extra_trees
+SYN-0006036,2026-04,Semi-Detached,Hemlockvale,887700.0,1066992.0,extra_trees
+SYN-0061025,2026-04,Detached,Sycamorewood,764000.0,1043615.0,extra_trees
+SYN-0146727,2026-04,Detached,Juniperheights,2465100.0,2612746.0,extra_trees
+SYN-0093600,2026-04,Detached,Chestnutvale,821700.0,1185366.0,extra_trees
+SYN-0082061,2026-04,Condo Apt,Birchgrove,470900.0,539782.0,extra_trees
+SYN-0151921,2026-04,Condo Apt,Mulberrygrove,578300.0,599083.0,extra_trees
+SYN-0048545,2026-04,Condo Apt,Cedarview,386800.0,483124.0,extra_trees
+SYN-0029326,2026-04,Semi-Detached,Sequoiaview,847800.0,1166654.0,extra_trees
+SYN-0010288,2026-04,Semi-Detached,Elmview,1028400.0,1202277.0,extra_trees
+SYN-0053505,2026-04,Detached,Tamarackbourne,1687000.0,1155395.0,extra_trees
+SYN-0145368,2026-04,Condo Apt,Mulberryhaven,682200.0,539864.0,extra_trees
+SYN-0026308,2026-04,Detached,Hickoryridge,994500.0,959245.0,extra_trees
+SYN-0056821,2026-04,Condo Apt,Cedargrove,516900.0,469862.0,extra_trees
+SYN-0144764,2026-04,Semi-Detached,Willowview,1052900.0,1017292.0,extra_trees
+SYN-0076680,2026-04,Detached,Mulberryhollow,1731000.0,2527761.0,extra_trees
+SYN-0118811,2026-04,Condo Apt,Poplargardens,681400.0,541166.0,extra_trees
+SYN-0128286,2026-04,Condo Apt,Walnutfield,565300.0,608509.0,extra_trees
+SYN-0088829,2026-04,Detached,Maplebourne,2261700.0,2327755.0,extra_trees
+SYN-0131633,2026-04,Condo Apt,Spruceview,563800.0,556957.0,extra_trees
+SYN-0125039,2026-04,Semi-Detached,Balsamgrove,1029700.0,1059646.0,extra_trees
+SYN-0110344,2026-04,Detached,Tamarackbourne,2067700.0,2365918.0,extra_trees
+SYN-0023735,2026-04,Detached,Poplarcrest,4726700.0,5394314.0,extra_trees
+SYN-0152515,2026-04,Condo Townhouse,Elmview,1065400.0,1175393.0,extra_trees
+SYN-0089981,2026-04,Detached,Lindencrest,958200.0,1268588.0,extra_trees
+SYN-0125076,2026-04,Condo Apt,Chestnutbourne,429000.0,527447.0,extra_trees
+SYN-0139103,2026-04,Condo Apt,Willowglen,640000.0,514759.0,extra_trees
+SYN-0041164,2026-04,Detached,Sumacfield,1288600.0,2134822.0,extra_trees
+SYN-0099619,2026-04,Detached,Cedargardens,781900.0,947131.0,extra_trees
+SYN-0130847,2026-04,Detached,Rowanridge,1136900.0,1223030.0,extra_trees
+SYN-0152716,2026-04,Condo Apt,Maplebank,414000.0,550759.0,extra_trees
+SYN-0152721,2026-04,Condo Apt,Ashworth,1141800.0,959266.0,extra_trees
+SYN-0118522,2026-04,Detached,Elmbank,961000.0,1355768.0,extra_trees
+SYN-0021757,2026-04,Condo Apt,Poplarview,782800.0,833456.0,extra_trees
+SYN-0029462,2026-04,Condo Apt,Ashworth,412700.0,431411.0,extra_trees
+SYN-0004737,2026-04,Detached,Lindenvale,1751600.0,1751165.0,extra_trees
+SYN-0121896,2026-04,Condo Apt,Sequoiaview,487800.0,556773.0,extra_trees
+SYN-0040886,2026-04,Condo Apt,Chestnutbank,736500.0,810912.0,extra_trees
+SYN-0001211,2026-04,Condo Apt,Cedarbank,414800.0,521531.0,extra_trees
+SYN-0051784,2026-04,Detached,Rowanbank,2001300.0,1230759.0,extra_trees
+SYN-0019342,2026-04,Detached,Sequoiabourne,978300.0,1076068.0,extra_trees
+SYN-0142907,2026-04,Detached,Cypressbrook,1452100.0,1619136.0,extra_trees
+SYN-0012460,2026-04,Semi-Detached,Lindenglen,2227900.0,8057561.0,extra_trees
+SYN-0108636,2026-04,Condo Apt,Magnoliaview,326400.0,417070.0,extra_trees
+SYN-0146990,2026-04,Semi-Detached,Hemlockvale,846100.0,986463.0,extra_trees
+SYN-0023175,2026-04,Condo Apt,Magnoliaview,465100.0,545022.0,extra_trees
+SYN-0037444,2026-04,Condo Apt,Hickoryglen,481500.0,497774.0,extra_trees
+SYN-0133267,2026-04,Semi-Detached,Cedarhaven,1446100.0,1198457.0,extra_trees
+SYN-0048073,2026-04,Condo Apt,Elmview,905800.0,1340966.0,extra_trees
+SYN-0009342,2026-04,Freehold Townhouse,Mulberrygrove,1281000.0,1375471.0,extra_trees
+SYN-0093734,2026-04,Detached,Pineglen,1749400.0,1664839.0,extra_trees
+SYN-0122745,2026-04,Condo Townhouse,Elmgardens,668900.0,596431.0,extra_trees
+SYN-0064084,2026-04,Semi-Detached,Hazelfield,3383500.0,2463511.0,extra_trees
+SYN-0095025,2026-04,Condo Townhouse,Sumacpark,458300.0,536734.0,extra_trees
+SYN-0073883,2026-04,Condo Apt,Sumacbank,647200.0,550799.0,extra_trees
+SYN-0141742,2026-04,Semi-Detached,Hazelfield,3901000.0,2961972.0,extra_trees
+SYN-0157340,2026-04,Condo Apt,Elmbrook,698800.0,734514.0,extra_trees
+SYN-0134875,2026-04,Condo Apt,Ashworth,1146800.0,1220680.0,extra_trees
+SYN-0154616,2026-04,Condo Apt,Cedargardens,517200.0,599653.0,extra_trees
+SYN-0120002,2026-04,Condo Townhouse,Hickoryhaven,873500.0,848502.0,extra_trees
+SYN-0047621,2026-04,Detached,Hickoryglen,727700.0,1185023.0,extra_trees
+SYN-0145129,2026-04,Freehold Townhouse,Balsamgrove,1120100.0,1197807.0,extra_trees
+SYN-0057655,2026-04,Semi-Detached,Birchgrove,1613800.0,1238284.0,extra_trees
+SYN-0142513,2026-04,Detached,Rowangrove,3631600.0,2734783.0,extra_trees
+SYN-0030945,2026-04,Detached,Hemlockvale,1072500.0,1499337.0,extra_trees
+SYN-0063867,2026-04,Semi-Detached,Cypressbrook,1682700.0,1276556.0,extra_trees
+SYN-0144021,2026-04,Detached,Elmbourne,1183000.0,1002015.0,extra_trees
+SYN-0065409,2026-04,Condo Apt,Balsamgrove,419900.0,489922.0,extra_trees
+SYN-0050235,2026-04,Detached,Rowanbrook,1152500.0,1536717.0,extra_trees
+SYN-0038836,2026-04,Detached,Chestnutgrove,1108600.0,1388359.0,extra_trees
+SYN-0036806,2026-04,Detached,Sumacdale,997000.0,1022988.0,extra_trees
+SYN-0029382,2026-04,Semi-Detached,Hemlockvale,815600.0,981372.0,extra_trees
+SYN-0010180,2026-04,Condo Apt,Sycamoreglen,660700.0,514391.0,extra_trees
+SYN-0140008,2026-04,Condo Apt,Cedarglen,532300.0,678884.0,extra_trees
+SYN-0142010,2026-04,Condo Apt,Hickoryhaven,830200.0,795050.0,extra_trees
+SYN-0153675,2026-04,Condo Townhouse,Sumacdale,628800.0,624344.0,extra_trees
+SYN-0113691,2026-04,Detached,Mulberrydale,897600.0,1151352.0,extra_trees
+SYN-0105832,2026-04,Condo Apt,Walnutfield,833800.0,865422.0,extra_trees
+SYN-0112327,2026-04,Condo Apt,Balsamgrove,695900.0,753129.0,extra_trees
+SYN-0027654,2026-04,Condo Apt,Sumacbank,593500.0,520729.0,extra_trees
+SYN-0138004,2026-04,Condo Apt,Hickoryhaven,778600.0,886571.0,extra_trees
+SYN-0074541,2026-04,Condo Apt,Sumaccrest,544000.0,521247.0,extra_trees
+SYN-0014669,2026-04,Detached,Junipergardens,2434900.0,2372622.0,extra_trees
+SYN-0106667,2026-04,Detached,Hawthorncliffe,737300.0,811245.0,extra_trees
+SYN-0156346,2026-04,Condo Apt,Sumacdale,590300.0,606656.0,extra_trees
+SYN-0037016,2026-04,Detached,Pinevale,1270000.0,1285747.0,extra_trees
+SYN-0089574,2026-04,Detached,Elmview,7482200.0,2786243.0,extra_trees
+SYN-0095833,2026-04,Condo Apt,Hickoryglen,714000.0,774257.0,extra_trees
+SYN-0040914,2026-04,Condo Apt,Cedarwood,738300.0,933508.0,extra_trees
+SYN-0144709,2026-04,Condo Apt,Hickoryhaven,1137300.0,1282542.0,extra_trees
+SYN-0073736,2026-04,Condo Apt,Hickoryhaven,525100.0,566260.0,extra_trees
+SYN-0137482,2026-04,Detached,Aspenwood,1815000.0,1878728.0,extra_trees
+SYN-0018915,2026-04,Condo Apt,Elmmills,415900.0,448764.0,extra_trees
+SYN-0104543,2026-04,Detached,Hawthorncliffe,1221900.0,1038387.0,extra_trees
+SYN-0074366,2026-04,Condo Townhouse,Cedarwood,492600.0,483555.0,extra_trees
+SYN-0070965,2026-04,Detached,Hickoryridge,2379500.0,2418030.0,extra_trees
+SYN-0134537,2026-04,Condo Apt,Chestnutmills,925300.0,815841.0,extra_trees
+SYN-0105745,2026-04,Semi-Detached,Balsamcrest,916100.0,1141808.0,extra_trees
+SYN-0061157,2026-04,Condo Apt,Cypressdale,439100.0,470277.0,extra_trees
+SYN-0131147,2026-04,Detached,Beechglen,3775500.0,2378672.0,extra_trees
+SYN-0103640,2026-04,Detached,Lindendale,3542500.0,3047468.0,extra_trees
+SYN-0084316,2026-04,Condo Townhouse,Rowanbrook,708600.0,736131.0,extra_trees
+SYN-0117217,2026-04,Condo Apt,Ashworth,990800.0,906632.0,extra_trees
+SYN-0107722,2026-04,Detached,Juniperpark,756600.0,955052.0,extra_trees
+SYN-0030268,2026-04,Condo Apt,Maplebourne,523900.0,817207.0,extra_trees
+SYN-0089193,2026-04,Detached,Sumaccrest,4090000.0,2968920.0,extra_trees
+SYN-0094293,2026-04,Condo Apt,Oakbourne,483100.0,491702.0,extra_trees
+SYN-0079986,2026-04,Freehold Townhouse,Birchgrove,1252900.0,1012403.0,extra_trees
+SYN-0065771,2026-04,Condo Apt,Aspenworth,368700.0,415811.0,extra_trees
+SYN-0030382,2026-04,Condo Apt,Magnoliaworth,612900.0,753182.0,extra_trees
+SYN-0089621,2026-04,Condo Apt,Cedarbank,326300.0,450142.0,extra_trees
+SYN-0124818,2026-04,Detached,Rowanridge,1498200.0,1603038.0,extra_trees
+SYN-0060091,2026-04,Condo Townhouse,Maplebank,516800.0,671331.0,extra_trees
+SYN-0141438,2026-04,Condo Apt,Cedarbank,431300.0,598992.0,extra_trees
+SYN-0129363,2026-04,Detached,Maplegrove,5475600.0,2831837.0,extra_trees
+SYN-0013274,2026-04,Semi-Detached,Sequoiafield,1082000.0,1013110.0,extra_trees
+SYN-0132707,2026-04,Condo Apt,Ashworth,426600.0,537715.0,extra_trees
+SYN-0154846,2026-04,Condo Apt,Junipergardens,756000.0,647019.0,extra_trees
+SYN-0128594,2026-04,Detached,Rowangardens,1754100.0,1779751.0,extra_trees
+SYN-0026390,2026-04,Condo Apt,Cypressdale,563000.0,546615.0,extra_trees
+SYN-0096953,2026-04,Condo Apt,Rowanbrook,679300.0,580137.0,extra_trees
+SYN-0082521,2026-04,Detached,Oakcrest,1261100.0,1064837.0,extra_trees
+SYN-0089268,2026-04,Condo Apt,Willowview,441400.0,586199.0,extra_trees
+SYN-0099635,2026-04,Semi-Detached,Rowanbank,1484100.0,1087962.0,extra_trees
+SYN-0062048,2026-04,Detached,Maplebrook,1240700.0,1095991.0,extra_trees
+SYN-0151026,2026-04,Condo Apt,Elmgardens,724600.0,643826.0,extra_trees
+SYN-0125052,2026-04,Condo Apt,Larchbank,268500.0,460767.0,extra_trees
+SYN-0011168,2026-04,Detached,Pineridge,940700.0,1016280.0,extra_trees
+SYN-0047269,2026-04,Condo Apt,Hickoryhaven,414800.0,486027.0,extra_trees
+SYN-0084253,2026-04,Condo Apt,Sumacbank,1034500.0,853567.0,extra_trees
+SYN-0105333,2026-04,Semi-Detached,Oakview,1224800.0,1003628.0,extra_trees
+SYN-0036927,2026-04,Condo Apt,Cypressdale,597800.0,645298.0,extra_trees
+SYN-0117961,2026-04,Detached,Aspenwood,1417700.0,1444175.0,extra_trees
+SYN-0132641,2026-04,Detached,Balsamcrest,964000.0,1326811.0,extra_trees
+SYN-0012419,2026-04,Detached,Lindencrest,720800.0,983611.0,extra_trees
+SYN-0089990,2026-04,Condo Apt,Hawthornbourne,774000.0,752341.0,extra_trees
+SYN-0152052,2026-04,Freehold Townhouse,Magnoliaworth,1097500.0,1019987.0,extra_trees
+SYN-0143409,2026-04,Condo Apt,Mapleview,635900.0,643888.0,extra_trees
+SYN-0043044,2026-04,Detached,Ashpark,606200.0,982444.0,extra_trees
+SYN-0107431,2026-04,Detached,Juniperpark,805600.0,942300.0,extra_trees
+SYN-0009208,2026-04,Condo Apt,Spruceview,491300.0,532834.0,extra_trees
+SYN-0082853,2026-04,Condo Apt,Sequoiaview,411600.0,400787.0,extra_trees
+SYN-0113006,2026-04,Semi-Detached,Chestnutview,900300.0,1035888.0,extra_trees
+SYN-0051337,2026-04,Semi-Detached,Elmcrest,1381700.0,920367.0,extra_trees
+SYN-0115507,2026-04,Semi-Detached,Pineridge,1052900.0,1044398.0,extra_trees
+SYN-0154838,2026-04,Condo Townhouse,Sycamoreglen,715800.0,527133.0,extra_trees
+SYN-0103930,2026-04,Detached,Dogwoodglen,1182100.0,1146882.0,extra_trees
+SYN-0060290,2026-04,Semi-Detached,Dogwoodcliffe,942700.0,1042603.0,extra_trees
+SYN-0041910,2026-04,Condo Apt,Sumacfield,435800.0,685391.0,extra_trees
+SYN-0136595,2026-04,Freehold Townhouse,Balsamwood,1771500.0,1448725.0,extra_trees
+SYN-0046011,2026-04,Condo Apt,Elmcrest,627900.0,566434.0,extra_trees
+SYN-0060669,2026-04,Condo Apt,Poplarcrest,1286900.0,1072525.0,extra_trees
+SYN-0119583,2026-04,Condo Apt,Beechbourne,478400.0,520040.0,extra_trees
+SYN-0154999,2026-04,Detached,Chestnutgrove,1883900.0,2134538.0,extra_trees
+SYN-0035502,2026-04,Condo Apt,Cedarheights,1000400.0,880401.0,extra_trees
+SYN-0127204,2026-04,Condo Apt,Poplarcrest,824800.0,633505.0,extra_trees
+SYN-0034956,2026-04,Condo Apt,Rowangrove,431200.0,478157.0,extra_trees
+SYN-0113417,2026-04,Condo Apt,Hickoryglen,360000.0,399033.0,extra_trees
+SYN-0118388,2026-04,Condo Apt,Sprucehaven,882000.0,802166.0,extra_trees
+SYN-0074682,2026-04,Condo Apt,Hemlockhollow,501400.0,530450.0,extra_trees
+SYN-0141085,2026-04,Detached,Hemlockvale,1169000.0,1233214.0,extra_trees
+SYN-0066553,2026-04,Condo Townhouse,Alderworth,651900.0,828489.0,extra_trees
+SYN-0033656,2026-04,Semi-Detached,Sumacdale,1177100.0,1018605.0,extra_trees
+SYN-0102966,2026-04,Detached,Rowanridge,2410200.0,2627608.0,extra_trees
+SYN-0079064,2026-04,Detached,Juniperhaven,1381100.0,1256256.0,extra_trees
+SYN-0072698,2026-04,Condo Apt,Mulberryhaven,793500.0,559607.0,extra_trees
+SYN-0007005,2026-04,Semi-Detached,Tamarackbourne,1270500.0,1433506.0,extra_trees
+SYN-0111440,2026-04,Detached,Hickoryvale,793400.0,977015.0,extra_trees
+SYN-0077622,2026-04,Condo Apt,Cypressdale,429300.0,403155.0,extra_trees
+SYN-0092990,2026-04,Detached,Hemlockvale,1546200.0,1522313.0,extra_trees
+SYN-0047812,2026-04,Condo Apt,Sycamoreglen,711500.0,602761.0,extra_trees
+SYN-0015111,2026-04,Detached,Maplevale,1679200.0,1512736.0,extra_trees
+SYN-0126885,2026-04,Detached,Maplepark,3836900.0,3410231.0,extra_trees
+SYN-0100111,2026-04,Condo Apt,Cypresspark,529600.0,547569.0,extra_trees
+SYN-0084574,2026-04,Detached,Alderworth,2112000.0,1508601.0,extra_trees
+SYN-0157209,2026-04,Detached,Dogwoodmills,1180500.0,1730877.0,extra_trees
+SYN-0092275,2026-04,Detached,Lindencliffe,1330500.0,1957895.0,extra_trees
+SYN-0155916,2026-04,Detached,Tamarackbourne,2365600.0,1716081.0,extra_trees
+SYN-0015690,2026-04,Semi-Detached,Elmcrest,1517500.0,1268088.0,extra_trees
+SYN-0148974,2026-04,Condo Apt,Rowanridge,380800.0,575018.0,extra_trees
+SYN-0074006,2026-04,Detached,Juniperpark,1014300.0,1028965.0,extra_trees
+SYN-0053549,2026-04,Semi-Detached,Ashpark,853600.0,997704.0,extra_trees
+SYN-0033608,2026-04,Semi-Detached,Spruceview,1140700.0,1024998.0,extra_trees
+SYN-0079459,2026-04,Semi-Detached,Hickoryvale,771300.0,1058222.0,extra_trees
+SYN-0077307,2026-04,Condo Apt,Oakhaven,477200.0,512641.0,extra_trees
+SYN-0048398,2026-04,Condo Apt,Chestnutbank,374900.0,373063.0,extra_trees
+SYN-0123105,2026-04,Detached,Chestnutridge,741300.0,967513.0,extra_trees
+SYN-0113002,2026-04,Condo Apt,Sumacpark,513600.0,499161.0,extra_trees
+SYN-0000654,2026-04,Condo Apt,Elmmills,487400.0,563930.0,extra_trees
+SYN-0084450,2026-04,Condo Apt,Elmgardens,1127300.0,940187.0,extra_trees
+SYN-0095433,2026-04,Condo Townhouse,Oakbourne,715400.0,732711.0,extra_trees
+SYN-0057509,2026-04,Condo Townhouse,Oakhaven,948700.0,827736.0,extra_trees
+SYN-0104364,2026-04,Condo Apt,Cedarview,490300.0,407322.0,extra_trees
+SYN-0094894,2026-04,Condo Apt,Birchheights,428400.0,459741.0,extra_trees
+SYN-0154659,2026-04,Condo Apt,Rowangardens,845500.0,832232.0,extra_trees
+SYN-0007760,2026-04,Detached,Cedargardens,610200.0,856089.0,extra_trees
+SYN-0075031,2026-04,Condo Apt,Cedarglen,323300.0,426052.0,extra_trees
+SYN-0047327,2026-04,Detached,Tamarackmills,1829700.0,1602010.0,extra_trees
+SYN-0103633,2026-04,Detached,Walnuthollow,2008200.0,2109489.0,extra_trees
+SYN-0144689,2026-04,Condo Apt,Poplarcrest,581600.0,560742.0,extra_trees
+SYN-0106150,2026-04,Condo Townhouse,Cedarheights,729800.0,854332.0,extra_trees
+SYN-0044952,2026-04,Condo Townhouse,Sumacwood,459100.0,541517.0,extra_trees
+SYN-0024832,2026-04,Condo Apt,Cedarview,730300.0,710608.0,extra_trees
+SYN-0139036,2026-04,Co-Op Apt,Hickoryhaven,567400.0,587865.0,extra_trees
+SYN-0028996,2026-04,Condo Apt,Cedarview,793800.0,737291.0,extra_trees
+SYN-0130000,2026-04,Condo Apt,Beechglen,633600.0,542051.0,extra_trees
+SYN-0048820,2026-04,Condo Apt,Elmcrest,472400.0,470761.0,extra_trees
+SYN-0142953,2026-04,Detached,Lindendale,5358500.0,5881593.0,extra_trees
+SYN-0077565,2026-04,Condo Townhouse,Sumacpark,578700.0,607124.0,extra_trees
+SYN-0097594,2026-04,Condo Apt,Hazelbourne,380300.0,536366.0,extra_trees
+SYN-0124674,2026-04,Detached,Cedarbank,1211800.0,1450130.0,extra_trees
+SYN-0051596,2026-04,Co-Op Apt,Cypresspark,614800.0,699656.0,extra_trees
+SYN-0045695,2026-04,Condo Apt,Hickoryhaven,600200.0,535622.0,extra_trees
+SYN-0121330,2026-04,Detached,Beechbourne,1348800.0,1605573.0,extra_trees
+SYN-0147225,2026-04,Condo Apt,Rowangardens,890200.0,820202.0,extra_trees
+SYN-0011528,2026-04,Condo Apt,Hazelmills,509200.0,522167.0,extra_trees
+SYN-0054740,2026-04,Condo Apt,Junipergardens,786200.0,1020480.0,extra_trees
+SYN-0144246,2026-04,Condo Apt,Lindendale,419100.0,434161.0,extra_trees
+SYN-0131998,2026-04,Freehold Townhouse,Beechbourne,834300.0,995122.0,extra_trees
+SYN-0149926,2026-04,Semi-Detached,Willowglen,1053800.0,970985.0,extra_trees
+SYN-0038398,2026-04,Condo Apt,Elmhaven,784000.0,1151234.0,extra_trees
+SYN-0111746,2026-04,Detached,Rowanridge,1024800.0,1320199.0,extra_trees
+SYN-0013899,2026-04,Condo Apt,Pinevale,631400.0,706438.0,extra_trees
+SYN-0060275,2026-04,Condo Apt,Hawthornbourne,980500.0,1067003.0,extra_trees
+SYN-0009515,2026-04,Condo Townhouse,Lindencliffe,585300.0,701158.0,extra_trees
+SYN-0157987,2026-04,Condo Apt,Sumacwood,379600.0,480425.0,extra_trees
+SYN-0029775,2026-04,Semi-Detached,Magnoliaglen,1179700.0,1146586.0,extra_trees
+SYN-0121490,2026-04,Condo Apt,Magnoliavale,529900.0,627913.0,extra_trees
+SYN-0070605,2026-04,Condo Apt,Hawthorncliffe,417100.0,566366.0,extra_trees
+SYN-0059300,2026-04,Condo Apt,Oakhaven,754200.0,687472.0,extra_trees
+SYN-0032743,2026-04,Condo Apt,Walnutfield,597900.0,513508.0,extra_trees
+SYN-0088117,2026-04,Condo Townhouse,Juniperpark,597900.0,605899.0,extra_trees
+SYN-0025139,2026-04,Condo Apt,Rowanbrook,721500.0,589751.0,extra_trees
+SYN-0088965,2026-04,Detached,Mulberryhollow,1502200.0,1567190.0,extra_trees
+SYN-0038380,2026-04,Freehold Townhouse,Spruceview,1516700.0,1199997.0,extra_trees
+SYN-0047831,2026-04,Semi-Detached,Oakbourne,1058000.0,1552460.0,extra_trees
+SYN-0135142,2026-04,Condo Apt,Willowpark,2646800.0,1989622.0,extra_trees
+SYN-0111408,2026-04,Detached,Juniperbrook,1630200.0,1198357.0,extra_trees
+SYN-0012777,2026-04,Condo Apt,Sequoiahollow,760000.0,751795.0,extra_trees
+SYN-0058328,2026-04,Condo Apt,Hawthornbourne,557000.0,646216.0,extra_trees
+SYN-0011023,2026-04,Condo Apt,Cedarheights,983700.0,1180264.0,extra_trees
+SYN-0015817,2026-04,Condo Apt,Magnoliaworth,777500.0,689307.0,extra_trees
+SYN-0003470,2026-04,Condo Apt,Magnoliavale,339800.0,352498.0,extra_trees
+SYN-0040431,2026-04,Semi-Detached,Sumacworth,1672500.0,1365989.0,extra_trees
+SYN-0018922,2026-04,Condo Apt,Beechbourne,555700.0,528328.0,extra_trees
+SYN-0016077,2026-04,Detached,Hawthorncliffe,820600.0,967319.0,extra_trees
+SYN-0047083,2026-04,Semi-Detached,Beechglen,2120900.0,1909666.0,extra_trees
+SYN-0093140,2026-04,Condo Apt,Mulberryvale,498000.0,556313.0,extra_trees
+SYN-0042248,2026-04,Condo Apt,Junipergardens,751100.0,1002467.0,extra_trees
+SYN-0149413,2026-04,Condo Apt,Mapleview,509000.0,520854.0,extra_trees
+SYN-0124387,2026-04,Condo Apt,Elmhaven,555500.0,586439.0,extra_trees
+SYN-0121095,2026-04,Condo Apt,Junipergardens,507900.0,552972.0,extra_trees
+SYN-0073963,2026-04,Semi-Detached,Lindenglen,4602000.0,3193906.0,extra_trees
+SYN-0135466,2026-04,Condo Apt,Chestnutglen,656000.0,895358.0,extra_trees
+SYN-0120883,2026-04,Condo Apt,Cypressbrook,465200.0,426801.0,extra_trees
+SYN-0019406,2026-04,Condo Apt,Sumacpark,553000.0,599311.0,extra_trees
+SYN-0152294,2026-04,Detached,Cedarbank,1413700.0,1550055.0,extra_trees
+SYN-0065172,2026-04,Detached,Aspenwood,1003200.0,1214848.0,extra_trees
+SYN-0148778,2026-04,Condo Apt,Cedarwood,752200.0,628831.0,extra_trees
+SYN-0137591,2026-04,Freehold Townhouse,Junipergardens,1409300.0,1229648.0,extra_trees
+SYN-0114586,2026-04,Condo Apt,Ashworth,372100.0,428944.0,extra_trees
+SYN-0074745,2026-04,Detached,Elmpark,972700.0,1110712.0,extra_trees
+SYN-0076067,2026-04,Detached,Junipergardens,2158400.0,2155510.0,extra_trees
+SYN-0060654,2026-04,Condo Apt,Alderworth,567700.0,515242.0,extra_trees
+SYN-0118171,2026-04,Detached,Cedargardens,928600.0,1003024.0,extra_trees
+SYN-0016262,2026-04,Detached,Sycamorewood,1031300.0,1380454.0,extra_trees
+SYN-0140005,2026-04,Condo Apt,Rowanridge,423700.0,463771.0,extra_trees
+SYN-0139533,2026-04,Detached,Hemlockvale,1304900.0,1691392.0,extra_trees
+SYN-0103512,2026-04,Condo Townhouse,Poplarcrest,860100.0,790342.0,extra_trees
+SYN-0056518,2026-04,Detached,Elmbourne,993000.0,1181305.0,extra_trees
+SYN-0114264,2026-04,Detached,Cypressbrook,1221600.0,751950.0,extra_trees
+SYN-0037559,2026-04,Semi-Detached,Maplemills,1519800.0,1741067.0,extra_trees
+SYN-0113892,2026-04,Condo Apt,Rowangardens,374600.0,412114.0,extra_trees
+SYN-0017427,2026-04,Condo Townhouse,Sumacpark,534800.0,654013.0,extra_trees
+SYN-0057435,2026-04,Condo Apt,Cypressglen,244900.0,412921.0,extra_trees
+SYN-0002804,2026-04,Condo Apt,Sumacfield,626800.0,712710.0,extra_trees
+SYN-0066520,2026-04,Condo Apt,Oakbourne,351300.0,428858.0,extra_trees
+SYN-0007850,2026-04,Detached,Sycamorehaven,1439300.0,1536932.0,extra_trees
+SYN-0074160,2026-04,Condo Townhouse,Hickoryhaven,566800.0,705345.0,extra_trees
+SYN-0062872,2026-04,Condo Apt,Hazelmills,453100.0,494431.0,extra_trees
+SYN-0084201,2026-04,Condo Apt,Sumacwood,420000.0,455163.0,extra_trees
+SYN-0039588,2026-04,Condo Apt,Spruceview,489200.0,506574.0,extra_trees
+SYN-0130732,2026-04,Detached,Mapleview,2185400.0,1913839.0,extra_trees
+SYN-0136234,2026-04,Condo Apt,Chestnutbrook,273500.0,372169.0,extra_trees
+SYN-0157968,2026-04,Detached,Chestnutridge,2393000.0,2193515.0,extra_trees
+SYN-0084964,2026-04,Condo Apt,Hickoryglen,373000.0,400283.0,extra_trees
+SYN-0130580,2026-04,Condo Apt,Walnutfield,625600.0,799760.0,extra_trees
+SYN-0058887,2026-04,Condo Apt,Elmhaven,1257200.0,1151234.0,extra_trees
+SYN-0113154,2026-04,Detached,Chestnutgrove,1109100.0,1968269.0,extra_trees
+SYN-0075254,2026-04,Detached,Maplevale,2244700.0,2314298.0,extra_trees
+SYN-0095293,2026-04,Detached,Hazelbourne,907800.0,985797.0,extra_trees
+SYN-0102731,2026-04,Condo Apt,Balsamgrove,402100.0,385014.0,extra_trees
+SYN-0045258,2026-04,Condo Townhouse,Elmview,1058100.0,1298025.0,extra_trees
+SYN-0064816,2026-04,Detached,Hawthorncliffe,917800.0,1045134.0,extra_trees
+SYN-0032957,2026-04,Detached,Magnoliavale,1380100.0,1190831.0,extra_trees
+SYN-0136729,2026-04,Condo Apt,Chestnutbourne,425900.0,480109.0,extra_trees
+SYN-0053660,2026-04,Condo Apt,Elmbank,535300.0,601063.0,extra_trees
+SYN-0152364,2026-04,Semi-Detached,Rowanbank,932200.0,991947.0,extra_trees
+SYN-0092515,2026-04,Condo Apt,Sumacwood,418300.0,370722.0,extra_trees
+SYN-0098129,2026-04,Condo Apt,Hickorybourne,442800.0,489656.0,extra_trees
+SYN-0128617,2026-04,Condo Apt,Dogwoodmills,594000.0,569478.0,extra_trees
+SYN-0100713,2026-04,Condo Apt,Birchbrook,704900.0,937133.0,extra_trees
+SYN-0131734,2026-04,Condo Apt,Lindenglen,697800.0,732590.0,extra_trees
+SYN-0110402,2026-04,Condo Apt,Hickoryhaven,487100.0,563849.0,extra_trees
+SYN-0078597,2026-04,Detached,Maplepark,2731700.0,1336510.0,extra_trees
+SYN-0074621,2026-04,Detached,Walnutfield,3047600.0,3018554.0,extra_trees
+SYN-0096044,2026-04,Semi-Detached,Ashbank,1068700.0,1053672.0,extra_trees
+SYN-0040980,2026-04,Condo Apt,Walnuthollow,428500.0,607034.0,extra_trees
+SYN-0080116,2026-04,Detached,Elmhaven,1538500.0,1465674.0,extra_trees
+SYN-0019635,2026-04,Detached,Sumaccrest,1812800.0,1296030.0,extra_trees
+SYN-0033508,2026-04,Detached,Beechbourne,1377100.0,1401703.0,extra_trees
+SYN-0009104,2026-04,Condo Apt,Sequoiaview,330500.0,502500.0,extra_trees
+SYN-0092751,2026-04,Condo Apt,Rowangardens,579300.0,520111.0,extra_trees
+SYN-0108824,2026-04,Condo Townhouse,Junipergardens,754500.0,786158.0,extra_trees
+SYN-0028290,2026-04,Condo Apt,Balsamgrove,609300.0,629444.0,extra_trees
+SYN-0008724,2026-04,Detached,Sprucehollow,1148300.0,1398010.0,extra_trees
+SYN-0067208,2026-04,Condo Apt,Junipergardens,624700.0,731542.0,extra_trees
+SYN-0098451,2026-04,Condo Apt,Mulberryhaven,564000.0,529112.0,extra_trees
+SYN-0044258,2026-04,Condo Apt,Rowanbrook,650800.0,572088.0,extra_trees
+SYN-0123624,2026-04,Detached,Juniperheights,3767000.0,5099541.0,extra_trees
+SYN-0031078,2026-04,Condo Townhouse,Balsamcrest,647700.0,622389.0,extra_trees
+SYN-0043682,2026-04,Condo Apt,Chestnutbank,538700.0,585612.0,extra_trees
+SYN-0153391,2026-04,Condo Apt,Hickoryglen,383200.0,389954.0,extra_trees
+SYN-0024114,2026-04,Detached,Hickoryhaven,1796100.0,1888835.0,extra_trees
+SYN-0026842,2026-04,Detached,Lindendale,4524600.0,4465835.0,extra_trees
+SYN-0031444,2026-04,Condo Apt,Lindenridge,794100.0,748633.0,extra_trees
+SYN-0128718,2026-04,Semi-Detached,Mulberryvale,778900.0,1077079.0,extra_trees
+SYN-0095543,2026-04,Condo Apt,Sumacwood,386100.0,466856.0,extra_trees
+SYN-0130401,2026-04,Condo Apt,Hickorybourne,495600.0,533724.0,extra_trees
+SYN-0081319,2026-04,Condo Apt,Rowangardens,520400.0,645325.0,extra_trees
+SYN-0084205,2026-04,Semi-Detached,Oakview,1303400.0,1030391.0,extra_trees
+SYN-0096663,2026-04,Semi-Detached,Cypressbrook,1501200.0,1274288.0,extra_trees
+SYN-0099681,2026-04,Condo Apt,Hickoryglen,316300.0,432568.0,extra_trees
+SYN-0130907,2026-04,Semi-Detached,Elmbrook,1072600.0,995260.0,extra_trees
+SYN-0101517,2026-04,Detached,Hemlockvale,971300.0,1100209.0,extra_trees
+SYN-0150843,2026-04,Condo Apt,Chestnutbank,460300.0,538161.0,extra_trees
+SYN-0139969,2026-04,Condo Apt,Cypresspark,761100.0,816893.0,extra_trees
+SYN-0055969,2026-04,Condo Apt,Magnoliaview,384900.0,454277.0,extra_trees
+SYN-0009432,2026-04,Semi-Detached,Hazelfield,3018500.0,2078370.0,extra_trees
+SYN-0013146,2026-04,Detached,Dogwoodglen,783300.0,846986.0,extra_trees
+SYN-0000442,2026-04,Semi-Detached,Maplebourne,1111600.0,1140783.0,extra_trees
+SYN-0067338,2026-04,Condo Apt,Cypressdale,976500.0,1106852.0,extra_trees
+SYN-0079181,2026-04,Semi-Detached,Spruceview,1202400.0,1038668.0,extra_trees
+SYN-0048624,2026-04,Detached,Mapleview,1463600.0,1699383.0,extra_trees
+SYN-0092135,2026-04,Condo Apt,Sprucehaven,502500.0,448121.0,extra_trees
+SYN-0034806,2026-04,Freehold Townhouse,Sequoiaview,719500.0,1148939.0,extra_trees
+SYN-0153418,2026-04,Detached,Sumacdale,1973900.0,1531557.0,extra_trees
+SYN-0077388,2026-04,Condo Apt,Magnoliaview,836200.0,730801.0,extra_trees
+SYN-0075056,2026-04,Condo Apt,Sumacdale,546900.0,471548.0,extra_trees
+SYN-0104300,2026-04,Semi-Detached,Cedarhaven,1169700.0,1095151.0,extra_trees
+SYN-0015617,2026-04,Detached,Cypressheights,958900.0,1025570.0,extra_trees
+SYN-0077452,2026-04,Condo Apt,Ashworth,325300.0,542452.0,extra_trees
+SYN-0097412,2026-04,Semi-Detached,Chestnutglen,900600.0,1286660.0,extra_trees
+SYN-0052157,2026-04,Condo Townhouse,Dogwoodbrook,774200.0,784161.0,extra_trees
+SYN-0045017,2026-04,Condo Apt,Beechbourne,805200.0,742280.0,extra_trees
+SYN-0040880,2026-04,Semi-Detached,Willowglen,846700.0,1011146.0,extra_trees
+SYN-0083794,2026-04,Condo Apt,Magnoliavale,441200.0,545464.0,extra_trees
+SYN-0104927,2026-04,Detached,Walnuthollow,1870400.0,1522045.0,extra_trees
+SYN-0053121,2026-04,Semi-Detached,Hazelfield,3795300.0,2660677.0,extra_trees
+SYN-0095504,2026-04,Semi-Detached,Juniperbrook,980000.0,1146869.0,extra_trees
+SYN-0046543,2026-04,Condo Apt,Magnoliaview,469900.0,588763.0,extra_trees
+SYN-0113993,2026-04,Condo Apt,Hickorybourne,446500.0,413507.0,extra_trees
+SYN-0150325,2026-04,Detached,Maplemills,1817700.0,1585958.0,extra_trees
+SYN-0143473,2026-04,Detached,Sycamorewood,817300.0,910243.0,extra_trees
+SYN-0127157,2026-04,Condo Apt,Rowangardens,523800.0,517605.0,extra_trees
+SYN-0138109,2026-04,Condo Apt,Juniperhaven,374900.0,482026.0,extra_trees
+SYN-0149570,2026-04,Detached,Cypressheights,965800.0,1515611.0,extra_trees
+SYN-0126101,2026-04,Condo Apt,Sumacpark,424000.0,414908.0,extra_trees
+SYN-0116605,2026-04,Detached,Hemlockvale,1423400.0,1509173.0,extra_trees
+SYN-0099938,2026-04,Detached,Cedargardens,1179600.0,1168776.0,extra_trees
+SYN-0034008,2026-04,Condo Apt,Rowanridge,535000.0,571925.0,extra_trees
+SYN-0020002,2026-04,Semi-Detached,Hazelfield,2660800.0,2935390.0,extra_trees
+SYN-0086015,2026-04,Condo Apt,Chestnutview,563900.0,626123.0,extra_trees
+SYN-0064416,2026-04,Detached,Chestnutglen,988000.0,1002882.0,extra_trees
+SYN-0130155,2026-04,Condo Apt,Hickoryhaven,615200.0,638366.0,extra_trees
+SYN-0152902,2026-04,Condo Apt,Hawthornbourne,834300.0,1140811.0,extra_trees
+SYN-0054644,2026-04,Condo Apt,Lindenvale,551500.0,489799.0,extra_trees
+SYN-0121907,2026-04,Condo Apt,Walnuthollow,442900.0,596484.0,extra_trees
+SYN-0011002,2026-04,Detached,Pinevale,1451400.0,1530243.0,extra_trees
+SYN-0101186,2026-04,Detached,Hickoryridge,1488600.0,1655643.0,extra_trees
+SYN-0036038,2026-04,Condo Apt,Sumacbank,633500.0,805368.0,extra_trees
+SYN-0146598,2026-04,Detached,Elmpark,1469500.0,1512231.0,extra_trees
+SYN-0013584,2026-04,Freehold Townhouse,Cedarwood,1223100.0,1169962.0,extra_trees
+SYN-0110088,2026-04,Condo Apt,Larchview,426100.0,478961.0,extra_trees
+SYN-0106239,2026-04,Condo Apt,Maplebank,455300.0,415890.0,extra_trees
+SYN-0052058,2026-04,Detached,Chestnutbourne,960000.0,1067429.0,extra_trees
+SYN-0059832,2026-04,Condo Apt,Sumacpark,554000.0,486349.0,extra_trees
+SYN-0066605,2026-04,Detached,Cedarbank,899100.0,1182109.0,extra_trees
+SYN-0036632,2026-04,Condo Apt,Elmview,571300.0,787207.0,extra_trees
+SYN-0034980,2026-04,Condo Apt,Walnutfield,519200.0,603154.0,extra_trees
+SYN-0093094,2026-04,Condo Townhouse,Hickoryvale,709600.0,773276.0,extra_trees
+SYN-0000622,2026-04,Condo Apt,Hickoryhaven,770300.0,759328.0,extra_trees
+SYN-0053953,2026-04,Condo Apt,Cypressglen,468800.0,508102.0,extra_trees
+SYN-0136858,2026-04,Condo Apt,Cedargardens,525200.0,529405.0,extra_trees
+SYN-0072974,2026-04,Freehold Townhouse,Hazelfield,2448800.0,2423298.0,extra_trees
+SYN-0012317,2026-04,Condo Apt,Birchheights,547900.0,591471.0,extra_trees
+SYN-0030656,2026-04,Condo Townhouse,Magnoliaworth,1022200.0,858000.0,extra_trees
+SYN-0108637,2026-04,Condo Apt,Magnoliaview,484800.0,545204.0,extra_trees
+SYN-0135747,2026-04,Condo Apt,Hickorybourne,540900.0,567448.0,extra_trees
+SYN-0119466,2026-04,Condo Apt,Lindenvale,434300.0,498989.0,extra_trees
+SYN-0155329,2026-04,Detached,Maplevale,2950700.0,2496015.0,extra_trees
+SYN-0126073,2026-04,Condo Apt,Cedarview,355500.0,427134.0,extra_trees
+SYN-0048384,2026-04,Condo Apt,Cedarheights,698500.0,859003.0,extra_trees
+SYN-0150326,2026-04,Detached,Rowanbank,1623500.0,1448278.0,extra_trees
+SYN-0059805,2026-04,Condo Apt,Chestnutbourne,505900.0,620180.0,extra_trees
+SYN-0129237,2026-04,Detached,Elmmills,1227000.0,1213966.0,extra_trees
+SYN-0102044,2026-04,Detached,Sequoiahollow,1662800.0,1363992.0,extra_trees
+SYN-0011986,2026-04,Condo Apt,Ashhollow,852400.0,957875.0,extra_trees
+SYN-0020943,2026-04,Detached,Maplebrook,1590100.0,1829500.0,extra_trees
+SYN-0145776,2026-04,Condo Apt,Magnoliaview,298700.0,498903.0,extra_trees
+SYN-0104718,2026-04,Detached,Ashworth,1691000.0,1084585.0,extra_trees
+SYN-0096454,2026-04,Condo Apt,Cedargrove,500200.0,518803.0,extra_trees
+SYN-0105074,2026-04,Detached,Sequoiaview,1055500.0,1339179.0,extra_trees
+SYN-0151387,2026-04,Detached,Dogwoodcliffe,1132200.0,1047825.0,extra_trees
+SYN-0058951,2026-04,Condo Apt,Hickoryhaven,676100.0,651160.0,extra_trees
+SYN-0070201,2026-04,Condo Apt,Walnutfield,605900.0,664100.0,extra_trees
+SYN-0079143,2026-04,Condo Apt,Oakbourne,378300.0,373989.0,extra_trees
+SYN-0147653,2026-04,Condo Apt,Cedargrove,508800.0,507927.0,extra_trees
+SYN-0028578,2026-04,Detached,Elmbank,1097600.0,1268124.0,extra_trees
+SYN-0138615,2026-04,Condo Townhouse,Poplarcrest,1322900.0,1327367.0,extra_trees
+SYN-0126388,2026-04,Detached,Lindendale,4776900.0,5252736.0,extra_trees
+SYN-0092926,2026-04,Detached,Balsamcrest,1598100.0,1187546.0,extra_trees
+SYN-0033119,2026-04,Detached,Junipergardens,1494200.0,1243120.0,extra_trees
+SYN-0084629,2026-04,Condo Apt,Elmmills,354000.0,341500.0,extra_trees
+SYN-0126238,2026-04,Condo Apt,Hemlockvale,584900.0,767093.0,extra_trees
+SYN-0121417,2026-04,Semi-Detached,Pineridge,961000.0,1146004.0,extra_trees
+SYN-0134248,2026-04,Condo Apt,Elmview,1101000.0,1239449.0,extra_trees
+SYN-0085313,2026-04,Detached,Chestnutmills,862300.0,1003269.0,extra_trees
+SYN-0045473,2026-04,Semi-Detached,Cedarhaven,1149100.0,1018778.0,extra_trees
+SYN-0014525,2026-04,Condo Townhouse,Elmgardens,676600.0,676824.0,extra_trees
+SYN-0003496,2026-04,Condo Apt,Balsamgrove,523500.0,510330.0,extra_trees
+SYN-0041930,2026-04,Detached,Hawthorncliffe,1035700.0,1050855.0,extra_trees
+SYN-0142872,2026-04,Detached,Poplarcrest,3440400.0,4304876.0,extra_trees
+SYN-0012494,2026-04,Condo Townhouse,Beechglen,742100.0,758729.0,extra_trees
+SYN-0079342,2026-04,Detached,Cedarwood,1480400.0,1452507.0,extra_trees
+SYN-0087545,2026-04,Detached,Rowangardens,1633100.0,1454886.0,extra_trees
+SYN-0140293,2026-04,Condo Apt,Ashbank,761700.0,824321.0,extra_trees
+SYN-0091741,2026-04,Detached,Hawthorncliffe,715800.0,956335.0,extra_trees
+SYN-0067501,2026-04,Detached,Rowanridge,1412900.0,1614163.0,extra_trees
+SYN-0118967,2026-04,Detached,Junipergardens,1680900.0,2161684.0,extra_trees
+SYN-0132949,2026-04,Freehold Townhouse,Walnuthollow,960000.0,1095877.0,extra_trees
+SYN-0099192,2026-04,Detached,Junipergardens,1033700.0,1721497.0,extra_trees
+SYN-0120934,2026-04,Detached,Juniperpark,712300.0,950435.0,extra_trees
+SYN-0031768,2026-04,Detached,Sycamorewood,852700.0,1091907.0,extra_trees
+SYN-0059973,2026-04,Condo Apt,Sequoiaview,444200.0,436184.0,extra_trees
+SYN-0045787,2026-04,Condo Townhouse,Beechbourne,539500.0,652318.0,extra_trees
+SYN-0135959,2026-04,Condo Apt,Cedarheights,734700.0,658469.0,extra_trees
+SYN-0127651,2026-04,Condo Apt,Juniperhaven,655400.0,669767.0,extra_trees
+SYN-0099369,2026-04,Detached,Juniperhaven,2342000.0,1887230.0,extra_trees
+SYN-0145297,2026-04,Condo Apt,Hazelbourne,415100.0,532798.0,extra_trees
+SYN-0093678,2026-04,Condo Apt,Ashhollow,659300.0,808785.0,extra_trees
+SYN-0115986,2026-04,Detached,Elmpark,797500.0,859932.0,extra_trees
+SYN-0036017,2026-04,Detached,Spruceview,1694000.0,1176083.0,extra_trees
+SYN-0090659,2026-04,Condo Apt,Magnoliacrest,706700.0,612107.0,extra_trees
+SYN-0005368,2026-04,Condo Apt,Cypresspark,592700.0,688864.0,extra_trees
+SYN-0132753,2026-04,Detached,Lindendale,2880400.0,2650233.0,extra_trees
+SYN-0143247,2026-04,Condo Apt,Birchheights,643100.0,603522.0,extra_trees
+SYN-0019147,2026-04,Condo Apt,Sumacpark,410400.0,430671.0,extra_trees
+SYN-0027822,2026-04,Detached,Hemlockvale,1400000.0,1144612.0,extra_trees
+SYN-0040716,2026-04,Condo Apt,Spruceview,848600.0,949396.0,extra_trees
+SYN-0111981,2026-04,Condo Apt,Cedarview,458300.0,441908.0,extra_trees
+SYN-0042043,2026-04,Detached,Willowpark,3564600.0,3710580.0,extra_trees
+SYN-0119384,2026-04,Detached,Aspenwood,1716100.0,1581225.0,extra_trees
+SYN-0103240,2026-04,Detached,Beechbourne,1622200.0,1494481.0,extra_trees
+SYN-0074599,2026-04,Detached,Hickoryvale,1205600.0,1295341.0,extra_trees
+SYN-0001198,2026-04,Condo Apt,Cypressdale,575300.0,514088.0,extra_trees
+SYN-0114054,2026-04,Detached,Mapleview,1046400.0,1272934.0,extra_trees
+SYN-0145196,2026-04,Semi-Detached,Maplegrove,1609300.0,1332846.0,extra_trees
+SYN-0030184,2026-04,Semi-Detached,Walnutpark,835700.0,1084762.0,extra_trees
+SYN-0134383,2026-04,Freehold Townhouse,Birchhollow,849700.0,999711.0,extra_trees
+SYN-0153135,2026-04,Detached,Lindenvale,1195500.0,1259709.0,extra_trees
+SYN-0084516,2026-04,Condo Apt,Sumacpark,288300.0,400581.0,extra_trees
+SYN-0084883,2026-04,Condo Apt,Rowangardens,621500.0,648085.0,extra_trees
+SYN-0120877,2026-04,Semi-Detached,Magnoliaworth,818600.0,975314.0,extra_trees
+SYN-0121582,2026-04,Condo Apt,Cedargrove,435300.0,484904.0,extra_trees
+SYN-0069198,2026-04,Condo Townhouse,Cedarheights,960000.0,820353.0,extra_trees
+SYN-0020668,2026-04,Detached,Elmbank,972400.0,1144502.0,extra_trees
+SYN-0123706,2026-04,Detached,Dogwoodglen,819300.0,830914.0,extra_trees
+SYN-0047813,2026-04,Condo Apt,Cypressdale,623100.0,655140.0,extra_trees
+SYN-0060758,2026-04,Condo Apt,Elmview,854100.0,839741.0,extra_trees
+SYN-0012962,2026-04,Detached,Hemlockvale,1059300.0,1103850.0,extra_trees
+SYN-0005423,2026-04,Condo Apt,Beechbourne,740300.0,628704.0,extra_trees
+SYN-0129687,2026-04,Condo Apt,Cedarview,405700.0,411763.0,extra_trees
+SYN-0115855,2026-04,Condo Apt,Rowangardens,330500.0,468545.0,extra_trees
+SYN-0056430,2026-04,Condo Apt,Chestnutview,440500.0,527482.0,extra_trees
+SYN-0033910,2026-04,Condo Apt,Cedarheights,1217400.0,1241447.0,extra_trees
+SYN-0037619,2026-04,Condo Apt,Hawthornbourne,567100.0,623930.0,extra_trees
+SYN-0007536,2026-04,Detached,Hawthorncliffe,851800.0,817333.0,extra_trees
+SYN-0050787,2026-04,Detached,Hickoryhaven,1156600.0,1352094.0,extra_trees
+SYN-0068964,2026-04,Freehold Townhouse,Hazelfield,3341700.0,2522458.0,extra_trees
+SYN-0069364,2026-04,Detached,Hickoryridge,1236900.0,1225081.0,extra_trees
+SYN-0020425,2026-04,Freehold Townhouse,Sumacglen,971300.0,1221777.0,extra_trees
+SYN-0145494,2026-04,Condo Townhouse,Hickoryglen,405600.0,529853.0,extra_trees
+SYN-0055495,2026-04,Semi-Detached,Cypressheights,780200.0,1039609.0,extra_trees
+SYN-0059365,2026-04,Condo Apt,Sycamoreglen,523100.0,483347.0,extra_trees
+SYN-0078614,2026-04,Condo Apt,Hickoryvale,557500.0,647294.0,extra_trees
+SYN-0084428,2026-04,Semi-Detached,Juniperheights,1267100.0,1322328.0,extra_trees
+SYN-0033933,2026-04,Semi-Detached,Magnoliaworth,973000.0,1135833.0,extra_trees
+SYN-0095364,2026-04,Condo Apt,Beechbourne,491500.0,515538.0,extra_trees
+SYN-0094554,2026-04,Semi-Detached,Hazelfield,3978900.0,2836555.0,extra_trees
+SYN-0045092,2026-04,Condo Apt,Chestnutbank,439200.0,511340.0,extra_trees
+SYN-0091098,2026-04,Condo Apt,Larchview,780100.0,563959.0,extra_trees
+SYN-0054512,2026-04,Condo Apt,Cypressglen,498400.0,475533.0,extra_trees
+SYN-0037256,2026-04,Condo Apt,Elmview,2737000.0,1355580.0,extra_trees
+SYN-0074562,2026-04,Detached,Mulberryhollow,1473200.0,1120554.0,extra_trees
+SYN-0008568,2026-04,Detached,Magnoliaworth,1522400.0,1249422.0,extra_trees
+SYN-0142827,2026-04,Detached,Pineridge,1144700.0,1048869.0,extra_trees
+SYN-0038260,2026-04,Condo Townhouse,Sequoiaview,694500.0,716913.0,extra_trees
+SYN-0020757,2026-04,Detached,Junipergardens,1441600.0,1342998.0,extra_trees
+SYN-0074590,2026-04,Detached,Hawthorncliffe,1040700.0,1455697.0,extra_trees
+SYN-0071116,2026-04,Condo Apt,Hickoryhaven,573200.0,566897.0,extra_trees
+SYN-0062795,2026-04,Condo Apt,Sequoiabourne,594600.0,613408.0,extra_trees
+SYN-0068041,2026-04,Detached,Lindendale,2228500.0,2593262.0,extra_trees
+SYN-0040962,2026-04,Semi-Detached,Rowanhollow,2012300.0,1776220.0,extra_trees
+SYN-0125859,2026-04,Detached,Juniperheights,3131000.0,2667820.0,extra_trees
+SYN-0121481,2026-04,Condo Apt,Aspenworth,424800.0,356472.0,extra_trees
+SYN-0061905,2026-04,Condo Townhouse,Walnutfield,571000.0,728046.0,extra_trees
+SYN-0060548,2026-04,Detached,Poplargardens,1309100.0,1494082.0,extra_trees
+SYN-0154161,2026-04,Condo Apt,Alderworth,402800.0,632258.0,extra_trees
+SYN-0079114,2026-04,Detached,Maplebrook,3770000.0,2582892.0,extra_trees
+SYN-0125040,2026-04,Detached,Walnutfield,3855900.0,2834701.0,extra_trees
+SYN-0036316,2026-04,Condo Apt,Cedarview,359200.0,453480.0,extra_trees
+SYN-0059627,2026-04,Condo Apt,Lindenridge,672600.0,900401.0,extra_trees
+SYN-0142585,2026-04,Detached,Sycamoredale,2460500.0,1796418.0,extra_trees
+SYN-0114911,2026-04,Detached,Sycamoreglen,2498000.0,2875716.0,extra_trees
+SYN-0094774,2026-04,Detached,Dogwoodbrook,1414200.0,1374119.0,extra_trees
+SYN-0011305,2026-04,Condo Townhouse,Oakbourne,530600.0,692984.0,extra_trees
+SYN-0057423,2026-04,Condo Apt,Lindenridge,805400.0,810862.0,extra_trees
+SYN-0150686,2026-04,Condo Townhouse,Sumacpark,626000.0,687396.0,extra_trees
+SYN-0084824,2026-04,Condo Apt,Balsamgrove,582000.0,566260.0,extra_trees
+SYN-0107566,2026-04,Condo Apt,Elmview,715200.0,561285.0,extra_trees
+SYN-0063225,2026-04,Semi-Detached,Willowglen,1200400.0,978576.0,extra_trees
+SYN-0149167,2026-04,Condo Apt,Cypressdale,851900.0,891997.0,extra_trees
+SYN-0138861,2026-04,Condo Apt,Hickoryhaven,1039200.0,894428.0,extra_trees
+SYN-0014140,2026-04,Condo Apt,Hickoryhaven,716400.0,821397.0,extra_trees
+SYN-0150697,2026-04,Condo Apt,Hickoryhaven,595000.0,568911.0,extra_trees
+SYN-0043109,2026-04,Detached,Mapleview,1222900.0,1046359.0,extra_trees
+SYN-0069299,2026-04,Detached,Elmbank,1519400.0,1463069.0,extra_trees
+SYN-0078112,2026-04,Semi-Detached,Spruceview,1080000.0,1158118.0,extra_trees
+SYN-0119623,2026-04,Condo Apt,Magnoliaworth,645300.0,455564.0,extra_trees
+SYN-0105012,2026-04,Detached,Magnoliaglen,2497600.0,1465752.0,extra_trees
+SYN-0079799,2026-04,Condo Apt,Oakbourne,493500.0,533595.0,extra_trees
+SYN-0024449,2026-04,Condo Apt,Hickoryhaven,525400.0,494990.0,extra_trees
+SYN-0139970,2026-04,Detached,Pineridge,1019600.0,1093219.0,extra_trees
+SYN-0021538,2026-04,Condo Apt,Dogwoodmills,562000.0,634492.0,extra_trees
+SYN-0151380,2026-04,Detached,Rowanbank,1856700.0,1427790.0,extra_trees
+SYN-0036658,2026-04,Condo Apt,Hickoryhaven,1099300.0,1051533.0,extra_trees
+SYN-0156533,2026-04,Condo Apt,Elmmills,407900.0,510369.0,extra_trees
+SYN-0050678,2026-04,Condo Apt,Birchbrook,704900.0,820730.0,extra_trees
+SYN-0104625,2026-04,Condo Apt,Elmgardens,1117900.0,932993.0,extra_trees
+SYN-0018123,2026-04,Semi-Detached,Magnoliabank,1007500.0,983867.0,extra_trees
+SYN-0069489,2026-04,Condo Apt,Balsamgrove,593500.0,621905.0,extra_trees
+SYN-0062105,2026-04,Detached,Dogwoodhaven,1835400.0,1533266.0,extra_trees
+SYN-0068383,2026-04,Detached,Poplargardens,2584300.0,2291741.0,extra_trees
+SYN-0103896,2026-04,Detached,Junipergardens,1760600.0,1493692.0,extra_trees
+SYN-0087267,2026-04,Condo Townhouse,Chestnutbourne,489200.0,589324.0,extra_trees
+SYN-0013525,2026-04,Condo Apt,Juniperpark,439400.0,507984.0,extra_trees
+SYN-0130751,2026-04,Condo Apt,Willowglen,518200.0,439000.0,extra_trees
+SYN-0156137,2026-04,Condo Townhouse,Balsamgrove,872900.0,747737.0,extra_trees
+SYN-0018543,2026-04,Condo Apt,Rowanbrook,1054400.0,855161.0,extra_trees
+SYN-0018297,2026-04,Freehold Townhouse,Lindenglen,2144300.0,1766267.0,extra_trees
+SYN-0080588,2026-04,Condo Apt,Ashhollow,647700.0,709245.0,extra_trees
+SYN-0020287,2026-04,Detached,Sycamoredale,3288200.0,2724895.0,extra_trees
+SYN-0017868,2026-04,Condo Apt,Cedarheights,579200.0,617124.0,extra_trees
+SYN-0117381,2026-04,Condo Apt,Willowglen,627300.0,501421.0,extra_trees
+SYN-0123782,2026-04,Detached,Sumacdale,1798900.0,1393026.0,extra_trees
+SYN-0086996,2026-04,Condo Apt,Walnutfield,807300.0,1191167.0,extra_trees
+SYN-0131914,2026-04,Condo Apt,Elmview,617800.0,743561.0,extra_trees
+SYN-0155425,2026-04,Condo Apt,Hickorymills,496600.0,456707.0,extra_trees
+SYN-0151188,2026-04,Detached,Rowanbank,1475700.0,1171015.0,extra_trees
+SYN-0000545,2026-04,Condo Apt,Mulberrygrove,500800.0,423543.0,extra_trees
+SYN-0095900,2026-04,Detached,Dogwoodhaven,910500.0,1237420.0,extra_trees
+SYN-0122440,2026-04,Condo Apt,Elmview,677400.0,906645.0,extra_trees
+SYN-0125514,2026-04,Condo Townhouse,Elmhaven,546900.0,806400.0,extra_trees
+SYN-0086601,2026-04,Semi-Detached,Cedargrove,1131300.0,1174160.0,extra_trees
+SYN-0054922,2026-04,Freehold Townhouse,Cedarwood,1126600.0,1239747.0,extra_trees
+SYN-0040801,2026-04,Condo Apt,Lindenvale,380700.0,506246.0,extra_trees
+SYN-0009114,2026-04,Condo Apt,Beechbourne,686600.0,811318.0,extra_trees
+SYN-0090419,2026-04,Detached,Pineglen,1135600.0,997141.0,extra_trees
+SYN-0122988,2026-04,Semi-Detached,Hickorymills,1212500.0,1304482.0,extra_trees
+SYN-0012566,2026-04,Condo Apt,Cypressglen,562000.0,498385.0,extra_trees
+SYN-0065131,2026-04,Condo Apt,Magnoliacrest,1022500.0,1000615.0,extra_trees
+SYN-0098593,2026-04,Detached,Chestnutview,822800.0,1308797.0,extra_trees
+SYN-0132093,2026-04,Condo Apt,Willowpark,724700.0,753182.0,extra_trees
+SYN-0008090,2026-04,Detached,Elmbank,938300.0,960039.0,extra_trees
+SYN-0116944,2026-04,Detached,Poplargardens,1318500.0,1560624.0,extra_trees
+SYN-0011160,2026-04,Detached,Junipergardens,1710000.0,1535670.0,extra_trees
+SYN-0077926,2026-04,Condo Apt,Sumacwood,277000.0,364430.0,extra_trees
+SYN-0056099,2026-04,Detached,Mulberryvale,1198000.0,1333963.0,extra_trees
+SYN-0036587,2026-04,Condo Apt,Willowglen,788800.0,792670.0,extra_trees
+SYN-0116882,2026-04,Detached,Hemlockvale,1491100.0,1909092.0,extra_trees
+SYN-0048843,2026-04,Condo Apt,Chestnutbank,546400.0,622490.0,extra_trees
+SYN-0005100,2026-04,Condo Apt,Spruceview,1239800.0,852726.0,extra_trees
+SYN-0023877,2026-04,Condo Apt,Sprucehaven,539900.0,649989.0,extra_trees
+SYN-0123263,2026-04,Detached,Hemlockvale,2478100.0,2352728.0,extra_trees
+SYN-0124019,2026-04,Condo Townhouse,Cedarwood,841500.0,776974.0,extra_trees
+SYN-0086782,2026-04,Condo Apt,Aspenworth,352900.0,348836.0,extra_trees
+SYN-0131302,2026-04,Detached,Lindendale,2343200.0,1989272.0,extra_trees
+SYN-0140187,2026-04,Detached,Rowanridge,1201700.0,1220030.0,extra_trees
+SYN-0035703,2026-04,Detached,Beechbourne,1125500.0,1212335.0,extra_trees
+SYN-0050419,2026-04,Condo Apt,Chestnutvale,738900.0,669185.0,extra_trees
+SYN-0011931,2026-04,Detached,Hemlockvale,809500.0,1181208.0,extra_trees
+SYN-0150735,2026-04,Detached,Chestnutview,1111100.0,940741.0,extra_trees
+SYN-0004137,2026-04,Condo Apt,Cedarview,330400.0,369819.0,extra_trees
+SYN-0154725,2026-04,Condo Apt,Magnoliavale,430500.0,524318.0,extra_trees
+SYN-0065108,2026-04,Detached,Birchgrove,3451800.0,2599884.0,extra_trees
+SYN-0094544,2026-04,Condo Apt,Beechbourne,519700.0,617269.0,extra_trees
+SYN-0099309,2026-04,Condo Apt,Magnoliabank,314200.0,458945.0,extra_trees
+SYN-0034610,2026-04,Semi-Detached,Sequoiahollow,936500.0,1058823.0,extra_trees
+SYN-0002613,2026-04,Condo Apt,Walnutpark,460100.0,574554.0,extra_trees
+SYN-0072436,2026-04,Condo Apt,Elmcrest,609300.0,582218.0,extra_trees
+SYN-0138000,2026-04,Condo Apt,Beechbourne,715800.0,661062.0,extra_trees
+SYN-0040120,2026-04,Condo Apt,Aspenworth,486800.0,558184.0,extra_trees
+SYN-0057237,2026-04,Condo Apt,Magnoliaview,550500.0,571594.0,extra_trees
+SYN-0020508,2026-04,Condo Apt,Magnoliaview,433700.0,540956.0,extra_trees
+SYN-0038487,2026-04,Condo Apt,Hemlockhollow,518300.0,476436.0,extra_trees
+SYN-0010539,2026-04,Detached,Poplarcrest,1717400.0,1336024.0,extra_trees
+SYN-0017833,2026-04,Condo Apt,Oakhaven,481000.0,569667.0,extra_trees
+SYN-0085529,2026-04,Condo Apt,Tamarackmills,598600.0,615526.0,extra_trees
+SYN-0054840,2026-04,Detached,Cypressbrook,2063200.0,1902794.0,extra_trees
+SYN-0110712,2026-04,Condo Apt,Oakhaven,978400.0,958555.0,extra_trees
+SYN-0126572,2026-04,Condo Apt,Hickoryridge,720600.0,801944.0,extra_trees
+SYN-0044513,2026-04,Condo Apt,Cedarview,579600.0,502299.0,extra_trees
+SYN-0145616,2026-04,Condo Townhouse,Tamarackmills,626200.0,776653.0,extra_trees
+SYN-0151406,2026-04,Condo Apt,Lindenvale,544300.0,800036.0,extra_trees
+SYN-0102602,2026-04,Condo Apt,Cedarglen,553500.0,485731.0,extra_trees
+SYN-0125965,2026-04,Freehold Townhouse,Cedarhaven,1543600.0,1204981.0,extra_trees
+SYN-0059616,2026-04,Condo Apt,Mulberryhaven,694700.0,664588.0,extra_trees
+SYN-0136332,2026-04,Condo Apt,Elmgardens,782100.0,861507.0,extra_trees
+SYN-0124630,2026-04,Condo Apt,Willowglen,456300.0,493344.0,extra_trees
+SYN-0041089,2026-04,Detached,Rowanbrook,2305700.0,1435590.0,extra_trees
+SYN-0142208,2026-04,Semi-Detached,Willowglen,853400.0,989104.0,extra_trees
+SYN-0110704,2026-04,Detached,Chestnutmills,976000.0,1165489.0,extra_trees
+SYN-0105099,2026-04,Condo Townhouse,Sumacbank,593000.0,780961.0,extra_trees
+SYN-0084294,2026-04,Condo Apt,Sequoiaview,542300.0,509428.0,extra_trees
+SYN-0002890,2026-04,Detached,Chestnutbourne,628500.0,876695.0,extra_trees
+SYN-0092029,2026-04,Condo Apt,Cedarview,402400.0,469699.0,extra_trees
+SYN-0101026,2026-04,Condo Apt,Cedarview,349900.0,430862.0,extra_trees
+SYN-0018103,2026-04,Semi-Detached,Elmcrest,1520900.0,1238386.0,extra_trees
+SYN-0144308,2026-04,Detached,Hickoryvale,1020800.0,1017005.0,extra_trees
+SYN-0118145,2026-04,Detached,Sequoiaview,838000.0,1100811.0,extra_trees
+SYN-0061258,2026-04,Condo Apt,Cedarglen,578300.0,677600.0,extra_trees
+SYN-0019733,2026-04,Condo Apt,Rowangrove,661000.0,695388.0,extra_trees
+SYN-0127679,2026-04,Condo Apt,Hickorybourne,487900.0,524479.0,extra_trees
+SYN-0118423,2026-04,Condo Apt,Chestnutmills,670100.0,834441.0,extra_trees
+SYN-0050423,2026-04,Condo Apt,Cedarview,342600.0,374232.0,extra_trees
+SYN-0029497,2026-04,Condo Apt,Sequoiaview,473000.0,514832.0,extra_trees
+SYN-0105207,2026-04,Condo Apt,Junipergardens,368100.0,479461.0,extra_trees
+SYN-0042095,2026-04,Condo Apt,Cypressdale,519000.0,580899.0,extra_trees
+SYN-0122721,2026-04,Condo Apt,Cedarglen,345500.0,515320.0,extra_trees
+SYN-0139343,2026-04,Detached,Elmbank,1195800.0,1567287.0,extra_trees
+SYN-0075452,2026-04,Condo Apt,Sequoiabourne,444300.0,516164.0,extra_trees
+SYN-0156039,2026-04,Detached,Junipergardens,2093400.0,1710676.0,extra_trees
+SYN-0105659,2026-04,Condo Apt,Magnoliaview,385000.0,461824.0,extra_trees
+SYN-0092924,2026-04,Condo Apt,Mulberryhaven,515200.0,626036.0,extra_trees
+SYN-0021253,2026-04,Condo Apt,Cedarglen,766500.0,583289.0,extra_trees
+SYN-0035296,2026-04,Detached,Juniperheights,5085600.0,3984991.0,extra_trees
+SYN-0156992,2026-04,Condo Apt,Sequoiabourne,814800.0,674546.0,extra_trees
+SYN-0087419,2026-04,Condo Apt,Cypressglen,410800.0,559046.0,extra_trees
+SYN-0145547,2026-04,Detached,Maplebourne,889900.0,1173507.0,extra_trees
+SYN-0136152,2026-04,Condo Townhouse,Sumacpark,517000.0,607124.0,extra_trees
+SYN-0073665,2026-04,Condo Apt,Sycamoredale,521700.0,606281.0,extra_trees
+SYN-0141767,2026-04,Detached,Maplebrook,1408700.0,1796440.0,extra_trees
+SYN-0147341,2026-04,Detached,Elmhaven,2147500.0,1925975.0,extra_trees
+SYN-0073347,2026-04,Condo Apt,Sumacworth,750700.0,618860.0,extra_trees
+SYN-0041856,2026-04,Detached,Poplargardens,3357200.0,2687816.0,extra_trees
+SYN-0063317,2026-04,Condo Apt,Cedarglen,649000.0,654021.0,extra_trees
+SYN-0020856,2026-04,Detached,Walnutfield,2503900.0,1693579.0,extra_trees
+SYN-0090360,2026-04,Detached,Sycamorehaven,989600.0,1041169.0,extra_trees
+SYN-0024796,2026-04,Detached,Chestnutgrove,1266100.0,1178604.0,extra_trees
+SYN-0081640,2026-04,Semi-Detached,Cedarhaven,1195800.0,1098704.0,extra_trees
+SYN-0122815,2026-04,Detached,Hemlockvale,1481000.0,1278850.0,extra_trees
+SYN-0040846,2026-04,Condo Apt,Elmmills,552500.0,490512.0,extra_trees
+SYN-0132988,2026-04,Condo Apt,Hazelfield,704100.0,589577.0,extra_trees
+SYN-0026435,2026-04,Condo Apt,Sycamoreglen,929600.0,631942.0,extra_trees
+SYN-0121225,2026-04,Detached,Mulberrydale,1150700.0,1191701.0,extra_trees
+SYN-0118970,2026-04,Detached,Hemlockvale,977500.0,1059628.0,extra_trees
+SYN-0118631,2026-04,Detached,Elmbourne,1160300.0,1342922.0,extra_trees
+SYN-0151233,2026-04,Condo Apt,Hemlockvale,704600.0,817802.0,extra_trees
+SYN-0070028,2026-04,Condo Apt,Lindenridge,852400.0,873162.0,extra_trees
+SYN-0074295,2026-04,Condo Apt,Willowglen,668600.0,735191.0,extra_trees
+SYN-0079830,2026-04,Condo Apt,Beechbourne,541600.0,523736.0,extra_trees
+SYN-0090829,2026-04,Condo Townhouse,Beechbourne,795200.0,846894.0,extra_trees
+SYN-0072668,2026-04,Detached,Larchbank,836800.0,1423753.0,extra_trees
+SYN-0124651,2026-04,Condo Apt,Hickorybourne,608400.0,522027.0,extra_trees
+SYN-0002626,2026-04,Semi-Detached,Willowglen,958800.0,977726.0,extra_trees
+SYN-0064374,2026-04,Condo Apt,Willowglen,693800.0,504676.0,extra_trees
+SYN-0142123,2026-04,Semi-Detached,Hemlockvale,1494200.0,1444388.0,extra_trees
+SYN-0056031,2026-04,Detached,Hemlockvale,1494700.0,1492144.0,extra_trees
+SYN-0081427,2026-04,Condo Apt,Walnutfield,579500.0,651378.0,extra_trees
+SYN-0057065,2026-04,Condo Apt,Rowangardens,693200.0,645361.0,extra_trees
+SYN-0031549,2026-04,Semi-Detached,Rowanhollow,1788400.0,1399379.0,extra_trees
+SYN-0098167,2026-04,Detached,Maplebank,874000.0,1038325.0,extra_trees
+SYN-0096716,2026-04,Condo Apt,Walnuthollow,520700.0,569800.0,extra_trees
+SYN-0051621,2026-04,Freehold Townhouse,Beechbourne,1339900.0,1641028.0,extra_trees
+SYN-0075714,2026-04,Condo Apt,Willowglen,815300.0,891187.0,extra_trees
+SYN-0137898,2026-04,Detached,Magnoliavale,1108000.0,1122106.0,extra_trees
+SYN-0064468,2026-04,Detached,Sycamorehaven,1773000.0,1916326.0,extra_trees
+SYN-0156632,2026-04,Condo Apt,Magnoliavale,360100.0,449078.0,extra_trees
+SYN-0063139,2026-04,Semi-Detached,Sumacvale,1479900.0,1215969.0,extra_trees
+SYN-0152271,2026-04,Condo Apt,Oakhaven,510300.0,514515.0,extra_trees
+SYN-0004331,2026-04,Condo Apt,Magnoliaworth,581000.0,548662.0,extra_trees
+SYN-0114583,2026-04,Condo Apt,Elmhaven,484700.0,568974.0,extra_trees
+SYN-0064477,2026-04,Condo Apt,Walnutfield,498600.0,565735.0,extra_trees
+SYN-0015584,2026-04,Detached,Maplebourne,964600.0,1014741.0,extra_trees
+SYN-0137583,2026-04,Semi-Detached,Sumacworth,1937500.0,1181790.0,extra_trees
+SYN-0100054,2026-04,Condo Apt,Sumacpark,337000.0,448635.0,extra_trees
+SYN-0006683,2026-04,Condo Apt,Elmmills,356800.0,462719.0,extra_trees
+SYN-0115342,2026-04,Detached,Aspenwood,1181700.0,1431496.0,extra_trees
+SYN-0063819,2026-04,Semi-Detached,Willowglen,885500.0,1058662.0,extra_trees
+SYN-0060203,2026-04,Detached,Maplemills,2919000.0,2154538.0,extra_trees
+SYN-0091962,2026-04,Condo Apt,Chestnutbank,490800.0,556017.0,extra_trees
+SYN-0080702,2026-04,Detached,Maplevale,3393000.0,3051200.0,extra_trees
+SYN-0026453,2026-04,Semi-Detached,Spruceview,1200600.0,1124387.0,extra_trees
+SYN-0103528,2026-04,Condo Apt,Birchhollow,401500.0,473558.0,extra_trees
+SYN-0101052,2026-04,Detached,Sequoiafield,2278000.0,2167278.0,extra_trees
+SYN-0140082,2026-04,Condo Apt,Cypressdale,853600.0,1326809.0,extra_trees
+SYN-0039102,2026-04,Semi-Detached,Cypressheights,795000.0,1028820.0,extra_trees
+SYN-0156568,2026-04,Semi-Detached,Cypressdale,1219600.0,1417158.0,extra_trees
+SYN-0110325,2026-04,Condo Apt,Magnoliacrest,1147100.0,1098125.0,extra_trees
+SYN-0150014,2026-04,Detached,Sycamorehaven,834500.0,1001584.0,extra_trees
+SYN-0117297,2026-04,Condo Apt,Birchbrook,596100.0,867031.0,extra_trees
+SYN-0004696,2026-04,Detached,Chestnutbank,1734600.0,3114684.0,extra_trees
+SYN-0018067,2026-04,Detached,Oakview,2074700.0,1147606.0,extra_trees
+SYN-0070387,2026-04,Condo Apt,Cedarview,264400.0,366280.0,extra_trees
+SYN-0024299,2026-04,Condo Apt,Oakbourne,393000.0,358437.0,extra_trees
+SYN-0077494,2026-04,Semi-Detached,Birchheights,872700.0,887558.0,extra_trees
+SYN-0073394,2026-04,Condo Apt,Beechbourne,471200.0,555693.0,extra_trees
+SYN-0134359,2026-04,Condo Townhouse,Hickoryhaven,639900.0,891837.0,extra_trees
+SYN-0153337,2026-04,Condo Apt,Magnoliaworth,890200.0,1249752.0,extra_trees
+SYN-0089694,2026-04,Detached,Lindendale,3332100.0,3554476.0,extra_trees
+SYN-0070128,2026-04,Condo Apt,Cypresspark,803200.0,1021962.0,extra_trees
+SYN-0001139,2026-04,Semi-Detached,Pinevale,1146300.0,1122095.0,extra_trees
+SYN-0103329,2026-04,Detached,Cypressdale,2392600.0,2491859.0,extra_trees
+SYN-0001677,2026-04,Condo Apt,Hickoryhaven,558900.0,562934.0,extra_trees
+SYN-0075327,2026-04,Condo Apt,Chestnutvale,776200.0,928257.0,extra_trees
+SYN-0032641,2026-04,Condo Townhouse,Rowanbrook,733200.0,735590.0,extra_trees
+SYN-0046603,2026-04,Detached,Rowanbank,2016600.0,1530589.0,extra_trees
+SYN-0073819,2026-04,Semi-Detached,Cypressheights,1046900.0,1074531.0,extra_trees
+SYN-0089879,2026-04,Detached,Junipergardens,1253900.0,1132596.0,extra_trees
+SYN-0131121,2026-04,Condo Apt,Hickorybourne,431000.0,481884.0,extra_trees
+SYN-0114017,2026-04,Condo Apt,Elmgardens,686500.0,825676.0,extra_trees
+SYN-0147374,2026-04,Detached,Dogwoodcliffe,950200.0,884623.0,extra_trees
+SYN-0008659,2026-04,Detached,Sycamoreglen,2919200.0,3512624.0,extra_trees
+SYN-0096060,2026-04,Detached,Juniperpark,979100.0,1138384.0,extra_trees
+SYN-0058094,2026-04,Freehold Townhouse,Magnoliabank,1026300.0,1060971.0,extra_trees
+SYN-0060785,2026-04,Detached,Cedarwood,904500.0,1079627.0,extra_trees
+SYN-0065625,2026-04,Condo Apt,Chestnutbank,539100.0,590970.0,extra_trees
+SYN-0101772,2026-04,Freehold Townhouse,Sprucehaven,945200.0,1176936.0,extra_trees
+SYN-0001370,2026-04,Condo Apt,Sequoiahollow,459400.0,571642.0,extra_trees
+SYN-0007730,2026-04,Freehold Townhouse,Sequoiafield,1070900.0,1011881.0,extra_trees
+SYN-0013651,2026-04,Condo Townhouse,Poplarview,626200.0,1057552.0,extra_trees
+SYN-0121902,2026-04,Condo Apt,Beechbourne,544700.0,612894.0,extra_trees
+SYN-0035057,2026-04,Detached,Maplemills,3041400.0,4000983.0,extra_trees
+SYN-0046207,2026-04,Semi-Detached,Rowangardens,1214900.0,1178357.0,extra_trees
+SYN-0118386,2026-04,Condo Apt,Cedarglen,459200.0,508022.0,extra_trees
+SYN-0154738,2026-04,Detached,Aspenworth,1801400.0,1544293.0,extra_trees
+SYN-0038845,2026-04,Condo Apt,Chestnutbourne,432400.0,538318.0,extra_trees
+SYN-0094521,2026-04,Condo Apt,Elmview,1076700.0,1063309.0,extra_trees
+SYN-0135875,2026-04,Detached,Lindenvale,730300.0,982325.0,extra_trees
+SYN-0155670,2026-04,Condo Apt,Sumacpark,480800.0,490022.0,extra_trees
+SYN-0110032,2026-04,Semi-Detached,Rowanbrook,1328800.0,1268461.0,extra_trees
+SYN-0052833,2026-04,Semi-Detached,Elmbrook,889300.0,1061992.0,extra_trees
+SYN-0058272,2026-04,Condo Townhouse,Chestnutbank,786200.0,824716.0,extra_trees
+SYN-0086312,2026-04,Condo Townhouse,Sumacpark,476800.0,728106.0,extra_trees
+SYN-0118892,2026-04,Condo Apt,Magnoliaview,261500.0,327292.0,extra_trees
+SYN-0031953,2026-04,Detached,Chestnutbank,1438600.0,2065467.0,extra_trees
+SYN-0025573,2026-04,Detached,Chestnutmills,1167800.0,1519955.0,extra_trees
+SYN-0142203,2026-04,Detached,Hickoryridge,1385200.0,1152538.0,extra_trees
+SYN-0002836,2026-04,Condo Apt,Elmview,1509400.0,1144935.0,extra_trees
+SYN-0078732,2026-04,Condo Apt,Rowanbrook,617500.0,750812.0,extra_trees
+SYN-0039775,2026-04,Detached,Hawthorncliffe,1055300.0,982112.0,extra_trees
+SYN-0092319,2026-04,Condo Apt,Willowglen,517000.0,512241.0,extra_trees
+SYN-0093426,2026-04,Detached,Ashworth,4953300.0,3115695.0,extra_trees
+SYN-0080684,2026-04,Condo Apt,Rowangardens,784000.0,704381.0,extra_trees
+SYN-0052235,2026-04,Condo Apt,Cedarview,356200.0,466715.0,extra_trees
+SYN-0053476,2026-04,Condo Apt,Larchbank,359300.0,420065.0,extra_trees
+SYN-0051967,2026-04,Condo Apt,Balsamgrove,598000.0,566745.0,extra_trees
+SYN-0029816,2026-04,Semi-Detached,Maplevale,1845400.0,1732801.0,extra_trees
+SYN-0115193,2026-04,Condo Apt,Sequoiabourne,625600.0,793665.0,extra_trees
+SYN-0004096,2026-04,Condo Apt,Cedarview,519400.0,587869.0,extra_trees
+SYN-0048161,2026-04,Semi-Detached,Hickorymills,1126800.0,1161814.0,extra_trees
+SYN-0135110,2026-04,Semi-Detached,Magnoliaglen,1878200.0,1062842.0,extra_trees
+SYN-0122810,2026-04,Condo Apt,Rowangardens,708300.0,713036.0,extra_trees
+SYN-0085711,2026-04,Condo Apt,Magnoliaview,409300.0,591271.0,extra_trees
+SYN-0054937,2026-04,Detached,Lindencrest,858100.0,963096.0,extra_trees
+SYN-0136501,2026-04,Detached,Alderworth,1929100.0,1607204.0,extra_trees
+SYN-0139145,2026-04,Condo Apt,Cypressdale,591900.0,545506.0,extra_trees
+SYN-0138940,2026-04,Detached,Lindenvale,1147800.0,1186844.0,extra_trees
+SYN-0082428,2026-04,Freehold Townhouse,Walnuthollow,1099700.0,1253782.0,extra_trees
+SYN-0018842,2026-04,Condo Apt,Lindenridge,551100.0,501618.0,extra_trees
+SYN-0092244,2026-04,Condo Apt,Rowangardens,490400.0,477883.0,extra_trees
+SYN-0064314,2026-04,Detached,Dogwoodhaven,848700.0,1061137.0,extra_trees
+SYN-0155187,2026-04,Condo Apt,Sumacwood,307800.0,450458.0,extra_trees
+SYN-0091729,2026-04,Semi-Detached,Magnoliaworth,1045300.0,1058567.0,extra_trees
+SYN-0126432,2026-04,Condo Apt,Aspenworth,393800.0,447069.0,extra_trees
+SYN-0147105,2026-04,Condo Apt,Hawthornbourne,938300.0,782288.0,extra_trees
+SYN-0015138,2026-04,Condo Apt,Ashworth,612500.0,579859.0,extra_trees
+SYN-0092967,2026-04,Detached,Maplepark,4608900.0,3609352.0,extra_trees
+SYN-0030957,2026-04,Detached,Hawthorncliffe,675600.0,957718.0,extra_trees
+SYN-0039331,2026-04,Condo Apt,Hickoryglen,454200.0,595310.0,extra_trees
+SYN-0090294,2026-04,Condo Apt,Oakbourne,343200.0,376493.0,extra_trees
+SYN-0152316,2026-04,Detached,Willowglen,1119700.0,1442853.0,extra_trees
+SYN-0129655,2026-04,Freehold Townhouse,Lindencliffe,1231700.0,1521376.0,extra_trees
+SYN-0081819,2026-04,Condo Apt,Lindendale,361700.0,534355.0,extra_trees
+SYN-0095590,2026-04,Detached,Ashpark,1056100.0,1351508.0,extra_trees
+SYN-0066321,2026-04,Freehold Townhouse,Rowanbrook,1214000.0,1267505.0,extra_trees
+SYN-0101581,2026-04,Semi-Detached,Walnuthollow,918900.0,1173537.0,extra_trees
+SYN-0156756,2026-04,Freehold Townhouse,Elmview,1953600.0,1678340.0,extra_trees
+SYN-0015398,2026-04,Condo Townhouse,Tamarackbourne,870200.0,886101.0,extra_trees
+SYN-0149925,2026-04,Detached,Walnutpark,691100.0,1005790.0,extra_trees
+SYN-0120761,2026-04,Detached,Junipergardens,1932100.0,1522408.0,extra_trees
+SYN-0049582,2026-04,Detached,Lindenmills,2763500.0,2396086.0,extra_trees
+SYN-0106175,2026-04,Condo Apt,Rowangrove,634800.0,606427.0,extra_trees
+SYN-0001653,2026-04,Detached,Willowpark,6086100.0,7400897.0,extra_trees
+SYN-0052949,2026-04,Freehold Townhouse,Sumacvale,1020200.0,1142544.0,extra_trees
+SYN-0148318,2026-04,Semi-Detached,Pinevale,986100.0,1035388.0,extra_trees
+SYN-0077713,2026-04,Detached,Mulberryhollow,1833700.0,1496084.0,extra_trees
+SYN-0101081,2026-04,Condo Apt,Cedarview,520400.0,505719.0,extra_trees
+SYN-0126675,2026-04,Condo Apt,Magnoliavale,617900.0,692928.0,extra_trees
+SYN-0039028,2026-04,Condo Townhouse,Sprucehaven,889900.0,977833.0,extra_trees
+SYN-0141473,2026-04,Condo Apt,Ashworth,1381400.0,1161642.0,extra_trees
+SYN-0026715,2026-04,Semi-Detached,Willowglen,893400.0,981810.0,extra_trees
+SYN-0088574,2026-04,Condo Apt,Elmview,825900.0,945311.0,extra_trees
+SYN-0074094,2026-04,Detached,Beechbourne,1116000.0,1196897.0,extra_trees
+SYN-0113163,2026-04,Condo Apt,Cypressglen,474200.0,633656.0,extra_trees
+SYN-0028495,2026-04,Detached,Lindenvale,1014400.0,1088180.0,extra_trees
+SYN-0009506,2026-04,Freehold Townhouse,Dogwoodcliffe,834200.0,1111069.0,extra_trees
+SYN-0010255,2026-04,Detached,Beechglen,3951000.0,2080739.0,extra_trees
+SYN-0057971,2026-04,Detached,Elmmills,1296900.0,1820773.0,extra_trees
+SYN-0088449,2026-04,Condo Apt,Junipergardens,485400.0,598721.0,extra_trees
+SYN-0049758,2026-04,Condo Apt,Birchhollow,738300.0,751176.0,extra_trees
+SYN-0103770,2026-04,Condo Apt,Cypressbrook,473900.0,391830.0,extra_trees
+SYN-0010111,2026-04,Condo Apt,Hickoryglen,354000.0,404198.0,extra_trees
+SYN-0034706,2026-04,Condo Apt,Tamarackmills,447800.0,558606.0,extra_trees
+SYN-0060633,2026-04,Condo Apt,Cedarheights,565400.0,600228.0,extra_trees
+SYN-0132273,2026-04,Condo Apt,Hickorybourne,712400.0,591983.0,extra_trees
+SYN-0034757,2026-04,Detached,Hawthorncliffe,1805500.0,1574017.0,extra_trees
+SYN-0054810,2026-04,Semi-Detached,Juniperheights,2104300.0,1644047.0,extra_trees
+SYN-0126914,2026-04,Semi-Detached,Mulberryhaven,962000.0,979042.0,extra_trees
+SYN-0034193,2026-04,Detached,Mulberrydale,1126500.0,1226138.0,extra_trees
+SYN-0121251,2026-04,Detached,Sumacfield,2201200.0,2012832.0,extra_trees
+SYN-0056591,2026-04,Condo Apt,Oakbourne,565900.0,544942.0,extra_trees
+SYN-0097126,2026-04,Condo Apt,Walnutfield,771300.0,809514.0,extra_trees
+SYN-0092922,2026-04,Detached,Cypressheights,942200.0,1019905.0,extra_trees
+SYN-0141206,2026-04,Condo Apt,Elmview,844000.0,1412963.0,extra_trees
+SYN-0097245,2026-04,Detached,Hemlockvale,1474500.0,1554836.0,extra_trees
+SYN-0151721,2026-04,Condo Apt,Sequoiahollow,566900.0,542630.0,extra_trees
+SYN-0129794,2026-04,Freehold Townhouse,Sumacfield,773700.0,1175434.0,extra_trees
+SYN-0010512,2026-04,Condo Apt,Walnutfield,540900.0,505609.0,extra_trees
+SYN-0151267,2026-04,Condo Apt,Hickoryhaven,519300.0,753182.0,extra_trees
+SYN-0122521,2026-04,Detached,Cedarwood,2308800.0,1634303.0,extra_trees
+SYN-0040520,2026-04,Semi-Detached,Rowanbank,953800.0,1080416.0,extra_trees
+SYN-0132395,2026-04,Condo Townhouse,Mulberryvale,920900.0,1052833.0,extra_trees
+SYN-0075753,2026-04,Condo Apt,Sumacwood,511600.0,537694.0,extra_trees
+SYN-0006322,2026-04,Condo Apt,Lindenglen,679300.0,556073.0,extra_trees
+SYN-0072239,2026-04,Condo Apt,Magnoliavale,446200.0,476744.0,extra_trees
+SYN-0123861,2026-04,Condo Apt,Cedarview,520700.0,469151.0,extra_trees
+SYN-0109933,2026-04,Condo Apt,Cedarglen,722900.0,789675.0,extra_trees
+SYN-0061764,2026-04,Condo Apt,Hazelmills,400700.0,444668.0,extra_trees
+SYN-0022114,2026-04,Condo Apt,Rowangrove,995600.0,1022333.0,extra_trees
+SYN-0032762,2026-04,Condo Apt,Sprucehaven,482100.0,538127.0,extra_trees
+SYN-0047418,2026-04,Condo Apt,Spruceview,738100.0,793439.0,extra_trees
+SYN-0134029,2026-04,Condo Apt,Cedarview,380000.0,416075.0,extra_trees
+SYN-0090772,2026-04,Detached,Hickoryglen,835600.0,1258099.0,extra_trees
+SYN-0142710,2026-04,Detached,Mapleview,1024900.0,1302987.0,extra_trees
+SYN-0137139,2026-04,Detached,Maplebrook,2423500.0,2257442.0,extra_trees
+SYN-0032764,2026-04,Condo Townhouse,Hickorybourne,721600.0,720225.0,extra_trees
+SYN-0066002,2026-04,Condo Apt,Cedargrove,688700.0,612022.0,extra_trees
+SYN-0009982,2026-04,Condo Apt,Aspenworth,417200.0,403462.0,extra_trees
+SYN-0119083,2026-04,Freehold Townhouse,Willowglen,1017300.0,1122488.0,extra_trees
+SYN-0072039,2026-04,Condo Apt,Dogwoodbrook,522500.0,462186.0,extra_trees
+SYN-0114826,2026-04,Condo Apt,Cedarview,446100.0,472687.0,extra_trees
+SYN-0073615,2026-04,Condo Apt,Sumacwood,383800.0,351680.0,extra_trees
+SYN-0084567,2026-04,Condo Townhouse,Magnoliavale,724300.0,689606.0,extra_trees
+SYN-0077922,2026-04,Detached,Sycamoreglen,1837700.0,1350620.0,extra_trees
+SYN-0137226,2026-04,Condo Apt,Hickoryglen,729100.0,768167.0,extra_trees
+SYN-0091722,2026-04,Condo Townhouse,Cypressglen,407300.0,512931.0,extra_trees
+SYN-0079445,2026-04,Condo Apt,Hawthornbourne,3883700.0,2058827.0,extra_trees
+SYN-0078418,2026-04,Detached,Cypressheights,1119600.0,1463890.0,extra_trees
+SYN-0132676,2026-04,Semi-Detached,Hazelfield,2605500.0,2863654.0,extra_trees
+SYN-0028912,2026-04,Condo Apt,Sumacwood,440300.0,469699.0,extra_trees
+SYN-0022086,2026-04,Freehold Townhouse,Willowglen,970100.0,1034144.0,extra_trees
+SYN-0134297,2026-04,Condo Apt,Sprucehaven,607900.0,581676.0,extra_trees
+SYN-0090357,2026-04,Condo Apt,Ashhollow,403600.0,501837.0,extra_trees
+SYN-0006862,2026-04,Condo Townhouse,Cedarview,638700.0,698937.0,extra_trees
+SYN-0155509,2026-04,Condo Apt,Hickorybourne,788700.0,791067.0,extra_trees
+SYN-0144681,2026-04,Condo Apt,Elmhaven,956700.0,937395.0,extra_trees
+SYN-0150996,2026-04,Condo Apt,Birchgrove,540300.0,556406.0,extra_trees
+SYN-0102240,2026-04,Condo Apt,Balsamwood,1233600.0,1263974.0,extra_trees
+SYN-0098763,2026-04,Condo Apt,Elmview,426800.0,617557.0,extra_trees
+SYN-0012374,2026-04,Detached,Poplarview,1970400.0,1421124.0,extra_trees
+SYN-0022394,2026-04,Condo Apt,Poplarcrest,600800.0,640553.0,extra_trees
+SYN-0040593,2026-04,Condo Townhouse,Cedargrove,612700.0,677460.0,extra_trees
+SYN-0089653,2026-04,Detached,Sequoiafield,1319000.0,1446233.0,extra_trees
+SYN-0128104,2026-04,Detached,Chestnutgrove,760300.0,1229543.0,extra_trees
+SYN-0043024,2026-04,Condo Apt,Magnoliacrest,526200.0,540570.0,extra_trees
+SYN-0085183,2026-04,Condo Apt,Sycamoreglen,598400.0,598239.0,extra_trees
+SYN-0072633,2026-04,Condo Townhouse,Elmview,937900.0,1643569.0,extra_trees
+SYN-0126034,2026-04,Condo Apt,Chestnutview,386600.0,491761.0,extra_trees
+SYN-0106984,2026-04,Semi-Detached,Hemlockvale,1077800.0,1429232.0,extra_trees
+SYN-0030555,2026-04,Detached,Walnuthollow,1301300.0,1450944.0,extra_trees
+SYN-0014339,2026-04,Condo Apt,Rowangrove,701100.0,693369.0,extra_trees
+SYN-0149602,2026-04,Detached,Mulberryhollow,1597700.0,1494209.0,extra_trees
+SYN-0034260,2026-04,Detached,Hawthorncliffe,839700.0,966955.0,extra_trees
+SYN-0042735,2026-04,Condo Apt,Hawthornbourne,1436000.0,1300739.0,extra_trees
+SYN-0005046,2026-04,Condo Apt,Magnoliacrest,812900.0,562282.0,extra_trees
+SYN-0006277,2026-04,Condo Apt,Chestnutview,409500.0,551408.0,extra_trees
+SYN-0085148,2026-04,Detached,Sumaccrest,1135400.0,1009808.0,extra_trees
+SYN-0092104,2026-04,Condo Townhouse,Elmbrook,736300.0,786025.0,extra_trees
+SYN-0044469,2026-04,Condo Townhouse,Cedarbank,701700.0,746450.0,extra_trees
+SYN-0086761,2026-04,Condo Apt,Ashhollow,524500.0,752004.0,extra_trees
+SYN-0081007,2026-04,Condo Apt,Beechbourne,586400.0,555087.0,extra_trees
+SYN-0060389,2026-04,Condo Apt,Beechbourne,595500.0,806677.0,extra_trees
+SYN-0116009,2026-04,Condo Apt,Willowview,499400.0,632489.0,extra_trees
+SYN-0017385,2026-04,Detached,Willowglen,1038300.0,1128547.0,extra_trees
+SYN-0154377,2026-04,Condo Townhouse,Cypressdale,1010500.0,1204269.0,extra_trees
+SYN-0021774,2026-04,Co-Op Apt,Elmview,1328200.0,1561142.0,extra_trees
+SYN-0129247,2026-04,Semi-Detached,Maplegrove,1357800.0,1227242.0,extra_trees
+SYN-0083288,2026-04,Condo Townhouse,Aspenworth,701100.0,680045.0,extra_trees
+SYN-0132945,2026-04,Detached,Pineridge,1174100.0,1906785.0,extra_trees
+SYN-0031881,2026-04,Condo Apt,Chestnutbank,545100.0,568102.0,extra_trees
+SYN-0022302,2026-04,Detached,Hazelbourne,1509400.0,1547958.0,extra_trees
+SYN-0147748,2026-04,Condo Apt,Walnuthollow,443700.0,644705.0,extra_trees
+SYN-0122070,2026-04,Detached,Lindenvale,960400.0,1296041.0,extra_trees
+SYN-0154597,2026-04,Condo Apt,Larchview,727900.0,818420.0,extra_trees
+SYN-0024053,2026-04,Detached,Juniperpark,774400.0,949711.0,extra_trees
+SYN-0149114,2026-04,Condo Apt,Elmview,676300.0,618943.0,extra_trees
+SYN-0067599,2026-04,Condo Apt,Rowanbrook,540700.0,564401.0,extra_trees
+SYN-0104704,2026-04,Condo Apt,Mulberryhollow,424000.0,452800.0,extra_trees
+SYN-0076318,2026-04,Condo Apt,Mulberryhaven,704800.0,530148.0,extra_trees
+SYN-0157826,2026-04,Condo Apt,Rowanbrook,582100.0,639284.0,extra_trees
+SYN-0021826,2026-04,Semi-Detached,Hazelfield,2531400.0,2819535.0,extra_trees
+SYN-0036998,2026-04,Condo Apt,Maplebrook,387500.0,575612.0,extra_trees
+SYN-0025268,2026-04,Condo Apt,Hickorybourne,688100.0,525659.0,extra_trees
+SYN-0118284,2026-04,Detached,Birchgrove,1668300.0,1477611.0,extra_trees
+SYN-0127664,2026-04,Detached,Sequoiaview,1287000.0,1242955.0,extra_trees
+SYN-0018690,2026-04,Condo Apt,Sequoiaview,335100.0,502250.0,extra_trees
+SYN-0117405,2026-04,Condo Apt,Cypressbrook,768700.0,624583.0,extra_trees
+SYN-0058893,2026-04,Detached,Sumacfield,1357600.0,1551606.0,extra_trees
+SYN-0133284,2026-04,Condo Apt,Willowpark,1181300.0,1018021.0,extra_trees
+SYN-0027543,2026-04,Condo Apt,Elmmills,625200.0,536100.0,extra_trees
+SYN-0032532,2026-04,Detached,Beechbourne,939200.0,975056.0,extra_trees
+SYN-0015127,2026-04,Freehold Townhouse,Hawthorncliffe,909400.0,1183168.0,extra_trees
+SYN-0006874,2026-04,Freehold Townhouse,Maplevale,1017600.0,1793468.0,extra_trees
+SYN-0024978,2026-04,Condo Apt,Cedarheights,795600.0,680001.0,extra_trees
+SYN-0017348,2026-04,Condo Apt,Cypressdale,769200.0,891483.0,extra_trees
+SYN-0012454,2026-04,Detached,Sycamoreglen,2212400.0,1457304.0,extra_trees
+SYN-0103221,2026-04,Condo Apt,Cedarview,486500.0,604245.0,extra_trees
+SYN-0026096,2026-04,Condo Apt,Ashbank,478300.0,573433.0,extra_trees
+SYN-0009363,2026-04,Detached,Hemlockvale,1824100.0,1869496.0,extra_trees
+SYN-0016575,2026-04,Condo Apt,Willowglen,449900.0,442712.0,extra_trees
+SYN-0050647,2026-04,Detached,Lindendale,3701200.0,3396530.0,extra_trees
+SYN-0021805,2026-04,Freehold Townhouse,Birchheights,865400.0,892597.0,extra_trees
+SYN-0059280,2026-04,Semi-Detached,Cypressbrook,1087900.0,1159675.0,extra_trees
+SYN-0028554,2026-04,Condo Apt,Elmview,2299100.0,1478249.0,extra_trees
+SYN-0073780,2026-04,Condo Apt,Lindenglen,797600.0,778858.0,extra_trees
+SYN-0154208,2026-04,Semi-Detached,Ashworth,1523600.0,1247774.0,extra_trees
+SYN-0101080,2026-04,Detached,Cypressdale,2754300.0,2918618.0,extra_trees
+SYN-0060984,2026-04,Condo Townhouse,Ashworth,1025200.0,1340321.0,extra_trees
+SYN-0001362,2026-04,Condo Apt,Elmview,702600.0,1059502.0,extra_trees
+SYN-0138104,2026-04,Condo Apt,Poplarview,758600.0,753182.0,extra_trees
+SYN-0011929,2026-04,Detached,Maplevale,2626200.0,2403766.0,extra_trees
+SYN-0147313,2026-04,Semi-Detached,Walnuthollow,1228400.0,1258311.0,extra_trees
+SYN-0084818,2026-04,Condo Apt,Cedargrove,569200.0,573374.0,extra_trees
+SYN-0145741,2026-04,Condo Apt,Ashhollow,719500.0,808785.0,extra_trees
+SYN-0022064,2026-04,Condo Apt,Chestnutbank,436200.0,495127.0,extra_trees
+SYN-0120637,2026-04,Detached,Junipergardens,1949600.0,2179221.0,extra_trees
+SYN-0069078,2026-04,Condo Apt,Hickorybourne,683000.0,508178.0,extra_trees
+SYN-0023883,2026-04,Detached,Sequoiafield,874400.0,957900.0,extra_trees
+SYN-0032102,2026-04,Detached,Sumacfield,888400.0,1098946.0,extra_trees
+SYN-0123934,2026-04,Condo Apt,Hickorybourne,516900.0,470205.0,extra_trees
+SYN-0123729,2026-04,Semi-Detached,Cypressbrook,1294500.0,1344264.0,extra_trees
+SYN-0065167,2026-04,Semi-Detached,Juniperheights,1567400.0,1703345.0,extra_trees
+SYN-0044280,2026-04,Semi-Detached,Chestnutvale,1444900.0,1439561.0,extra_trees
+SYN-0062551,2026-04,Condo Apt,Beechglen,699000.0,757116.0,extra_trees
+SYN-0145612,2026-04,Condo Apt,Cedarwood,788200.0,716831.0,extra_trees
+SYN-0130382,2026-04,Detached,Hemlockvale,1385700.0,1559603.0,extra_trees
+SYN-0058674,2026-04,Detached,Dogwoodhaven,1098800.0,1202947.0,extra_trees
+SYN-0146306,2026-04,Condo Townhouse,Sumacwood,413900.0,640787.0,extra_trees
+SYN-0140492,2026-04,Semi-Detached,Juniperpark,760400.0,770709.0,extra_trees
+SYN-0114035,2026-04,Freehold Townhouse,Pineridge,987900.0,1000921.0,extra_trees
+SYN-0004884,2026-04,Condo Apt,Magnoliaworth,767000.0,665022.0,extra_trees
+SYN-0091512,2026-04,Detached,Lindenridge,2233400.0,1711222.0,extra_trees
+SYN-0114536,2026-04,Condo Apt,Cedarview,369500.0,362375.0,extra_trees
+SYN-0043636,2026-04,Condo Townhouse,Poplarview,613800.0,851732.0,extra_trees
+SYN-0085807,2026-04,Condo Apt,Rowangardens,418000.0,473607.0,extra_trees
+SYN-0104679,2026-04,Semi-Detached,Rowangardens,942700.0,1042684.0,extra_trees
+SYN-0043184,2026-04,Semi-Detached,Poplarview,1192900.0,1297909.0,extra_trees
+SYN-0046212,2026-04,Condo Apt,Elmview,903100.0,1216633.0,extra_trees
+SYN-0129577,2026-04,Condo Apt,Poplarcrest,794300.0,934119.0,extra_trees
+SYN-0028584,2026-04,Detached,Balsamcrest,1222800.0,1393900.0,extra_trees

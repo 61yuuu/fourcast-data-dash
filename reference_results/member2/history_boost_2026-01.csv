@@ -1,0 +1,1059 @@
+ml_num,month,house_type_name,community,sold_price,predicted_price,model
+SYN-0137219,2026-01,Condo Apt,Walnutfield,583000.0,635363.0,history_boost
+SYN-0039801,2026-01,Condo Apt,Ashworth,485900.0,522518.0,history_boost
+SYN-0134843,2026-01,Detached,Sprucehollow,928600.0,827323.0,history_boost
+SYN-0112068,2026-01,Condo Apt,Cypressdale,603700.0,744402.0,history_boost
+SYN-0150839,2026-01,Detached,Balsamcrest,779100.0,874325.0,history_boost
+SYN-0147628,2026-01,Condo Apt,Hickoryhaven,504000.0,568511.0,history_boost
+SYN-0023917,2026-01,Detached,Lindenglen,3130500.0,2769614.0,history_boost
+SYN-0002142,2026-01,Condo Apt,Cedarglen,390500.0,462194.0,history_boost
+SYN-0139414,2026-01,Semi-Detached,Willowglen,849100.0,802298.0,history_boost
+SYN-0131912,2026-01,Freehold Townhouse,Rowanbank,1078900.0,1041176.0,history_boost
+SYN-0025627,2026-01,Condo Townhouse,Ashworth,929900.0,941618.0,history_boost
+SYN-0132358,2026-01,Detached,Walnutfield,3036400.0,2657073.0,history_boost
+SYN-0111185,2026-01,Condo Apt,Oakbourne,479900.0,517860.0,history_boost
+SYN-0098188,2026-01,Condo Apt,Cypresspark,512500.0,502536.0,history_boost
+SYN-0135105,2026-01,Condo Apt,Poplarcrest,839700.0,718180.0,history_boost
+SYN-0114751,2026-01,Condo Apt,Rowanbrook,638000.0,686893.0,history_boost
+SYN-0142466,2026-01,Condo Apt,Birchgrove,431900.0,494308.0,history_boost
+SYN-0107861,2026-01,Condo Apt,Sumacbank,573900.0,783275.0,history_boost
+SYN-0062570,2026-01,Condo Townhouse,Elmmills,703000.0,607243.0,history_boost
+SYN-0034435,2026-01,Condo Apt,Dogwoodmills,328500.0,357728.0,history_boost
+SYN-0110462,2026-01,Condo Apt,Hemlockhollow,542900.0,534482.0,history_boost
+SYN-0063621,2026-01,Condo Apt,Elmview,905500.0,1034176.0,history_boost
+SYN-0008273,2026-01,Detached,Lindenglen,6877600.0,6241078.0,history_boost
+SYN-0155587,2026-01,Condo Townhouse,Cedarheights,841800.0,903317.0,history_boost
+SYN-0144861,2026-01,Detached,Pinevale,1002600.0,1027148.0,history_boost
+SYN-0126002,2026-01,Condo Apt,Sumacwood,249900.0,306846.0,history_boost
+SYN-0035495,2026-01,Condo Apt,Rowanbrook,509800.0,586965.0,history_boost
+SYN-0094860,2026-01,Condo Apt,Cedarwood,683200.0,722924.0,history_boost
+SYN-0155605,2026-01,Condo Apt,Lindencrest,606100.0,577862.0,history_boost
+SYN-0129541,2026-01,Condo Apt,Sumacwood,428800.0,415034.0,history_boost
+SYN-0092314,2026-01,Detached,Chestnutbourne,844000.0,799097.0,history_boost
+SYN-0107697,2026-01,Condo Apt,Alderworth,633100.0,509311.0,history_boost
+SYN-0132311,2026-01,Condo Apt,Aspenworth,549500.0,513540.0,history_boost
+SYN-0009424,2026-01,Condo Townhouse,Hickoryglen,634300.0,717767.0,history_boost
+SYN-0143329,2026-01,Condo Apt,Cedarheights,631100.0,581399.0,history_boost
+SYN-0018581,2026-01,Condo Apt,Sequoiaview,556900.0,508019.0,history_boost
+SYN-0015918,2026-01,Condo Apt,Cedargardens,597100.0,530877.0,history_boost
+SYN-0125046,2026-01,Detached,Chestnutbank,1083700.0,1124831.0,history_boost
+SYN-0025223,2026-01,Condo Apt,Chestnutbrook,425200.0,482541.0,history_boost
+SYN-0140660,2026-01,Freehold Townhouse,Hemlockvale,1267400.0,1231768.0,history_boost
+SYN-0034925,2026-01,Condo Apt,Junipergardens,427300.0,493196.0,history_boost
+SYN-0091793,2026-01,Condo Apt,Spruceview,922300.0,672730.0,history_boost
+SYN-0119226,2026-01,Condo Apt,Hickoryhaven,548300.0,424131.0,history_boost
+SYN-0018838,2026-01,Semi-Detached,Sprucehaven,901100.0,947096.0,history_boost
+SYN-0141240,2026-01,Condo Apt,Walnutfield,420300.0,447341.0,history_boost
+SYN-0020447,2026-01,Condo Apt,Mulberryvale,743000.0,670389.0,history_boost
+SYN-0070165,2026-01,Detached,Sumacdale,1400000.0,1165068.0,history_boost
+SYN-0034711,2026-01,Detached,Cedarbank,913300.0,802694.0,history_boost
+SYN-0002868,2026-01,Condo Apt,Hickorybourne,485300.0,558497.0,history_boost
+SYN-0092215,2026-01,Condo Apt,Beechbourne,512200.0,542804.0,history_boost
+SYN-0029864,2026-01,Condo Apt,Oakhaven,461400.0,437935.0,history_boost
+SYN-0099290,2026-01,Condo Apt,Walnutfield,484700.0,501215.0,history_boost
+SYN-0078176,2026-01,Freehold Townhouse,Juniperheights,2269300.0,1904502.0,history_boost
+SYN-0046037,2026-01,Condo Apt,Chestnutmills,526400.0,577848.0,history_boost
+SYN-0085246,2026-01,Detached,Cedarbank,1098200.0,1170979.0,history_boost
+SYN-0033298,2026-01,Detached,Pineridge,749200.0,725169.0,history_boost
+SYN-0134635,2026-01,Detached,Cedarbank,1390200.0,1190542.0,history_boost
+SYN-0098517,2026-01,Freehold Townhouse,Rowanbank,815700.0,1114811.0,history_boost
+SYN-0026083,2026-01,Detached,Elmbourne,861200.0,800303.0,history_boost
+SYN-0131003,2026-01,Condo Apt,Willowglen,701700.0,552285.0,history_boost
+SYN-0152851,2026-01,Detached,Junipergardens,2009400.0,2337876.0,history_boost
+SYN-0057268,2026-01,Condo Apt,Rowanbrook,853200.0,821343.0,history_boost
+SYN-0112095,2026-01,Condo Apt,Cedarview,412900.0,390300.0,history_boost
+SYN-0079599,2026-01,Condo Apt,Tamarackmills,583600.0,593793.0,history_boost
+SYN-0058506,2026-01,Semi-Detached,Beechglen,2335600.0,1528861.0,history_boost
+SYN-0016416,2026-01,Detached,Lindencrest,1294400.0,1105159.0,history_boost
+SYN-0016260,2026-01,Condo Apt,Sumacwood,395000.0,441759.0,history_boost
+SYN-0055485,2026-01,Condo Apt,Hickoryhaven,671100.0,742634.0,history_boost
+SYN-0065830,2026-01,Condo Apt,Hickorybourne,310500.0,449038.0,history_boost
+SYN-0088806,2026-01,Condo Townhouse,Willowpark,897800.0,1005379.0,history_boost
+SYN-0015878,2026-01,Condo Apt,Cedarwood,559600.0,499738.0,history_boost
+SYN-0053524,2026-01,Condo Apt,Beechbourne,529700.0,562224.0,history_boost
+SYN-0112247,2026-01,Detached,Maplevale,1821800.0,1855449.0,history_boost
+SYN-0091643,2026-01,Condo Apt,Rowangardens,603500.0,628728.0,history_boost
+SYN-0123856,2026-01,Condo Apt,Magnoliaworth,668500.0,534605.0,history_boost
+SYN-0083958,2026-01,Detached,Hawthorncliffe,938000.0,850633.0,history_boost
+SYN-0070638,2026-01,Detached,Elmbank,1175200.0,797267.0,history_boost
+SYN-0023587,2026-01,Condo Apt,Balsamgrove,993800.0,833055.0,history_boost
+SYN-0132436,2026-01,Condo Apt,Mulberryhaven,651800.0,622216.0,history_boost
+SYN-0023224,2026-01,Detached,Magnoliavale,993800.0,1263152.0,history_boost
+SYN-0128097,2026-01,Condo Apt,Hickoryhaven,648200.0,660283.0,history_boost
+SYN-0149676,2026-01,Condo Apt,Beechbourne,1043300.0,847156.0,history_boost
+SYN-0138910,2026-01,Condo Apt,Lindendale,594100.0,595788.0,history_boost
+SYN-0071337,2026-01,Detached,Chestnutglen,698000.0,702905.0,history_boost
+SYN-0018362,2026-01,Condo Apt,Hickoryhaven,630100.0,636897.0,history_boost
+SYN-0146913,2026-01,Condo Apt,Maplebourne,619300.0,688823.0,history_boost
+SYN-0077736,2026-01,Condo Apt,Cypresspark,631300.0,743255.0,history_boost
+SYN-0084667,2026-01,Condo Apt,Elmview,1475200.0,1204824.0,history_boost
+SYN-0089339,2026-01,Condo Apt,Chestnutbourne,822900.0,902026.0,history_boost
+SYN-0056196,2026-01,Semi-Detached,Juniperpark,679800.0,724526.0,history_boost
+SYN-0086876,2026-01,Condo Apt,Elmview,614000.0,766102.0,history_boost
+SYN-0076624,2026-01,Condo Apt,Lindenglen,1035900.0,825787.0,history_boost
+SYN-0148418,2026-01,Condo Apt,Rowanbrook,816400.0,617812.0,history_boost
+SYN-0084208,2026-01,Detached,Rowanbrook,2544200.0,2414320.0,history_boost
+SYN-0063540,2026-01,Freehold Townhouse,Hemlockhollow,1018500.0,971680.0,history_boost
+SYN-0054888,2026-01,Detached,Sumacglen,832100.0,1202239.0,history_boost
+SYN-0002929,2026-01,Co-Op Apt,Sumacpark,396000.0,456057.0,history_boost
+SYN-0072988,2026-01,Condo Apt,Maplebank,591100.0,594219.0,history_boost
+SYN-0149493,2026-01,Detached,Rowanbank,1020200.0,1061767.0,history_boost
+SYN-0053128,2026-01,Condo Apt,Birchgrove,528200.0,558072.0,history_boost
+SYN-0010449,2026-01,Condo Apt,Cypresspark,510300.0,708640.0,history_boost
+SYN-0129301,2026-01,Condo Apt,Ashhollow,518000.0,603122.0,history_boost
+SYN-0061345,2026-01,Condo Townhouse,Cedarview,505900.0,583407.0,history_boost
+SYN-0036924,2026-01,Semi-Detached,Willowglen,923000.0,945079.0,history_boost
+SYN-0061279,2026-01,Semi-Detached,Pineridge,819200.0,808028.0,history_boost
+SYN-0028132,2026-01,Condo Apt,Dogwoodmills,533600.0,637581.0,history_boost
+SYN-0110109,2026-01,Condo Apt,Magnoliaview,288100.0,325292.0,history_boost
+SYN-0124048,2026-01,Condo Apt,Larchbank,425000.0,436778.0,history_boost
+SYN-0147012,2026-01,Detached,Poplarview,1329900.0,1526284.0,history_boost
+SYN-0064088,2026-01,Condo Apt,Birchheights,1042500.0,832837.0,history_boost
+SYN-0095592,2026-01,Condo Apt,Rowangardens,624900.0,550247.0,history_boost
+SYN-0131730,2026-01,Condo Apt,Cedarview,1226400.0,662473.0,history_boost
+SYN-0106463,2026-01,Detached,Lindendale,4569200.0,5178223.0,history_boost
+SYN-0056264,2026-01,Detached,Juniperheights,2359400.0,2002425.0,history_boost
+SYN-0013994,2026-01,Condo Apt,Larchview,918400.0,916837.0,history_boost
+SYN-0088261,2026-01,Condo Apt,Beechbourne,834000.0,647787.0,history_boost
+SYN-0045364,2026-01,Detached,Maplemills,2459500.0,3014653.0,history_boost
+SYN-0068902,2026-01,Condo Apt,Cedargardens,474300.0,424789.0,history_boost
+SYN-0109805,2026-01,Condo Townhouse,Chestnutbourne,683600.0,663419.0,history_boost
+SYN-0040938,2026-01,Condo Apt,Cedarglen,1040200.0,777595.0,history_boost
+SYN-0102420,2026-01,Condo Apt,Rowanbrook,839900.0,660829.0,history_boost
+SYN-0131957,2026-01,Condo Apt,Sumacwood,563700.0,531782.0,history_boost
+SYN-0074201,2026-01,Condo Townhouse,Hickoryridge,596900.0,630583.0,history_boost
+SYN-0057397,2026-01,Condo Apt,Pineridge,546700.0,561970.0,history_boost
+SYN-0022288,2026-01,Condo Apt,Magnoliacrest,343800.0,458337.0,history_boost
+SYN-0108707,2026-01,Condo Apt,Chestnutbourne,446500.0,498806.0,history_boost
+SYN-0029512,2026-01,Semi-Detached,Willowglen,911700.0,820979.0,history_boost
+SYN-0068124,2026-01,Condo Apt,Chestnutridge,539800.0,540273.0,history_boost
+SYN-0076987,2026-01,Condo Apt,Spruceview,657000.0,560424.0,history_boost
+SYN-0025799,2026-01,Condo Apt,Juniperbrook,358500.0,417389.0,history_boost
+SYN-0001894,2026-01,Detached,Lindendale,2594900.0,2793999.0,history_boost
+SYN-0075741,2026-01,Semi-Detached,Maplegrove,1041800.0,1093429.0,history_boost
+SYN-0134661,2026-01,Condo Apt,Chestnutbrook,342600.0,357127.0,history_boost
+SYN-0024490,2026-01,Semi-Detached,Mulberryhaven,1220900.0,935072.0,history_boost
+SYN-0131902,2026-01,Freehold Townhouse,Chestnutglen,644700.0,845602.0,history_boost
+SYN-0054314,2026-01,Condo Apt,Beechbourne,515600.0,526364.0,history_boost
+SYN-0024850,2026-01,Condo Apt,Sumacwood,421000.0,401077.0,history_boost
+SYN-0080210,2026-01,Condo Apt,Ashworth,437900.0,557649.0,history_boost
+SYN-0080436,2026-01,Condo Apt,Chestnutview,508800.0,574206.0,history_boost
+SYN-0010011,2026-01,Condo Apt,Poplarview,590600.0,526286.0,history_boost
+SYN-0080792,2026-01,Condo Apt,Rowangardens,1071900.0,735393.0,history_boost
+SYN-0019662,2026-01,Detached,Lindenvale,737600.0,743786.0,history_boost
+SYN-0131367,2026-01,Detached,Sumacdale,984700.0,1234273.0,history_boost
+SYN-0005898,2026-01,Detached,Oakcrest,1627600.0,1646597.0,history_boost
+SYN-0144207,2026-01,Condo Apt,Tamarackmills,382800.0,495448.0,history_boost
+SYN-0133374,2026-01,Condo Apt,Lindenridge,853000.0,774145.0,history_boost
+SYN-0092890,2026-01,Condo Apt,Hickorymills,486400.0,513367.0,history_boost
+SYN-0080464,2026-01,Detached,Tamarackbourne,1403500.0,1316770.0,history_boost
+SYN-0099937,2026-01,Condo Apt,Walnutpark,438700.0,485197.0,history_boost
+SYN-0143542,2026-01,Condo Apt,Hemlockvale,797500.0,741530.0,history_boost
+SYN-0156173,2026-01,Condo Apt,Aspenworth,581100.0,536694.0,history_boost
+SYN-0138442,2026-01,Condo Apt,Birchbrook,638600.0,632676.0,history_boost
+SYN-0093564,2026-01,Condo Apt,Aspenworth,582500.0,581231.0,history_boost
+SYN-0100611,2026-01,Semi-Detached,Oakcrest,1086100.0,883725.0,history_boost
+SYN-0127164,2026-01,Condo Apt,Cypressbrook,673700.0,648609.0,history_boost
+SYN-0138726,2026-01,Detached,Cedarwood,1255600.0,1317314.0,history_boost
+SYN-0141610,2026-01,Condo Townhouse,Chestnutgrove,642400.0,706769.0,history_boost
+SYN-0096472,2026-01,Semi-Detached,Spruceview,1225500.0,1079577.0,history_boost
+SYN-0016705,2026-01,Condo Apt,Chestnutgrove,480200.0,441068.0,history_boost
+SYN-0073538,2026-01,Condo Apt,Ashworth,967300.0,870014.0,history_boost
+SYN-0007826,2026-01,Condo Apt,Spruceview,846100.0,679169.0,history_boost
+SYN-0142526,2026-01,Semi-Detached,Chestnutview,770800.0,778106.0,history_boost
+SYN-0087208,2026-01,Condo Townhouse,Ashworth,1234000.0,1449703.0,history_boost
+SYN-0037872,2026-01,Detached,Chestnutglen,923300.0,1265101.0,history_boost
+SYN-0030530,2026-01,Condo Apt,Lindenridge,453700.0,778480.0,history_boost
+SYN-0017434,2026-01,Condo Apt,Hickorymills,564200.0,661301.0,history_boost
+SYN-0146644,2026-01,Semi-Detached,Maplegrove,1248000.0,1182349.0,history_boost
+SYN-0028993,2026-01,Freehold Townhouse,Rowanridge,1096100.0,1030014.0,history_boost
+SYN-0149198,2026-01,Condo Apt,Cedargrove,703200.0,639047.0,history_boost
+SYN-0116579,2026-01,Condo Apt,Oakbourne,458100.0,401338.0,history_boost
+SYN-0035792,2026-01,Condo Apt,Cedarview,439300.0,622385.0,history_boost
+SYN-0032935,2026-01,Detached,Sycamoreview,1039700.0,814522.0,history_boost
+SYN-0077778,2026-01,Condo Apt,Chestnutview,497000.0,512102.0,history_boost
+SYN-0120377,2026-01,Condo Townhouse,Birchgrove,848000.0,772213.0,history_boost
+SYN-0011215,2026-01,Condo Apt,Mulberryvale,596800.0,612035.0,history_boost
+SYN-0078681,2026-01,Condo Apt,Hickorybourne,534700.0,507888.0,history_boost
+SYN-0014158,2026-01,Condo Townhouse,Magnoliaview,484100.0,514429.0,history_boost
+SYN-0111556,2026-01,Condo Apt,Spruceview,521000.0,576128.0,history_boost
+SYN-0020364,2026-01,Detached,Cedarglen,1178100.0,1441967.0,history_boost
+SYN-0042361,2026-01,Condo Townhouse,Sumacpark,453600.0,490773.0,history_boost
+SYN-0111068,2026-01,Semi-Detached,Sycamoreglen,1238800.0,1666597.0,history_boost
+SYN-0007261,2026-01,Detached,Beechbourne,1842700.0,1503599.0,history_boost
+SYN-0062274,2026-01,Detached,Sycamoredale,2614500.0,1925489.0,history_boost
+SYN-0003154,2026-01,Condo Apt,Chestnutbank,355300.0,463455.0,history_boost
+SYN-0032144,2026-01,Condo Apt,Oakbourne,494800.0,493320.0,history_boost
+SYN-0008563,2026-01,Condo Apt,Ashworth,756800.0,1027117.0,history_boost
+SYN-0000940,2026-01,Condo Apt,Magnoliacrest,649200.0,483108.0,history_boost
+SYN-0007785,2026-01,Condo Apt,Sequoiaview,453000.0,456792.0,history_boost
+SYN-0086607,2026-01,Detached,Rowanhollow,7258400.0,6635899.0,history_boost
+SYN-0091991,2026-01,Detached,Balsamgrove,2074900.0,1834455.0,history_boost
+SYN-0081622,2026-01,Detached,Chestnutbourne,740500.0,789325.0,history_boost
+SYN-0112506,2026-01,Detached,Balsamcrest,814100.0,893019.0,history_boost
+SYN-0013911,2026-01,Condo Apt,Hawthornbourne,785000.0,830034.0,history_boost
+SYN-0058742,2026-01,Condo Apt,Maplebank,408500.0,533541.0,history_boost
+SYN-0091297,2026-01,Condo Apt,Sprucehaven,508500.0,488801.0,history_boost
+SYN-0030055,2026-01,Condo Apt,Ashworth,957800.0,965739.0,history_boost
+SYN-0086450,2026-01,Detached,Hemlockhollow,1010200.0,919868.0,history_boost
+SYN-0089577,2026-01,Semi-Detached,Junipergardens,1072900.0,918570.0,history_boost
+SYN-0138540,2026-01,Condo Apt,Elmgardens,658900.0,587486.0,history_boost
+SYN-0095568,2026-01,Condo Apt,Mulberryhaven,512600.0,518624.0,history_boost
+SYN-0100278,2026-01,Condo Apt,Aspenworth,362400.0,475145.0,history_boost
+SYN-0059875,2026-01,Freehold Townhouse,Birchheights,1276200.0,1224282.0,history_boost
+SYN-0060736,2026-01,Condo Apt,Lindenridge,536200.0,553820.0,history_boost
+SYN-0110440,2026-01,Detached,Maplevale,1453800.0,1280433.0,history_boost
+SYN-0107509,2026-01,Condo Apt,Hickoryglen,354600.0,436555.0,history_boost
+SYN-0088326,2026-01,Condo Apt,Sumacdale,537000.0,519286.0,history_boost
+SYN-0094092,2026-01,Condo Apt,Hickorybourne,712500.0,813842.0,history_boost
+SYN-0152111,2026-01,Condo Townhouse,Cedarview,895000.0,591263.0,history_boost
+SYN-0150024,2026-01,Condo Townhouse,Sequoiabourne,479100.0,539374.0,history_boost
+SYN-0005889,2026-01,Condo Apt,Hawthornbourne,972500.0,762678.0,history_boost
+SYN-0141340,2026-01,Detached,Hawthorncliffe,1042500.0,968988.0,history_boost
+SYN-0061343,2026-01,Condo Apt,Hickoryhaven,551100.0,561698.0,history_boost
+SYN-0119403,2026-01,Condo Apt,Aspenworth,454100.0,467024.0,history_boost
+SYN-0083535,2026-01,Freehold Townhouse,Elmcrest,1555200.0,1184914.0,history_boost
+SYN-0022330,2026-01,Detached,Magnoliaglen,1482100.0,1435400.0,history_boost
+SYN-0008952,2026-01,Detached,Sycamoreview,604800.0,609549.0,history_boost
+SYN-0039633,2026-01,Condo Apt,Walnutfield,696400.0,710672.0,history_boost
+SYN-0139419,2026-01,Detached,Mulberryhollow,724200.0,727236.0,history_boost
+SYN-0049150,2026-01,Detached,Magnoliaworth,1130500.0,1161441.0,history_boost
+SYN-0110400,2026-01,Detached,Hickoryridge,919800.0,1061868.0,history_boost
+SYN-0084072,2026-01,Co-Op Apt,Cedarglen,455100.0,480624.0,history_boost
+SYN-0026814,2026-01,Semi-Detached,Spruceview,1321700.0,1151786.0,history_boost
+SYN-0023999,2026-01,Condo Apt,Cypresspark,906000.0,860387.0,history_boost
+SYN-0127597,2026-01,Detached,Magnoliaglen,1892900.0,1545390.0,history_boost
+SYN-0128487,2026-01,Condo Apt,Chestnutbank,380600.0,363058.0,history_boost
+SYN-0111319,2026-01,Freehold Townhouse,Pineridge,901000.0,832923.0,history_boost
+SYN-0029623,2026-01,Semi-Detached,Juniperhaven,968300.0,996090.0,history_boost
+SYN-0025285,2026-01,Condo Apt,Cypressglen,638500.0,580232.0,history_boost
+SYN-0149795,2026-01,Detached,Dogwoodmills,776700.0,906349.0,history_boost
+SYN-0057569,2026-01,Condo Apt,Cypressbrook,708100.0,614495.0,history_boost
+SYN-0044467,2026-01,Condo Apt,Dogwoodbrook,387800.0,429603.0,history_boost
+SYN-0121583,2026-01,Condo Apt,Hickoryhaven,592900.0,548601.0,history_boost
+SYN-0134282,2026-01,Condo Apt,Elmbank,393000.0,437111.0,history_boost
+SYN-0077863,2026-01,Condo Apt,Elmbrook,625300.0,646738.0,history_boost
+SYN-0078909,2026-01,Detached,Oakhaven,1259400.0,968990.0,history_boost
+SYN-0085354,2026-01,Condo Apt,Hickoryhaven,525000.0,552394.0,history_boost
+SYN-0125241,2026-01,Condo Apt,Cypressdale,712900.0,579198.0,history_boost
+SYN-0039367,2026-01,Semi-Detached,Cedarwood,1119200.0,1112379.0,history_boost
+SYN-0107035,2026-01,Condo Apt,Cedarview,508300.0,473635.0,history_boost
+SYN-0079997,2026-01,Condo Apt,Maplemills,743100.0,909202.0,history_boost
+SYN-0081986,2026-01,Detached,Elmmills,846500.0,1004886.0,history_boost
+SYN-0121825,2026-01,Condo Townhouse,Cypressdale,791300.0,843011.0,history_boost
+SYN-0039272,2026-01,Condo Townhouse,Chestnutview,751000.0,690224.0,history_boost
+SYN-0148830,2026-01,Condo Apt,Cedarheights,1049900.0,1046158.0,history_boost
+SYN-0045670,2026-01,Condo Apt,Lindenridge,915400.0,686735.0,history_boost
+SYN-0150069,2026-01,Detached,Oakview,1800500.0,1706135.0,history_boost
+SYN-0024863,2026-01,Condo Apt,Birchgrove,576200.0,514589.0,history_boost
+SYN-0062327,2026-01,Semi-Detached,Juniperheights,1386900.0,1254142.0,history_boost
+SYN-0086723,2026-01,Condo Apt,Elmview,972500.0,765484.0,history_boost
+SYN-0027737,2026-01,Condo Apt,Hickoryglen,435200.0,377426.0,history_boost
+SYN-0034805,2026-01,Detached,Hemlockvale,4206200.0,2042887.0,history_boost
+SYN-0096470,2026-01,Condo Apt,Cypresspark,734300.0,704083.0,history_boost
+SYN-0135725,2026-01,Semi-Detached,Sycamoreview,632800.0,767162.0,history_boost
+SYN-0147855,2026-01,Detached,Magnoliavale,734400.0,826840.0,history_boost
+SYN-0007006,2026-01,Detached,Poplarcrest,2160300.0,2112014.0,history_boost
+SYN-0092473,2026-01,Condo Apt,Hickoryvale,386300.0,409344.0,history_boost
+SYN-0082147,2026-01,Detached,Sumacdale,996200.0,889786.0,history_boost
+SYN-0060027,2026-01,Detached,Sumacdale,2074200.0,1526019.0,history_boost
+SYN-0019795,2026-01,Condo Apt,Birchgrove,302900.0,416511.0,history_boost
+SYN-0103231,2026-01,Condo Apt,Sumacwood,455800.0,513249.0,history_boost
+SYN-0001752,2026-01,Detached,Oakbourne,858300.0,1072832.0,history_boost
+SYN-0151186,2026-01,Condo Apt,Cypresspark,573400.0,572683.0,history_boost
+SYN-0053831,2026-01,Condo Apt,Juniperbrook,434100.0,461516.0,history_boost
+SYN-0133378,2026-01,Condo Apt,Beechbourne,525600.0,514084.0,history_boost
+SYN-0105251,2026-01,Semi-Detached,Magnoliaworth,660800.0,845485.0,history_boost
+SYN-0013982,2026-01,Condo Apt,Sumacwood,252700.0,320109.0,history_boost
+SYN-0061889,2026-01,Detached,Chestnutglen,1244900.0,974786.0,history_boost
+SYN-0048536,2026-01,Detached,Cedarhaven,1130100.0,1464620.0,history_boost
+SYN-0091528,2026-01,Condo Apt,Dogwoodbrook,497900.0,485033.0,history_boost
+SYN-0113219,2026-01,Detached,Beechbourne,2662900.0,1931529.0,history_boost
+SYN-0046874,2026-01,Condo Apt,Cypressglen,524800.0,533129.0,history_boost
+SYN-0092676,2026-01,Condo Apt,Elmview,609300.0,709061.0,history_boost
+SYN-0135483,2026-01,Condo Townhouse,Chestnutmills,536700.0,572594.0,history_boost
+SYN-0013190,2026-01,Detached,Aspenworth,1370800.0,1434574.0,history_boost
+SYN-0042500,2026-01,Condo Apt,Oakhaven,439400.0,446939.0,history_boost
+SYN-0005617,2026-01,Semi-Detached,Sumacworth,877200.0,1112962.0,history_boost
+SYN-0100441,2026-01,Condo Apt,Sumacdale,664100.0,607883.0,history_boost
+SYN-0123601,2026-01,Detached,Ashbank,673800.0,797013.0,history_boost
+SYN-0047839,2026-01,Condo Apt,Lindenvale,412400.0,437743.0,history_boost
+SYN-0107098,2026-01,Condo Townhouse,Oakbourne,571300.0,688550.0,history_boost
+SYN-0101335,2026-01,Condo Apt,Maplebourne,706100.0,625725.0,history_boost
+SYN-0147019,2026-01,Condo Apt,Maplepark,492000.0,477786.0,history_boost
+SYN-0004156,2026-01,Condo Apt,Chestnutbourne,769600.0,714351.0,history_boost
+SYN-0141747,2026-01,Condo Apt,Hickorybourne,595000.0,549797.0,history_boost
+SYN-0137568,2026-01,Condo Apt,Hickorybourne,382700.0,446200.0,history_boost
+SYN-0119890,2026-01,Condo Apt,Hickorybourne,576700.0,587423.0,history_boost
+SYN-0084125,2026-01,Detached,Rowanbank,1772800.0,1779197.0,history_boost
+SYN-0150269,2026-01,Condo Apt,Birchgrove,460100.0,492535.0,history_boost
+SYN-0089806,2026-01,Condo Apt,Beechglen,828200.0,787827.0,history_boost
+SYN-0145536,2026-01,Condo Apt,Willowglen,477600.0,416357.0,history_boost
+SYN-0088837,2026-01,Condo Apt,Elmview,1036100.0,784040.0,history_boost
+SYN-0024195,2026-01,Condo Apt,Willowglen,466200.0,512635.0,history_boost
+SYN-0133611,2026-01,Condo Apt,Magnoliacrest,908900.0,977854.0,history_boost
+SYN-0111318,2026-01,Condo Apt,Mulberryhaven,495200.0,503950.0,history_boost
+SYN-0011581,2026-01,Detached,Rowanridge,1180500.0,1207238.0,history_boost
+SYN-0051009,2026-01,Condo Apt,Sumacpark,566700.0,510455.0,history_boost
+SYN-0054123,2026-01,Condo Apt,Cypressdale,950600.0,784984.0,history_boost
+SYN-0059611,2026-01,Condo Apt,Oakbourne,428800.0,514946.0,history_boost
+SYN-0155599,2026-01,Detached,Maplepark,4157700.0,4380172.0,history_boost
+SYN-0116751,2026-01,Condo Apt,Spruceview,1723700.0,1300165.0,history_boost
+SYN-0085336,2026-01,Condo Apt,Sycamoreglen,782800.0,746251.0,history_boost
+SYN-0047895,2026-01,Condo Townhouse,Sumacbank,644600.0,721377.0,history_boost
+SYN-0139702,2026-01,Condo Apt,Lindenridge,413200.0,485462.0,history_boost
+SYN-0000692,2026-01,Condo Apt,Sumacpark,516700.0,558357.0,history_boost
+SYN-0086104,2026-01,Condo Apt,Mulberrygrove,535100.0,617309.0,history_boost
+SYN-0104904,2026-01,Condo Apt,Oakbourne,442600.0,507911.0,history_boost
+SYN-0047070,2026-01,Detached,Willowglen,791000.0,953254.0,history_boost
+SYN-0075143,2026-01,Condo Apt,Hickoryhaven,506100.0,490616.0,history_boost
+SYN-0015195,2026-01,Semi-Detached,Junipergardens,992600.0,1079267.0,history_boost
+SYN-0041204,2026-01,Condo Apt,Cypressdale,645000.0,543988.0,history_boost
+SYN-0117438,2026-01,Semi-Detached,Dogwoodcliffe,833800.0,846153.0,history_boost
+SYN-0083338,2026-01,Semi-Detached,Cypressdale,2403300.0,2244372.0,history_boost
+SYN-0037022,2026-01,Detached,Cedarbank,1719600.0,2158668.0,history_boost
+SYN-0024669,2026-01,Detached,Chestnutbourne,837300.0,802051.0,history_boost
+SYN-0012070,2026-01,Condo Apt,Willowpark,867200.0,1209519.0,history_boost
+SYN-0157415,2026-01,Condo Apt,Sumacdale,557200.0,600498.0,history_boost
+SYN-0101571,2026-01,Condo Apt,Lindendale,504200.0,629358.0,history_boost
+SYN-0006404,2026-01,Condo Apt,Hazelfield,574100.0,582611.0,history_boost
+SYN-0014443,2026-01,Detached,Hawthorncliffe,657500.0,679340.0,history_boost
+SYN-0059431,2026-01,Condo Apt,Ashworth,664300.0,696454.0,history_boost
+SYN-0106945,2026-01,Condo Apt,Elmview,4930400.0,1913041.0,history_boost
+SYN-0055915,2026-01,Condo Apt,Hazelmills,580500.0,618575.0,history_boost
+SYN-0117654,2026-01,Detached,Balsamcrest,1064300.0,992985.0,history_boost
+SYN-0101970,2026-01,Detached,Dogwoodhaven,501000.0,595350.0,history_boost
+SYN-0023913,2026-01,Condo Apt,Larchbank,474000.0,470834.0,history_boost
+SYN-0112709,2026-01,Condo Apt,Chestnutmills,497500.0,487825.0,history_boost
+SYN-0096066,2026-01,Condo Apt,Elmview,771900.0,666427.0,history_boost
+SYN-0013826,2026-01,Semi-Detached,Cedargrove,698000.0,1010985.0,history_boost
+SYN-0098347,2026-01,Condo Apt,Ashworth,913400.0,713302.0,history_boost
+SYN-0046538,2026-01,Condo Apt,Chestnutbourne,638600.0,588664.0,history_boost
+SYN-0089065,2026-01,Condo Apt,Ashworth,959800.0,905660.0,history_boost
+SYN-0037591,2026-01,Detached,Junipergardens,1887500.0,1838600.0,history_boost
+SYN-0002622,2026-01,Detached,Hickoryridge,1544800.0,1316818.0,history_boost
+SYN-0124587,2026-01,Condo Apt,Rowangardens,568700.0,510914.0,history_boost
+SYN-0133971,2026-01,Condo Townhouse,Hickorybourne,479000.0,429322.0,history_boost
+SYN-0014545,2026-01,Condo Townhouse,Magnoliaview,546900.0,473920.0,history_boost
+SYN-0032016,2026-01,Condo Apt,Sequoiaview,400900.0,394939.0,history_boost
+SYN-0068274,2026-01,Condo Apt,Juniperhaven,759500.0,702233.0,history_boost
+SYN-0071757,2026-01,Condo Apt,Hawthornbourne,1296100.0,1267146.0,history_boost
+SYN-0133958,2026-01,Condo Apt,Hawthornbourne,1110400.0,961433.0,history_boost
+SYN-0054636,2026-01,Condo Apt,Sycamoreglen,771800.0,825863.0,history_boost
+SYN-0067318,2026-01,Condo Apt,Maplebank,521800.0,509864.0,history_boost
+SYN-0131973,2026-01,Condo Apt,Cypresspark,438300.0,504836.0,history_boost
+SYN-0013420,2026-01,Condo Apt,Mulberryvale,461200.0,476531.0,history_boost
+SYN-0112663,2026-01,Condo Apt,Beechcrest,552700.0,571622.0,history_boost
+SYN-0029552,2026-01,Detached,Maplevale,2287800.0,2850701.0,history_boost
+SYN-0109225,2026-01,Condo Apt,Oakbourne,357000.0,400764.0,history_boost
+SYN-0024135,2026-01,Detached,Elmpark,770600.0,942024.0,history_boost
+SYN-0144639,2026-01,Freehold Townhouse,Hemlockhollow,775500.0,797625.0,history_boost
+SYN-0095524,2026-01,Detached,Ashbank,1200800.0,1105239.0,history_boost
+SYN-0114067,2026-01,Detached,Magnoliabank,770400.0,763535.0,history_boost
+SYN-0086481,2026-01,Condo Apt,Hickoryhaven,588200.0,637567.0,history_boost
+SYN-0004176,2026-01,Condo Apt,Mapleview,835700.0,758545.0,history_boost
+SYN-0044542,2026-01,Condo Apt,Sumacdale,654900.0,635082.0,history_boost
+SYN-0140504,2026-01,Condo Apt,Ashworth,517200.0,663128.0,history_boost
+SYN-0144487,2026-01,Condo Apt,Elmcrest,607600.0,555299.0,history_boost
+SYN-0057101,2026-01,Detached,Hazelbourne,1159100.0,984203.0,history_boost
+SYN-0144073,2026-01,Condo Apt,Maplemills,606600.0,578142.0,history_boost
+SYN-0082650,2026-01,Condo Apt,Junipergardens,588500.0,611823.0,history_boost
+SYN-0054274,2026-01,Freehold Townhouse,Magnoliavale,879300.0,1028453.0,history_boost
+SYN-0067737,2026-01,Condo Apt,Aspenworth,659500.0,582110.0,history_boost
+SYN-0020631,2026-01,Condo Townhouse,Magnoliacrest,764100.0,747468.0,history_boost
+SYN-0020895,2026-01,Condo Apt,Magnoliacrest,682900.0,781923.0,history_boost
+SYN-0024965,2026-01,Condo Townhouse,Hickorymills,634700.0,642325.0,history_boost
+SYN-0128980,2026-01,Detached,Hemlockvale,1077800.0,1187901.0,history_boost
+SYN-0017513,2026-01,Detached,Junipergardens,779600.0,1063131.0,history_boost
+SYN-0053393,2026-01,Condo Apt,Elmhaven,619600.0,633369.0,history_boost
+SYN-0068584,2026-01,Freehold Townhouse,Cypressdale,2497400.0,1655836.0,history_boost
+SYN-0143052,2026-01,Condo Apt,Lindencliffe,730100.0,575478.0,history_boost
+SYN-0064349,2026-01,Detached,Sumacpark,780300.0,667675.0,history_boost
+SYN-0047317,2026-01,Detached,Lindenvale,1819900.0,1926604.0,history_boost
+SYN-0097657,2026-01,Condo Townhouse,Walnutfield,938800.0,867975.0,history_boost
+SYN-0056757,2026-01,Condo Apt,Magnoliaview,363900.0,343124.0,history_boost
+SYN-0149621,2026-01,Detached,Maplevale,1727200.0,1914834.0,history_boost
+SYN-0024356,2026-01,Detached,Mulberrydale,1003400.0,1178997.0,history_boost
+SYN-0043123,2026-01,Condo Townhouse,Poplarview,1002400.0,936316.0,history_boost
+SYN-0142696,2026-01,Condo Apt,Cedarview,652900.0,606392.0,history_boost
+SYN-0152918,2026-01,Condo Apt,Cedargrove,967400.0,1217577.0,history_boost
+SYN-0081379,2026-01,Condo Townhouse,Lindendale,1218300.0,1266147.0,history_boost
+SYN-0017378,2026-01,Condo Apt,Walnutpark,566700.0,559704.0,history_boost
+SYN-0067997,2026-01,Condo Apt,Balsamgrove,486200.0,517784.0,history_boost
+SYN-0075489,2026-01,Condo Apt,Aspenworth,399100.0,413750.0,history_boost
+SYN-0049966,2026-01,Freehold Townhouse,Magnoliaworth,1135400.0,1029096.0,history_boost
+SYN-0078051,2026-01,Semi-Detached,Sumacworth,1188300.0,1527447.0,history_boost
+SYN-0078041,2026-01,Condo Apt,Hazelmills,339400.0,367038.0,history_boost
+SYN-0017215,2026-01,Condo Townhouse,Cedarwood,583200.0,612851.0,history_boost
+SYN-0049834,2026-01,Condo Apt,Mapleview,532300.0,629408.0,history_boost
+SYN-0102658,2026-01,Condo Townhouse,Hawthornbourne,1473000.0,1283271.0,history_boost
+SYN-0076240,2026-01,Condo Apt,Rowanridge,457000.0,515540.0,history_boost
+SYN-0090455,2026-01,Detached,Juniperbrook,1812600.0,1633527.0,history_boost
+SYN-0054449,2026-01,Condo Apt,Hickorybourne,478300.0,575384.0,history_boost
+SYN-0048253,2026-01,Condo Apt,Sumacwood,407300.0,454980.0,history_boost
+SYN-0153912,2026-01,Condo Apt,Sprucehaven,533700.0,647963.0,history_boost
+SYN-0137350,2026-01,Condo Apt,Elmview,1897300.0,1498133.0,history_boost
+SYN-0088743,2026-01,Detached,Cypressheights,983100.0,918352.0,history_boost
+SYN-0003002,2026-01,Condo Apt,Sumacpark,496300.0,391623.0,history_boost
+SYN-0016854,2026-01,Condo Apt,Juniperheights,750100.0,865244.0,history_boost
+SYN-0039566,2026-01,Freehold Townhouse,Birchhollow,971900.0,908282.0,history_boost
+SYN-0100324,2026-01,Condo Townhouse,Poplarcrest,1143200.0,1285606.0,history_boost
+SYN-0114699,2026-01,Condo Apt,Cedarview,736800.0,568698.0,history_boost
+SYN-0069151,2026-01,Condo Apt,Mulberryhollow,574000.0,549824.0,history_boost
+SYN-0072477,2026-01,Condo Apt,Rowanbrook,614500.0,719329.0,history_boost
+SYN-0136068,2026-01,Condo Apt,Birchhollow,801800.0,799213.0,history_boost
+SYN-0000675,2026-01,Condo Apt,Oakview,550400.0,620614.0,history_boost
+SYN-0003820,2026-01,Condo Apt,Mapleview,567600.0,498547.0,history_boost
+SYN-0099951,2026-01,Detached,Birchhollow,2360400.0,1737938.0,history_boost
+SYN-0007469,2026-01,Condo Apt,Cypressdale,660100.0,773809.0,history_boost
+SYN-0067548,2026-01,Semi-Detached,Chestnutmills,994700.0,830012.0,history_boost
+SYN-0149441,2026-01,Condo Apt,Sumacwood,491100.0,414656.0,history_boost
+SYN-0079954,2026-01,Condo Apt,Hickoryhaven,698700.0,640898.0,history_boost
+SYN-0121527,2026-01,Semi-Detached,Hazelfield,2152700.0,2630995.0,history_boost
+SYN-0145253,2026-01,Detached,Cedarbank,935100.0,952374.0,history_boost
+SYN-0005060,2026-01,Condo Apt,Magnoliaview,343700.0,427652.0,history_boost
+SYN-0099469,2026-01,Condo Apt,Ashbank,469400.0,481624.0,history_boost
+SYN-0140594,2026-01,Condo Apt,Aspenworth,451000.0,456376.0,history_boost
+SYN-0037076,2026-01,Detached,Elmbank,650400.0,740946.0,history_boost
+SYN-0111732,2026-01,Condo Apt,Walnutfield,652400.0,677862.0,history_boost
+SYN-0053234,2026-01,Condo Apt,Rowangardens,460200.0,461384.0,history_boost
+SYN-0083403,2026-01,Detached,Mapleview,835100.0,924976.0,history_boost
+SYN-0131062,2026-01,Condo Apt,Rowanridge,428000.0,445466.0,history_boost
+SYN-0080038,2026-01,Freehold Townhouse,Beechbourne,1269300.0,1247337.0,history_boost
+SYN-0024363,2026-01,Detached,Mapleview,1215300.0,1222592.0,history_boost
+SYN-0034646,2026-01,Condo Apt,Spruceview,586200.0,544172.0,history_boost
+SYN-0091847,2026-01,Semi-Detached,Sycamoreview,680200.0,767343.0,history_boost
+SYN-0066388,2026-01,Detached,Walnuthollow,2380100.0,2043536.0,history_boost
+SYN-0115668,2026-01,Detached,Lindendale,5482200.0,4659531.0,history_boost
+SYN-0057729,2026-01,Condo Apt,Cedarview,366500.0,352410.0,history_boost
+SYN-0114675,2026-01,Condo Apt,Cedarview,407800.0,362861.0,history_boost
+SYN-0074979,2026-01,Condo Apt,Mulberryvale,642500.0,674566.0,history_boost
+SYN-0091231,2026-01,Condo Apt,Beechcrest,650100.0,670405.0,history_boost
+SYN-0023348,2026-01,Condo Apt,Sequoiaview,397700.0,421072.0,history_boost
+SYN-0137590,2026-01,Condo Apt,Hazelmills,476300.0,532312.0,history_boost
+SYN-0103380,2026-01,Condo Apt,Rowangrove,450300.0,491973.0,history_boost
+SYN-0153541,2026-01,Condo Apt,Sumacwood,436200.0,417794.0,history_boost
+SYN-0070597,2026-01,Detached,Cedarhaven,1563500.0,1285603.0,history_boost
+SYN-0025961,2026-01,Condo Apt,Rowanbrook,714800.0,831087.0,history_boost
+SYN-0048967,2026-01,Condo Apt,Pinevale,415900.0,464911.0,history_boost
+SYN-0073473,2026-01,Freehold Townhouse,Cypressdale,1426900.0,1262409.0,history_boost
+SYN-0101598,2026-01,Detached,Hawthorncliffe,802800.0,678016.0,history_boost
+SYN-0091316,2026-01,Condo Apt,Hickoryhaven,543800.0,518977.0,history_boost
+SYN-0047564,2026-01,Detached,Hemlockvale,1019700.0,990740.0,history_boost
+SYN-0139695,2026-01,Condo Apt,Magnoliaview,490000.0,554880.0,history_boost
+SYN-0138053,2026-01,Detached,Rowangardens,1340000.0,1583772.0,history_boost
+SYN-0035468,2026-01,Semi-Detached,Chestnutbourne,1092900.0,949235.0,history_boost
+SYN-0084381,2026-01,Detached,Sycamorehaven,1278300.0,1147029.0,history_boost
+SYN-0106838,2026-01,Condo Apt,Cypresspark,613800.0,623708.0,history_boost
+SYN-0079122,2026-01,Condo Apt,Birchhollow,826600.0,636941.0,history_boost
+SYN-0063118,2026-01,Freehold Townhouse,Elmview,1546200.0,1534786.0,history_boost
+SYN-0097039,2026-01,Condo Apt,Elmhaven,476600.0,530754.0,history_boost
+SYN-0009513,2026-01,Condo Apt,Willowpark,914600.0,966716.0,history_boost
+SYN-0115245,2026-01,Detached,Balsamwood,1490600.0,1260866.0,history_boost
+SYN-0050716,2026-01,Condo Apt,Cedarglen,444700.0,471641.0,history_boost
+SYN-0008097,2026-01,Condo Apt,Cypresspark,755200.0,624198.0,history_boost
+SYN-0105021,2026-01,Condo Apt,Chestnutbank,765000.0,744797.0,history_boost
+SYN-0124584,2026-01,Condo Apt,Elmhaven,824500.0,879760.0,history_boost
+SYN-0080453,2026-01,Condo Apt,Magnoliaview,829100.0,553665.0,history_boost
+SYN-0062937,2026-01,Semi-Detached,Beechbourne,1150900.0,1154319.0,history_boost
+SYN-0147465,2026-01,Condo Apt,Elmview,1186200.0,1006398.0,history_boost
+SYN-0149641,2026-01,Detached,Willowglen,815100.0,718864.0,history_boost
+SYN-0017917,2026-01,Condo Apt,Walnutfield,374100.0,447508.0,history_boost
+SYN-0006227,2026-01,Detached,Cypressdale,3276800.0,2671723.0,history_boost
+SYN-0156023,2026-01,Condo Apt,Beechbourne,821000.0,759410.0,history_boost
+SYN-0112425,2026-01,Detached,Mapleview,1347400.0,1743834.0,history_boost
+SYN-0067609,2026-01,Condo Apt,Balsamgrove,514200.0,652318.0,history_boost
+SYN-0117945,2026-01,Condo Apt,Willowglen,410300.0,487570.0,history_boost
+SYN-0155221,2026-01,Condo Apt,Spruceview,494600.0,464869.0,history_boost
+SYN-0108491,2026-01,Condo Apt,Cedarglen,786700.0,640832.0,history_boost
+SYN-0008555,2026-01,Detached,Maplevale,1444400.0,1611522.0,history_boost
+SYN-0003623,2026-01,Condo Apt,Beechbourne,512900.0,576814.0,history_boost
+SYN-0115815,2026-01,Condo Apt,Larchbank,524200.0,476933.0,history_boost
+SYN-0027559,2026-01,Condo Apt,Willowview,602600.0,510091.0,history_boost
+SYN-0001899,2026-01,Condo Apt,Maplebrook,498800.0,472364.0,history_boost
+SYN-0001479,2026-01,Condo Apt,Cedarglen,407200.0,546502.0,history_boost
+SYN-0138986,2026-01,Condo Apt,Hickoryhaven,654000.0,615751.0,history_boost
+SYN-0036886,2026-01,Condo Apt,Sumacworth,421800.0,473320.0,history_boost
+SYN-0134626,2026-01,Condo Apt,Elmbrook,464600.0,510933.0,history_boost
+SYN-0041149,2026-01,Condo Apt,Ashhollow,461500.0,503660.0,history_boost
+SYN-0089644,2026-01,Semi-Detached,Sequoiafield,1512400.0,1055190.0,history_boost
+SYN-0152779,2026-01,Detached,Sequoiafield,888800.0,845150.0,history_boost
+SYN-0106493,2026-01,Condo Apt,Elmmills,499400.0,476123.0,history_boost
+SYN-0119363,2026-01,Detached,Maplebrook,963900.0,1051475.0,history_boost
+SYN-0033565,2026-01,Condo Townhouse,Elmcrest,805700.0,934449.0,history_boost
+SYN-0018264,2026-01,Condo Apt,Spruceview,942500.0,909010.0,history_boost
+SYN-0125017,2026-01,Condo Apt,Chestnutview,384000.0,387775.0,history_boost
+SYN-0154931,2026-01,Condo Apt,Elmview,474500.0,661315.0,history_boost
+SYN-0021466,2026-01,Condo Townhouse,Magnoliaworth,387900.0,482052.0,history_boost
+SYN-0062442,2026-01,Condo Apt,Poplarcrest,852500.0,795756.0,history_boost
+SYN-0140288,2026-01,Semi-Detached,Tamarackbourne,2011800.0,1601874.0,history_boost
+SYN-0077918,2026-01,Condo Apt,Dogwoodbrook,536700.0,467567.0,history_boost
+SYN-0058229,2026-01,Condo Apt,Hickoryglen,428000.0,390463.0,history_boost
+SYN-0094561,2026-01,Condo Apt,Cedargrove,387500.0,472398.0,history_boost
+SYN-0001053,2026-01,Condo Apt,Beechglen,556100.0,524328.0,history_boost
+SYN-0132761,2026-01,Condo Apt,Hawthornbourne,774500.0,732774.0,history_boost
+SYN-0035769,2026-01,Condo Apt,Cedargrove,490300.0,533794.0,history_boost
+SYN-0142366,2026-01,Condo Apt,Hawthornbourne,930700.0,952536.0,history_boost
+SYN-0088102,2026-01,Condo Apt,Maplebank,393400.0,489072.0,history_boost
+SYN-0055033,2026-01,Condo Apt,Maplebank,436200.0,418938.0,history_boost
+SYN-0136206,2026-01,Detached,Maplepark,3945100.0,3815748.0,history_boost
+SYN-0090447,2026-01,Detached,Walnuthollow,2034600.0,1940899.0,history_boost
+SYN-0110142,2026-01,Condo Apt,Cedarbank,538900.0,571574.0,history_boost
+SYN-0107629,2026-01,Condo Apt,Hickoryhaven,550500.0,559335.0,history_boost
+SYN-0081507,2026-01,Condo Apt,Willowglen,538400.0,503177.0,history_boost
+SYN-0137773,2026-01,Condo Apt,Sumacfield,1535200.0,914899.0,history_boost
+SYN-0060972,2026-01,Condo Townhouse,Lindenridge,754800.0,705399.0,history_boost
+SYN-0096293,2026-01,Detached,Tamarackbourne,2558200.0,2221357.0,history_boost
+SYN-0000979,2026-01,Condo Apt,Hickoryhaven,647100.0,562261.0,history_boost
+SYN-0042507,2026-01,Detached,Cedarhaven,1248500.0,1349208.0,history_boost
+SYN-0111623,2026-01,Freehold Townhouse,Oakcrest,1327900.0,1155326.0,history_boost
+SYN-0126542,2026-01,Condo Apt,Magnoliaview,419900.0,355669.0,history_boost
+SYN-0073798,2026-01,Condo Apt,Cypresspark,635200.0,751371.0,history_boost
+SYN-0012170,2026-01,Condo Apt,Juniperheights,492800.0,800146.0,history_boost
+SYN-0009406,2026-01,Detached,Hemlockvale,837700.0,928887.0,history_boost
+SYN-0088610,2026-01,Condo Apt,Cedarview,369100.0,440864.0,history_boost
+SYN-0146678,2026-01,Condo Apt,Mapleview,603700.0,612950.0,history_boost
+SYN-0117462,2026-01,Condo Apt,Willowglen,339700.0,397348.0,history_boost
+SYN-0136165,2026-01,Condo Apt,Hickoryhaven,649400.0,711406.0,history_boost
+SYN-0132061,2026-01,Detached,Willowglen,895800.0,867865.0,history_boost
+SYN-0005827,2026-01,Detached,Hemlockvale,1384700.0,1275802.0,history_boost
+SYN-0080956,2026-01,Detached,Juniperpark,1281000.0,1012675.0,history_boost
+SYN-0119483,2026-01,Condo Apt,Tamarackmills,585500.0,564678.0,history_boost
+SYN-0138056,2026-01,Detached,Sycamoreglen,3402800.0,2585338.0,history_boost
+SYN-0075950,2026-01,Detached,Pineglen,949800.0,961659.0,history_boost
+SYN-0131328,2026-01,Semi-Detached,Hemlockvale,876700.0,871417.0,history_boost
+SYN-0075065,2026-01,Condo Apt,Magnoliaworth,316600.0,443225.0,history_boost
+SYN-0046465,2026-01,Condo Apt,Chestnutbank,732400.0,728318.0,history_boost
+SYN-0006678,2026-01,Condo Townhouse,Balsamcrest,644400.0,698585.0,history_boost
+SYN-0046991,2026-01,Semi-Detached,Cypressbrook,1114500.0,1211852.0,history_boost
+SYN-0156199,2026-01,Freehold Townhouse,Beechglen,1504500.0,1549092.0,history_boost
+SYN-0047510,2026-01,Detached,Juniperbrook,1001800.0,1272739.0,history_boost
+SYN-0120941,2026-01,Condo Apt,Larchview,451100.0,531564.0,history_boost
+SYN-0025338,2026-01,Detached,Cedarbank,1151200.0,1629323.0,history_boost
+SYN-0073290,2026-01,Condo Apt,Sycamoreglen,737000.0,501503.0,history_boost
+SYN-0152972,2026-01,Condo Townhouse,Rowanbrook,1079100.0,933868.0,history_boost
+SYN-0029507,2026-01,Condo Apt,Elmview,1405600.0,1681121.0,history_boost
+SYN-0096771,2026-01,Condo Apt,Juniperpark,374700.0,391220.0,history_boost
+SYN-0087059,2026-01,Condo Apt,Tamarackmills,515700.0,513471.0,history_boost
+SYN-0033698,2026-01,Detached,Lindenmills,1676200.0,1618131.0,history_boost
+SYN-0111736,2026-01,Condo Townhouse,Cedarview,609700.0,663951.0,history_boost
+SYN-0014392,2026-01,Detached,Hemlockvale,1024200.0,986813.0,history_boost
+SYN-0038437,2026-01,Condo Apt,Lindenridge,806800.0,829581.0,history_boost
+SYN-0113079,2026-01,Condo Apt,Cedarview,293700.0,333238.0,history_boost
+SYN-0061785,2026-01,Detached,Maplevale,1574700.0,2151611.0,history_boost
+SYN-0150337,2026-01,Detached,Magnoliaglen,1044700.0,1058499.0,history_boost
+SYN-0008015,2026-01,Condo Apt,Chestnutbourne,411300.0,426538.0,history_boost
+SYN-0046841,2026-01,Condo Apt,Cedarview,527000.0,487312.0,history_boost
+SYN-0015763,2026-01,Condo Apt,Magnoliaview,439900.0,390321.0,history_boost
+SYN-0073908,2026-01,Detached,Rowangardens,1584100.0,1579388.0,history_boost
+SYN-0075436,2026-01,Condo Townhouse,Sumacwood,490600.0,484785.0,history_boost
+SYN-0090693,2026-01,Semi-Detached,Spruceview,1199100.0,1185516.0,history_boost
+SYN-0150242,2026-01,Detached,Elmbank,658300.0,707644.0,history_boost
+SYN-0061615,2026-01,Condo Apt,Hickorybourne,446600.0,508972.0,history_boost
+SYN-0091882,2026-01,Freehold Townhouse,Elmbrook,1168400.0,987596.0,history_boost
+SYN-0079684,2026-01,Detached,Walnuthollow,781200.0,864645.0,history_boost
+SYN-0106244,2026-01,Semi-Detached,Tamarackbourne,1966900.0,1690838.0,history_boost
+SYN-0121966,2026-01,Semi-Detached,Tamarackbourne,1131100.0,1205236.0,history_boost
+SYN-0000888,2026-01,Detached,Rowanridge,1139500.0,1658729.0,history_boost
+SYN-0140606,2026-01,Condo Apt,Balsamgrove,648100.0,629453.0,history_boost
+SYN-0045317,2026-01,Condo Apt,Walnutfield,785300.0,749660.0,history_boost
+SYN-0026661,2026-01,Condo Apt,Rowanridge,506400.0,487279.0,history_boost
+SYN-0130390,2026-01,Condo Apt,Juniperhaven,1054900.0,905854.0,history_boost
+SYN-0099722,2026-01,Condo Apt,Birchgrove,475200.0,442676.0,history_boost
+SYN-0028945,2026-01,Detached,Cedarhaven,1398300.0,913499.0,history_boost
+SYN-0142862,2026-01,Detached,Oakcrest,1091000.0,1204386.0,history_boost
+SYN-0124561,2026-01,Detached,Elmbank,1509500.0,1102352.0,history_boost
+SYN-0086707,2026-01,Condo Apt,Hickoryhaven,691500.0,649292.0,history_boost
+SYN-0053510,2026-01,Detached,Elmpark,959000.0,1143448.0,history_boost
+SYN-0010149,2026-01,Condo Townhouse,Ashhollow,665000.0,670634.0,history_boost
+SYN-0131288,2026-01,Condo Apt,Aspenworth,625100.0,510204.0,history_boost
+SYN-0012226,2026-01,Detached,Oakbourne,1271200.0,1093323.0,history_boost
+SYN-0023386,2026-01,Detached,Lindendale,4645200.0,6042665.0,history_boost
+SYN-0001280,2026-01,Condo Apt,Beechbourne,325800.0,440074.0,history_boost
+SYN-0133844,2026-01,Condo Townhouse,Cypresspark,743200.0,820333.0,history_boost
+SYN-0113746,2026-01,Detached,Chestnutridge,918800.0,898146.0,history_boost
+SYN-0068999,2026-01,Condo Apt,Junipergardens,419500.0,519220.0,history_boost
+SYN-0022810,2026-01,Detached,Walnutpark,1215600.0,1091873.0,history_boost
+SYN-0005075,2026-01,Condo Apt,Hickoryhaven,1569500.0,1120440.0,history_boost
+SYN-0026207,2026-01,Condo Apt,Juniperheights,875400.0,1260348.0,history_boost
+SYN-0115588,2026-01,Freehold Townhouse,Sycamoreglen,1725700.0,1683901.0,history_boost
+SYN-0089780,2026-01,Condo Apt,Tamarackmills,428500.0,432855.0,history_boost
+SYN-0102934,2026-01,Condo Apt,Cypresspark,547900.0,544090.0,history_boost
+SYN-0049904,2026-01,Condo Apt,Hickoryvale,365200.0,372939.0,history_boost
+SYN-0052962,2026-01,Semi-Detached,Rowanbank,903100.0,933691.0,history_boost
+SYN-0142344,2026-01,Condo Apt,Oakbourne,582000.0,634233.0,history_boost
+SYN-0152982,2026-01,Detached,Sequoiaview,907700.0,841186.0,history_boost
+SYN-0013954,2026-01,Detached,Elmbank,780800.0,858615.0,history_boost
+SYN-0076436,2026-01,Detached,Birchhollow,1593500.0,1308483.0,history_boost
+SYN-0117861,2026-01,Detached,Mulberrydale,1050000.0,953032.0,history_boost
+SYN-0018129,2026-01,Detached,Hemlockvale,1218200.0,1477256.0,history_boost
+SYN-0018401,2026-01,Detached,Juniperpark,783700.0,794211.0,history_boost
+SYN-0030156,2026-01,Freehold Townhouse,Juniperheights,1878500.0,2230402.0,history_boost
+SYN-0001431,2026-01,Condo Apt,Oakhaven,653400.0,571555.0,history_boost
+SYN-0124556,2026-01,Condo Apt,Cedarview,1313900.0,667899.0,history_boost
+SYN-0070298,2026-01,Condo Townhouse,Hickoryhaven,709800.0,707296.0,history_boost
+SYN-0037765,2026-01,Freehold Townhouse,Cedarhaven,1144100.0,919932.0,history_boost
+SYN-0103589,2026-01,Detached,Hemlockvale,1011700.0,1053497.0,history_boost
+SYN-0095948,2026-01,Condo Apt,Cedarwood,552700.0,564432.0,history_boost
+SYN-0006015,2026-01,Semi-Detached,Cypressheights,765800.0,856275.0,history_boost
+SYN-0053813,2026-01,Detached,Sumacfield,1139800.0,1240741.0,history_boost
+SYN-0103243,2026-01,Condo Apt,Hemlockhollow,669000.0,604910.0,history_boost
+SYN-0131420,2026-01,Semi-Detached,Alderworth,844300.0,981365.0,history_boost
+SYN-0014037,2026-01,Condo Apt,Sycamoreglen,445000.0,559119.0,history_boost
+SYN-0105173,2026-01,Condo Townhouse,Lindencliffe,677700.0,793527.0,history_boost
+SYN-0072206,2026-01,Condo Apt,Hickoryhaven,959500.0,807572.0,history_boost
+SYN-0079392,2026-01,Condo Apt,Dogwoodmills,443100.0,472307.0,history_boost
+SYN-0000742,2026-01,Detached,Mulberrydale,871300.0,934072.0,history_boost
+SYN-0150751,2026-01,Condo Apt,Elmview,686300.0,1285537.0,history_boost
+SYN-0005411,2026-01,Condo Apt,Cypresspark,685000.0,699594.0,history_boost
+SYN-0090597,2026-01,Condo Apt,Rowanbrook,700200.0,661844.0,history_boost
+SYN-0027954,2026-01,Condo Apt,Aspenworth,317800.0,342031.0,history_boost
+SYN-0049018,2026-01,Condo Apt,Walnutfield,563900.0,552520.0,history_boost
+SYN-0062960,2026-01,Detached,Sycamoreglen,3542400.0,3870014.0,history_boost
+SYN-0142110,2026-01,Detached,Chestnutmills,545700.0,730536.0,history_boost
+SYN-0018357,2026-01,Condo Apt,Cedarheights,1019800.0,927582.0,history_boost
+SYN-0055124,2026-01,Detached,Birchheights,2171400.0,1877497.0,history_boost
+SYN-0018253,2026-01,Condo Apt,Lindendale,604800.0,518291.0,history_boost
+SYN-0043382,2026-01,Semi-Detached,Cedarhaven,956500.0,939165.0,history_boost
+SYN-0066451,2026-01,Semi-Detached,Cypressbrook,807200.0,1043460.0,history_boost
+SYN-0100673,2026-01,Condo Apt,Sumacwood,304100.0,367868.0,history_boost
+SYN-0062791,2026-01,Detached,Hickoryridge,1494400.0,1580244.0,history_boost
+SYN-0013845,2026-01,Detached,Maplebourne,1174700.0,1048249.0,history_boost
+SYN-0105880,2026-01,Condo Apt,Poplarcrest,974300.0,1268958.0,history_boost
+SYN-0121182,2026-01,Semi-Detached,Willowglen,1058900.0,867564.0,history_boost
+SYN-0015569,2026-01,Condo Apt,Hickorybourne,694000.0,701958.0,history_boost
+SYN-0102101,2026-01,Condo Apt,Cypresspark,817100.0,730658.0,history_boost
+SYN-0068520,2026-01,Condo Apt,Oakhaven,548300.0,468655.0,history_boost
+SYN-0148350,2026-01,Detached,Mulberryhollow,1319800.0,1200389.0,history_boost
+SYN-0100284,2026-01,Semi-Detached,Cypressbrook,838800.0,1047482.0,history_boost
+SYN-0142913,2026-01,Detached,Balsamcrest,911300.0,876942.0,history_boost
+SYN-0103643,2026-01,Semi-Detached,Chestnutgrove,589200.0,710234.0,history_boost
+SYN-0131293,2026-01,Condo Townhouse,Cedargrove,675300.0,813446.0,history_boost
+SYN-0040225,2026-01,Semi-Detached,Sequoiafield,964400.0,1132897.0,history_boost
+SYN-0061853,2026-01,Condo Townhouse,Balsamgrove,805300.0,768542.0,history_boost
+SYN-0110946,2026-01,Co-Op Apt,Hawthornbourne,656100.0,649233.0,history_boost
+SYN-0028447,2026-01,Condo Apt,Elmmills,532200.0,554602.0,history_boost
+SYN-0069809,2026-01,Condo Apt,Hickoryhaven,603300.0,637974.0,history_boost
+SYN-0141477,2026-01,Condo Apt,Sycamorehaven,563100.0,568248.0,history_boost
+SYN-0106484,2026-01,Condo Apt,Hickorybourne,741900.0,756909.0,history_boost
+SYN-0050475,2026-01,Condo Apt,Elmmills,419800.0,383915.0,history_boost
+SYN-0046312,2026-01,Semi-Detached,Cedargrove,939800.0,1068929.0,history_boost
+SYN-0024534,2026-01,Detached,Chestnutbourne,782000.0,1087843.0,history_boost
+SYN-0041569,2026-01,Condo Townhouse,Hickorybourne,517100.0,582044.0,history_boost
+SYN-0059409,2026-01,Semi-Detached,Beechglen,1719400.0,2007607.0,history_boost
+SYN-0005718,2026-01,Condo Apt,Hickoryhaven,504900.0,521729.0,history_boost
+SYN-0110857,2026-01,Condo Apt,Elmcrest,811300.0,762700.0,history_boost
+SYN-0098426,2026-01,Condo Apt,Cypresspark,799300.0,861424.0,history_boost
+SYN-0131692,2026-01,Condo Apt,Hazelmills,355800.0,365737.0,history_boost
+SYN-0132050,2026-01,Condo Apt,Lindenridge,654800.0,722819.0,history_boost
+SYN-0098429,2026-01,Semi-Detached,Juniperheights,1520100.0,1395061.0,history_boost
+SYN-0094673,2026-01,Detached,Hemlockvale,849700.0,975975.0,history_boost
+SYN-0156573,2026-01,Detached,Hickoryvale,1317000.0,1386669.0,history_boost
+SYN-0138809,2026-01,Condo Apt,Elmview,1031500.0,951826.0,history_boost
+SYN-0013213,2026-01,Detached,Maplebrook,1129700.0,883095.0,history_boost
+SYN-0090052,2026-01,Condo Apt,Beechglen,622900.0,592358.0,history_boost
+SYN-0022259,2026-01,Condo Apt,Hawthornbourne,1964400.0,1879661.0,history_boost
+SYN-0108749,2026-01,Detached,Cedarwood,1131700.0,1070773.0,history_boost
+SYN-0087491,2026-01,Detached,Hemlockvale,2119400.0,1601631.0,history_boost
+SYN-0113682,2026-01,Detached,Dogwoodmills,1222800.0,1267562.0,history_boost
+SYN-0125344,2026-01,Detached,Rowanridge,880800.0,1144614.0,history_boost
+SYN-0142090,2026-01,Condo Apt,Rowangardens,426000.0,435030.0,history_boost
+SYN-0156357,2026-01,Detached,Mulberrygrove,939000.0,1166380.0,history_boost
+SYN-0151415,2026-01,Condo Apt,Beechbourne,385500.0,446326.0,history_boost
+SYN-0054399,2026-01,Detached,Hemlockvale,1463400.0,1676027.0,history_boost
+SYN-0043869,2026-01,Condo Apt,Hickorybourne,594000.0,660183.0,history_boost
+SYN-0078712,2026-01,Condo Townhouse,Elmview,1118300.0,1210810.0,history_boost
+SYN-0008421,2026-01,Condo Apt,Hemlockhollow,552000.0,467038.0,history_boost
+SYN-0152745,2026-01,Condo Apt,Hazelmills,1275700.0,797413.0,history_boost
+SYN-0137917,2026-01,Detached,Hickorymills,1709900.0,1651108.0,history_boost
+SYN-0033935,2026-01,Condo Apt,Rowangrove,804300.0,728661.0,history_boost
+SYN-0149842,2026-01,Condo Apt,Mulberrygrove,563300.0,632203.0,history_boost
+SYN-0006353,2026-01,Detached,Maplevale,2555900.0,2283635.0,history_boost
+SYN-0100350,2026-01,Condo Apt,Tamarackmills,479700.0,500807.0,history_boost
+SYN-0134364,2026-01,Condo Apt,Sumacpark,615100.0,592324.0,history_boost
+SYN-0150767,2026-01,Condo Apt,Walnutfield,805300.0,815623.0,history_boost
+SYN-0056304,2026-01,Condo Apt,Elmmills,491900.0,454966.0,history_boost
+SYN-0069521,2026-01,Condo Apt,Chestnutbourne,597300.0,684137.0,history_boost
+SYN-0001881,2026-01,Detached,Hemlockvale,2211100.0,1723140.0,history_boost
+SYN-0079303,2026-01,Condo Apt,Lindenglen,594500.0,668215.0,history_boost
+SYN-0119471,2026-01,Semi-Detached,Hemlockhollow,1114500.0,1143498.0,history_boost
+SYN-0016064,2026-01,Detached,Elmbourne,984000.0,981897.0,history_boost
+SYN-0047714,2026-01,Condo Apt,Oakbourne,613100.0,548909.0,history_boost
+SYN-0102513,2026-01,Condo Apt,Chestnutbank,568800.0,581819.0,history_boost
+SYN-0137319,2026-01,Condo Apt,Poplarcrest,804000.0,766132.0,history_boost
+SYN-0132205,2026-01,Detached,Maplevale,1938500.0,1847294.0,history_boost
+SYN-0147539,2026-01,Condo Apt,Elmmills,428900.0,457423.0,history_boost
+SYN-0139336,2026-01,Freehold Townhouse,Rowanhollow,2028500.0,1749554.0,history_boost
+SYN-0035671,2026-01,Condo Apt,Dogwoodbrook,722500.0,621770.0,history_boost
+SYN-0005173,2026-01,Condo Apt,Sumacbank,669100.0,1033097.0,history_boost
+SYN-0049949,2026-01,Freehold Townhouse,Hemlockvale,945400.0,910011.0,history_boost
+SYN-0121219,2026-01,Condo Apt,Cedarview,420100.0,401236.0,history_boost
+SYN-0048950,2026-01,Detached,Balsamgrove,1894000.0,2621243.0,history_boost
+SYN-0040854,2026-01,Condo Apt,Maplebrook,294100.0,343061.0,history_boost
+SYN-0122333,2026-01,Detached,Elmmills,796800.0,725888.0,history_boost
+SYN-0033742,2026-01,Condo Apt,Lindencrest,316300.0,363969.0,history_boost
+SYN-0122061,2026-01,Condo Apt,Oakbourne,414600.0,436971.0,history_boost
+SYN-0064727,2026-01,Semi-Detached,Elmbourne,1438700.0,1084569.0,history_boost
+SYN-0146264,2026-01,Detached,Hemlockvale,923200.0,1007588.0,history_boost
+SYN-0030104,2026-01,Detached,Balsamgrove,1529700.0,1168610.0,history_boost
+SYN-0146903,2026-01,Condo Townhouse,Poplarcrest,1082800.0,948840.0,history_boost
+SYN-0057167,2026-01,Detached,Aspenworth,1432700.0,1111616.0,history_boost
+SYN-0001365,2026-01,Condo Apt,Hickoryglen,465300.0,487392.0,history_boost
+SYN-0127559,2026-01,Detached,Tamarackmills,1961800.0,2004298.0,history_boost
+SYN-0033276,2026-01,Semi-Detached,Cedarhaven,1109500.0,962980.0,history_boost
+SYN-0153315,2026-01,Detached,Beechbourne,1974400.0,2320706.0,history_boost
+SYN-0135854,2026-01,Detached,Sycamorewood,860200.0,1010677.0,history_boost
+SYN-0146014,2026-01,Detached,Hawthorncliffe,616900.0,677285.0,history_boost
+SYN-0051244,2026-01,Freehold Townhouse,Juniperheights,2361600.0,1764302.0,history_boost
+SYN-0138160,2026-01,Condo Apt,Sumacbank,811200.0,1089489.0,history_boost
+SYN-0109807,2026-01,Condo Apt,Spruceview,900900.0,682837.0,history_boost
+SYN-0143142,2026-01,Condo Apt,Spruceview,724400.0,610699.0,history_boost
+SYN-0145265,2026-01,Condo Apt,Sprucehaven,460500.0,503362.0,history_boost
+SYN-0127137,2026-01,Detached,Maplebourne,1555400.0,1626636.0,history_boost
+SYN-0063090,2026-01,Semi-Detached,Willowglen,857700.0,749409.0,history_boost
+SYN-0100342,2026-01,Condo Townhouse,Ashworth,720000.0,826769.0,history_boost
+SYN-0008911,2026-01,Condo Apt,Elmbrook,646100.0,598254.0,history_boost
+SYN-0058680,2026-01,Condo Apt,Elmbrook,661900.0,621057.0,history_boost
+SYN-0050403,2026-01,Detached,Aspenworth,969500.0,775970.0,history_boost
+SYN-0024146,2026-01,Semi-Detached,Mulberryvale,903600.0,925369.0,history_boost
+SYN-0152049,2026-01,Detached,Elmbank,622300.0,656660.0,history_boost
+SYN-0004678,2026-01,Condo Apt,Dogwoodmills,366900.0,366973.0,history_boost
+SYN-0070450,2026-01,Condo Apt,Magnoliaworth,727200.0,609666.0,history_boost
+SYN-0084776,2026-01,Condo Apt,Ashhollow,505000.0,527791.0,history_boost
+SYN-0147226,2026-01,Condo Apt,Cedarglen,482100.0,564882.0,history_boost
+SYN-0156933,2026-01,Condo Apt,Chestnutbank,390700.0,368996.0,history_boost
+SYN-0007007,2026-01,Condo Apt,Birchgrove,381200.0,442714.0,history_boost
+SYN-0079003,2026-01,Condo Apt,Rowangardens,438600.0,439531.0,history_boost
+SYN-0105062,2026-01,Condo Apt,Maplebank,551500.0,578484.0,history_boost
+SYN-0105057,2026-01,Condo Apt,Elmmills,512100.0,521377.0,history_boost
+SYN-0022340,2026-01,Detached,Willowglen,1398700.0,1202330.0,history_boost
+SYN-0131285,2026-01,Condo Apt,Junipergardens,649800.0,579925.0,history_boost
+SYN-0066394,2026-01,Condo Apt,Cedarview,486000.0,437001.0,history_boost
+SYN-0034359,2026-01,Condo Apt,Elmgardens,860100.0,754104.0,history_boost
+SYN-0023662,2026-01,Condo Apt,Cedarglen,504900.0,517845.0,history_boost
+SYN-0103774,2026-01,Condo Apt,Hazelmills,407500.0,412326.0,history_boost
+SYN-0020201,2026-01,Condo Apt,Elmview,1814900.0,1141676.0,history_boost
+SYN-0035109,2026-01,Condo Apt,Lindendale,635700.0,725233.0,history_boost
+SYN-0038049,2026-01,Condo Apt,Elmmills,603600.0,513267.0,history_boost
+SYN-0078972,2026-01,Condo Apt,Magnoliaview,464600.0,430807.0,history_boost
+SYN-0111445,2026-01,Condo Apt,Oakhaven,503600.0,478808.0,history_boost
+SYN-0120087,2026-01,Condo Apt,Sumacwood,423200.0,461271.0,history_boost
+SYN-0057685,2026-01,Condo Apt,Hickoryhaven,502800.0,502143.0,history_boost
+SYN-0028661,2026-01,Detached,Sumaccrest,1612100.0,1457545.0,history_boost
+SYN-0031993,2026-01,Condo Apt,Willowview,585600.0,594227.0,history_boost
+SYN-0087702,2026-01,Condo Apt,Cedarwood,607800.0,660942.0,history_boost
+SYN-0144750,2026-01,Condo Townhouse,Lindenridge,677100.0,675666.0,history_boost
+SYN-0113737,2026-01,Condo Apt,Elmbrook,887500.0,781487.0,history_boost
+SYN-0022295,2026-01,Condo Apt,Mulberryhollow,519100.0,484910.0,history_boost
+SYN-0127380,2026-01,Semi-Detached,Maplegrove,1221100.0,1069072.0,history_boost
+SYN-0041505,2026-01,Condo Apt,Juniperheights,3017900.0,1723061.0,history_boost
+SYN-0155192,2026-01,Semi-Detached,Oakview,1073900.0,998425.0,history_boost
+SYN-0103654,2026-01,Condo Apt,Elmview,486100.0,658201.0,history_boost
+SYN-0075927,2026-01,Condo Townhouse,Tamarackmills,804400.0,951813.0,history_boost
+SYN-0115012,2026-01,Freehold Townhouse,Spruceview,1004700.0,1148324.0,history_boost
+SYN-0084287,2026-01,Condo Apt,Maplebourne,579200.0,704155.0,history_boost
+SYN-0110694,2026-01,Condo Apt,Chestnutbank,639100.0,621502.0,history_boost
+SYN-0118844,2026-01,Semi-Detached,Junipergardens,1011300.0,973424.0,history_boost
+SYN-0024721,2026-01,Condo Apt,Poplargardens,850200.0,640126.0,history_boost
+SYN-0002015,2026-01,Detached,Hemlockvale,1301200.0,1825804.0,history_boost
+SYN-0137838,2026-01,Detached,Lindencliffe,1396400.0,1422850.0,history_boost
+SYN-0151110,2026-01,Condo Apt,Sumacwood,853600.0,677429.0,history_boost
+SYN-0120322,2026-01,Condo Apt,Sprucehaven,406300.0,458233.0,history_boost
+SYN-0093596,2026-01,Condo Apt,Lindenridge,516100.0,509869.0,history_boost
+SYN-0074977,2026-01,Condo Apt,Elmbrook,866600.0,740887.0,history_boost
+SYN-0053455,2026-01,Condo Apt,Ashworth,1143200.0,823167.0,history_boost
+SYN-0080685,2026-01,Detached,Hemlockhollow,996500.0,897333.0,history_boost
+SYN-0020640,2026-01,Condo Townhouse,Mulberryvale,629600.0,794299.0,history_boost
+SYN-0003799,2026-01,Condo Townhouse,Cedarglen,569000.0,528726.0,history_boost
+SYN-0049805,2026-01,Detached,Junipergardens,942600.0,1219698.0,history_boost
+SYN-0150897,2026-01,Condo Apt,Mapleview,668300.0,552355.0,history_boost
+SYN-0092640,2026-01,Semi-Detached,Juniperpark,915700.0,838292.0,history_boost
+SYN-0014009,2026-01,Semi-Detached,Birchheights,1138100.0,918464.0,history_boost
+SYN-0026738,2026-01,Condo Apt,Elmbank,651900.0,521068.0,history_boost
+SYN-0111547,2026-01,Detached,Cedarwood,1064500.0,1127322.0,history_boost
+SYN-0019283,2026-01,Condo Apt,Poplarcrest,461600.0,577957.0,history_boost
+SYN-0017845,2026-01,Semi-Detached,Aspenworth,621100.0,706930.0,history_boost
+SYN-0042091,2026-01,Condo Apt,Oakbourne,647400.0,650208.0,history_boost
+SYN-0138038,2026-01,Condo Apt,Ashworth,1088100.0,909667.0,history_boost
+SYN-0035267,2026-01,Condo Apt,Elmgardens,557000.0,590132.0,history_boost
+SYN-0155650,2026-01,Condo Apt,Beechbourne,701700.0,778445.0,history_boost
+SYN-0097584,2026-01,Freehold Townhouse,Elmgardens,1916700.0,1980907.0,history_boost
+SYN-0139098,2026-01,Detached,Elmbank,1224500.0,1159598.0,history_boost
+SYN-0123242,2026-01,Condo Apt,Oakbourne,963800.0,727327.0,history_boost
+SYN-0109119,2026-01,Condo Apt,Hickorymills,524700.0,476958.0,history_boost
+SYN-0026809,2026-01,Condo Apt,Chestnutbank,487000.0,458603.0,history_boost
+SYN-0020501,2026-01,Condo Apt,Chestnutbrook,417100.0,403011.0,history_boost
+SYN-0000804,2026-01,Detached,Sycamorehaven,1139200.0,1197910.0,history_boost
+SYN-0081349,2026-01,Detached,Sumacdale,1279600.0,1006427.0,history_boost
+SYN-0080681,2026-01,Detached,Chestnutview,764500.0,765578.0,history_boost
+SYN-0045498,2026-01,Condo Apt,Elmview,537900.0,498754.0,history_boost
+SYN-0113831,2026-01,Condo Apt,Hickoryglen,511000.0,505919.0,history_boost
+SYN-0094665,2026-01,Condo Apt,Junipergardens,727300.0,756140.0,history_boost
+SYN-0134719,2026-01,Condo Apt,Elmhaven,762300.0,832530.0,history_boost
+SYN-0067061,2026-01,Condo Apt,Chestnutmills,605400.0,749899.0,history_boost
+SYN-0097048,2026-01,Condo Apt,Larchbank,383000.0,432410.0,history_boost
+SYN-0047184,2026-01,Semi-Detached,Chestnutgrove,808500.0,828566.0,history_boost
+SYN-0039343,2026-01,Detached,Mulberrydale,1042700.0,847955.0,history_boost
+SYN-0037686,2026-01,Condo Apt,Cypressdale,624500.0,588143.0,history_boost
+SYN-0095952,2026-01,Detached,Chestnutbourne,2021400.0,1754417.0,history_boost
+SYN-0047803,2026-01,Detached,Lindenvale,786500.0,871397.0,history_boost
+SYN-0148569,2026-01,Semi-Detached,Willowglen,972400.0,879501.0,history_boost
+SYN-0062651,2026-01,Detached,Chestnutglen,1373200.0,1194802.0,history_boost
+SYN-0054765,2026-01,Condo Apt,Oakbourne,404100.0,454360.0,history_boost
+SYN-0033868,2026-01,Detached,Alderworth,1825800.0,2434645.0,history_boost
+SYN-0133969,2026-01,Condo Apt,Ashworth,820600.0,721973.0,history_boost
+SYN-0010660,2026-01,Detached,Lindenmills,1267600.0,1239606.0,history_boost
+SYN-0091821,2026-01,Condo Apt,Tamarackmills,345700.0,419085.0,history_boost
+SYN-0047303,2026-01,Condo Apt,Magnoliacrest,1160200.0,874402.0,history_boost
+SYN-0018825,2026-01,Condo Townhouse,Cypresspark,1039900.0,1306731.0,history_boost
+SYN-0157284,2026-01,Condo Townhouse,Hickorybourne,760100.0,827234.0,history_boost
+SYN-0106941,2026-01,Detached,Junipergardens,2958900.0,2326681.0,history_boost
+SYN-0149048,2026-01,Detached,Balsamgrove,1952400.0,1629685.0,history_boost
+SYN-0135686,2026-01,Detached,Chestnutgrove,668500.0,758934.0,history_boost
+SYN-0056350,2026-01,Freehold Townhouse,Willowglen,1009400.0,1031662.0,history_boost
+SYN-0151386,2026-01,Detached,Maplevale,1499400.0,1352954.0,history_boost
+SYN-0102205,2026-01,Condo Apt,Sumacwood,245700.0,296092.0,history_boost
+SYN-0132655,2026-01,Condo Apt,Elmview,701600.0,1128495.0,history_boost
+SYN-0063199,2026-01,Detached,Maplepark,2845900.0,2808256.0,history_boost
+SYN-0064002,2026-01,Detached,Hawthorncliffe,873900.0,846210.0,history_boost
+SYN-0111778,2026-01,Condo Apt,Hawthornbourne,794600.0,829362.0,history_boost
+SYN-0133320,2026-01,Semi-Detached,Willowglen,801000.0,837473.0,history_boost
+SYN-0071234,2026-01,Condo Apt,Cypressdale,315200.0,449190.0,history_boost
+SYN-0020513,2026-01,Detached,Mulberrydale,1445900.0,1343137.0,history_boost
+SYN-0028974,2026-01,Condo Apt,Ashbank,485700.0,574737.0,history_boost
+SYN-0061915,2026-01,Condo Apt,Hickoryglen,330900.0,400189.0,history_boost
+SYN-0081284,2026-01,Condo Apt,Hawthornbourne,634400.0,701162.0,history_boost
+SYN-0016956,2026-01,Semi-Detached,Cedarheights,1068900.0,954618.0,history_boost
+SYN-0066944,2026-01,Semi-Detached,Chestnutbourne,777900.0,729632.0,history_boost
+SYN-0124120,2026-01,Detached,Tamarackbourne,1393500.0,1571212.0,history_boost
+SYN-0050772,2026-01,Condo Townhouse,Chestnutmills,632300.0,589434.0,history_boost
+SYN-0145542,2026-01,Condo Apt,Cypressbrook,454600.0,442085.0,history_boost
+SYN-0071331,2026-01,Condo Apt,Sumacvale,606200.0,506535.0,history_boost
+SYN-0136205,2026-01,Condo Apt,Cypressglen,343200.0,348029.0,history_boost
+SYN-0043456,2026-01,Condo Apt,Birchhollow,570300.0,526957.0,history_boost
+SYN-0140945,2026-01,Freehold Townhouse,Cypressdale,1748700.0,1454053.0,history_boost
+SYN-0132760,2026-01,Semi-Detached,Sumacglen,703400.0,741232.0,history_boost
+SYN-0014413,2026-01,Detached,Cypressheights,747500.0,792154.0,history_boost
+SYN-0047609,2026-01,Detached,Rowanridge,1540800.0,1400847.0,history_boost
+SYN-0044279,2026-01,Condo Apt,Elmbrook,451800.0,445897.0,history_boost
+SYN-0029899,2026-01,Detached,Dogwoodglen,836200.0,980291.0,history_boost
+SYN-0029075,2026-01,Condo Apt,Cypressdale,864700.0,606987.0,history_boost
+SYN-0121510,2026-01,Condo Apt,Larchbank,529500.0,452414.0,history_boost
+SYN-0040708,2026-01,Semi-Detached,Dogwoodbrook,1529600.0,1212901.0,history_boost
+SYN-0116337,2026-01,Condo Apt,Magnoliaview,455800.0,482937.0,history_boost
+SYN-0103344,2026-01,Condo Townhouse,Lindenvale,651000.0,624961.0,history_boost
+SYN-0047244,2026-01,Detached,Maplebrook,3093700.0,1854523.0,history_boost
+SYN-0006883,2026-01,Condo Apt,Elmview,801300.0,988719.0,history_boost
+SYN-0008009,2026-01,Condo Apt,Chestnutmills,378100.0,387212.0,history_boost
+SYN-0116826,2026-01,Freehold Townhouse,Lindencliffe,940200.0,932725.0,history_boost
+SYN-0034717,2026-01,Condo Apt,Elmview,804400.0,1174799.0,history_boost
+SYN-0081910,2026-01,Condo Apt,Ashhollow,861400.0,846563.0,history_boost
+SYN-0014493,2026-01,Condo Apt,Hawthornbourne,637600.0,795766.0,history_boost
+SYN-0149981,2026-01,Detached,Magnoliabank,1071900.0,1198305.0,history_boost
+SYN-0103018,2026-01,Condo Apt,Rowangardens,728100.0,613129.0,history_boost
+SYN-0071764,2026-01,Detached,Oakview,1878000.0,1557007.0,history_boost
+SYN-0061996,2026-01,Condo Apt,Cypresspark,1025400.0,868647.0,history_boost
+SYN-0060529,2026-01,Condo Apt,Alderworth,484600.0,517392.0,history_boost
+SYN-0034746,2026-01,Condo Apt,Elmview,573700.0,607142.0,history_boost
+SYN-0140806,2026-01,Condo Apt,Aspenworth,369300.0,357165.0,history_boost
+SYN-0150804,2026-01,Condo Apt,Rowanbrook,763500.0,839942.0,history_boost
+SYN-0060108,2026-01,Condo Apt,Tamarackbourne,428500.0,413380.0,history_boost
+SYN-0002719,2026-01,Condo Apt,Chestnutvale,637100.0,579081.0,history_boost
+SYN-0002169,2026-01,Detached,Ashbank,1146400.0,1194997.0,history_boost
+SYN-0003845,2026-01,Condo Townhouse,Elmgardens,838400.0,877757.0,history_boost
+SYN-0101366,2026-01,Condo Apt,Chestnutbank,648400.0,597455.0,history_boost
+SYN-0024435,2026-01,Condo Apt,Hazelfield,780800.0,1385235.0,history_boost
+SYN-0042881,2026-01,Condo Apt,Birchbrook,586700.0,564426.0,history_boost
+SYN-0033882,2026-01,Condo Apt,Cypresspark,805700.0,849294.0,history_boost
+SYN-0054668,2026-01,Semi-Detached,Sprucehollow,871600.0,941969.0,history_boost
+SYN-0026607,2026-01,Condo Apt,Elmgardens,1157700.0,805960.0,history_boost
+SYN-0083732,2026-01,Semi-Detached,Beechglen,1549100.0,1698383.0,history_boost
+SYN-0010835,2026-01,Detached,Cypressglen,825600.0,781466.0,history_boost
+SYN-0151803,2026-01,Condo Apt,Willowglen,637600.0,618757.0,history_boost
+SYN-0006747,2026-01,Freehold Townhouse,Chestnutbourne,899200.0,768217.0,history_boost
+SYN-0064622,2026-01,Condo Apt,Elmgardens,825700.0,791751.0,history_boost
+SYN-0018365,2026-01,Condo Apt,Hickoryhaven,638100.0,696046.0,history_boost
+SYN-0115424,2026-01,Detached,Chestnutglen,1401600.0,1028297.0,history_boost
+SYN-0076982,2026-01,Detached,Walnuthollow,956500.0,1171301.0,history_boost
+SYN-0044481,2026-01,Condo Townhouse,Poplarcrest,867900.0,1221510.0,history_boost
+SYN-0107881,2026-01,Condo Apt,Hazelmills,327200.0,408789.0,history_boost
+SYN-0137407,2026-01,Semi-Detached,Cedargrove,1372400.0,1423835.0,history_boost
+SYN-0091362,2026-01,Condo Apt,Elmcrest,1265900.0,982203.0,history_boost
+SYN-0112423,2026-01,Condo Townhouse,Rowanbrook,1085100.0,868475.0,history_boost
+SYN-0105914,2026-01,Condo Apt,Hawthornbourne,807800.0,734198.0,history_boost
+SYN-0037238,2026-01,Condo Apt,Maplebank,632400.0,600821.0,history_boost
+SYN-0025901,2026-01,Condo Townhouse,Cedarview,774100.0,680115.0,history_boost
+SYN-0028208,2026-01,Detached,Mapleview,1879100.0,1997159.0,history_boost
+SYN-0016331,2026-01,Detached,Rowanbrook,1357500.0,990855.0,history_boost
+SYN-0049732,2026-01,Condo Townhouse,Sumaccrest,769800.0,736852.0,history_boost
+SYN-0122101,2026-01,Detached,Walnuthollow,926800.0,1012500.0,history_boost
+SYN-0019595,2026-01,Condo Apt,Maplebourne,763200.0,585047.0,history_boost
+SYN-0065881,2026-01,Condo Apt,Sumacdale,535300.0,496498.0,history_boost
+SYN-0000158,2026-01,Freehold Townhouse,Elmhaven,1253700.0,1107237.0,history_boost
+SYN-0044729,2026-01,Condo Apt,Poplarcrest,920100.0,887879.0,history_boost
+SYN-0004435,2026-01,Condo Apt,Oakbourne,479500.0,505155.0,history_boost
+SYN-0115282,2026-01,Condo Apt,Chestnutbrook,300400.0,351954.0,history_boost
+SYN-0106125,2026-01,Condo Apt,Walnutpark,1032700.0,891516.0,history_boost
+SYN-0141362,2026-01,Semi-Detached,Mulberryhaven,1151900.0,1107068.0,history_boost
+SYN-0059577,2026-01,Condo Townhouse,Walnutfield,904600.0,762927.0,history_boost
+SYN-0055027,2026-01,Detached,Junipergardens,1614700.0,1386410.0,history_boost
+SYN-0046994,2026-01,Condo Apt,Cypressdale,541000.0,512285.0,history_boost
+SYN-0039261,2026-01,Condo Apt,Mulberryvale,486100.0,538844.0,history_boost
+SYN-0004519,2026-01,Condo Apt,Aspenworth,276400.0,335037.0,history_boost
+SYN-0075728,2026-01,Condo Townhouse,Cedarview,388800.0,516770.0,history_boost
+SYN-0078665,2026-01,Condo Apt,Poplarview,642900.0,641250.0,history_boost
+SYN-0002239,2026-01,Condo Apt,Lindencliffe,591400.0,685041.0,history_boost
+SYN-0037530,2026-01,Semi-Detached,Cedargrove,981900.0,938947.0,history_boost
+SYN-0011945,2026-01,Freehold Townhouse,Rowanbank,890800.0,919472.0,history_boost
+SYN-0034528,2026-01,Condo Townhouse,Cedarglen,577400.0,624213.0,history_boost
+SYN-0134460,2026-01,Condo Apt,Lindendale,810200.0,670064.0,history_boost
+SYN-0061384,2026-01,Detached,Chestnutridge,747700.0,803529.0,history_boost
+SYN-0143344,2026-01,Detached,Maplebourne,1629100.0,1300861.0,history_boost
+SYN-0064375,2026-01,Detached,Sycamoredale,1605400.0,2026278.0,history_boost
+SYN-0007086,2026-01,Condo Apt,Rowangardens,509800.0,507113.0,history_boost
+SYN-0155248,2026-01,Detached,Juniperpark,514600.0,634605.0,history_boost
+SYN-0113183,2026-01,Condo Apt,Hickorybourne,348900.0,425982.0,history_boost
+SYN-0018528,2026-01,Co-Op Apt,Cedarheights,1416200.0,1000410.0,history_boost
+SYN-0100319,2026-01,Semi-Detached,Birchhollow,1015100.0,1182620.0,history_boost
+SYN-0035349,2026-01,Detached,Juniperbrook,1744200.0,1553415.0,history_boost
+SYN-0112530,2026-01,Condo Apt,Lindenglen,932800.0,1460610.0,history_boost
+SYN-0120355,2026-01,Detached,Cedarwood,1386300.0,1286999.0,history_boost
+SYN-0152771,2026-01,Condo Apt,Pineridge,482000.0,469470.0,history_boost
+SYN-0013719,2026-01,Condo Apt,Hickorybourne,766000.0,771698.0,history_boost
+SYN-0112338,2026-01,Condo Apt,Cypresspark,915200.0,741537.0,history_boost
+SYN-0040044,2026-01,Condo Apt,Chestnutbank,417600.0,409607.0,history_boost
+SYN-0020509,2026-01,Condo Apt,Rowangardens,459300.0,462599.0,history_boost
+SYN-0124411,2026-01,Freehold Townhouse,Cypresspark,1459100.0,1437476.0,history_boost
+SYN-0093483,2026-01,Semi-Detached,Sycamoreglen,1768800.0,1696884.0,history_boost
+SYN-0059782,2026-01,Condo Apt,Cypresspark,1469100.0,1229031.0,history_boost
+SYN-0132267,2026-01,Condo Apt,Hawthornbourne,1185000.0,1359643.0,history_boost
+SYN-0146999,2026-01,Detached,Hickoryvale,1502800.0,1651043.0,history_boost
+SYN-0128229,2026-01,Condo Townhouse,Tamarackmills,795900.0,771634.0,history_boost
+SYN-0102804,2026-01,Condo Apt,Cedarview,321100.0,356477.0,history_boost
+SYN-0052369,2026-01,Condo Apt,Ashworth,904200.0,774276.0,history_boost
+SYN-0121365,2026-01,Condo Apt,Dogwoodmills,485100.0,455565.0,history_boost
+SYN-0035786,2026-01,Detached,Magnoliaworth,2727900.0,1814859.0,history_boost
+SYN-0142173,2026-01,Condo Townhouse,Cedarview,664800.0,568490.0,history_boost
+SYN-0064278,2026-01,Detached,Cedarview,969300.0,1091756.0,history_boost
+SYN-0048462,2026-01,Detached,Elmbank,861000.0,754554.0,history_boost
+SYN-0064027,2026-01,Condo Apt,Lindenglen,910900.0,979416.0,history_boost
+SYN-0014547,2026-01,Condo Apt,Elmmills,537100.0,717198.0,history_boost
+SYN-0040344,2026-01,Semi-Detached,Hemlockhollow,1138800.0,1115885.0,history_boost
+SYN-0036503,2026-01,Detached,Balsamcrest,1273000.0,1176967.0,history_boost
+SYN-0105245,2026-01,Condo Apt,Lindenridge,422000.0,447634.0,history_boost
+SYN-0015492,2026-01,Condo Apt,Hickorybourne,381100.0,443578.0,history_boost
+SYN-0117587,2026-01,Detached,Beechbourne,1031900.0,1258214.0,history_boost
+SYN-0052984,2026-01,Condo Apt,Cypresspark,1150400.0,957322.0,history_boost
+SYN-0029477,2026-01,Detached,Walnuthollow,1709400.0,2030745.0,history_boost
+SYN-0091172,2026-01,Condo Apt,Elmcrest,1007300.0,881653.0,history_boost
+SYN-0080943,2026-01,Condo Apt,Cedarview,793200.0,547488.0,history_boost
+SYN-0115529,2026-01,Condo Townhouse,Spruceview,470500.0,540580.0,history_boost
+SYN-0150531,2026-01,Detached,Mulberryhollow,2682600.0,1889142.0,history_boost
+SYN-0009040,2026-01,Condo Apt,Cypressbrook,536100.0,488147.0,history_boost
+SYN-0040045,2026-01,Condo Apt,Sumacworth,858800.0,891215.0,history_boost
+SYN-0115517,2026-01,Condo Apt,Hickorybourne,461800.0,571962.0,history_boost
+SYN-0032495,2026-01,Detached,Maplegrove,1416500.0,1689359.0,history_boost
+SYN-0014837,2026-01,Condo Apt,Hazelmills,854200.0,791310.0,history_boost
+SYN-0089717,2026-01,Condo Apt,Elmview,1173200.0,1353548.0,history_boost
+SYN-0049380,2026-01,Condo Apt,Balsamgrove,433900.0,492358.0,history_boost
+SYN-0020784,2026-01,Condo Apt,Sumacpark,450200.0,446826.0,history_boost
+SYN-0126570,2026-01,Condo Townhouse,Walnutfield,754500.0,764978.0,history_boost
+SYN-0060598,2026-01,Condo Apt,Ashworth,669700.0,773272.0,history_boost
+SYN-0051480,2026-01,Condo Apt,Magnoliaview,306400.0,360518.0,history_boost
+SYN-0124723,2026-01,Condo Apt,Chestnutbrook,319700.0,343609.0,history_boost
+SYN-0000603,2026-01,Detached,Mulberrydale,939300.0,1181214.0,history_boost
+SYN-0145889,2026-01,Detached,Cedarwood,1284600.0,1414483.0,history_boost
+SYN-0073903,2026-01,Condo Apt,Cedarview,494100.0,492958.0,history_boost
+SYN-0122608,2026-01,Condo Apt,Elmhaven,663500.0,856051.0,history_boost
+SYN-0026286,2026-01,Condo Apt,Sumacdale,692000.0,772237.0,history_boost
+SYN-0034523,2026-01,Freehold Townhouse,Cypressbrook,1265700.0,1073630.0,history_boost
+SYN-0079886,2026-01,Condo Townhouse,Elmview,1183100.0,1190744.0,history_boost
+SYN-0085912,2026-01,Condo Townhouse,Ashbank,489500.0,536987.0,history_boost
+SYN-0076795,2026-01,Detached,Walnutfield,2396100.0,2393567.0,history_boost
+SYN-0095148,2026-01,Semi-Detached,Cedarhaven,909500.0,1069249.0,history_boost
+SYN-0153321,2026-01,Condo Apt,Cedarview,557700.0,626991.0,history_boost
+SYN-0129527,2026-01,Condo Apt,Elmgardens,744000.0,727589.0,history_boost
+SYN-0072495,2026-01,Semi-Detached,Elmcrest,1209600.0,1280310.0,history_boost
+SYN-0126637,2026-01,Condo Apt,Oakhaven,592200.0,579211.0,history_boost
+SYN-0116509,2026-01,Condo Apt,Balsamgrove,417100.0,429707.0,history_boost
+SYN-0048839,2026-01,Detached,Rowanridge,1182500.0,1290295.0,history_boost
+SYN-0050247,2026-01,Condo Townhouse,Hickoryhaven,744600.0,759947.0,history_boost
+SYN-0086737,2026-01,Detached,Hemlockvale,1320300.0,1455710.0,history_boost
+SYN-0147109,2026-01,Condo Apt,Sprucehaven,579100.0,637167.0,history_boost
+SYN-0006941,2026-01,Condo Townhouse,Cypressbrook,922400.0,807944.0,history_boost
+SYN-0117213,2026-01,Condo Apt,Elmview,2113900.0,1648605.0,history_boost
+SYN-0041674,2026-01,Condo Apt,Walnutfield,532800.0,624828.0,history_boost
+SYN-0003557,2026-01,Condo Apt,Willowglen,513800.0,520696.0,history_boost
+SYN-0152511,2026-01,Condo Apt,Oakbourne,2491700.0,977537.0,history_boost
+SYN-0095542,2026-01,Condo Apt,Lindenridge,455500.0,484733.0,history_boost
+SYN-0099167,2026-01,Condo Apt,Chestnutbourne,821300.0,932384.0,history_boost
+SYN-0072050,2026-01,Detached,Lindencrest,1025100.0,917115.0,history_boost
+SYN-0050998,2026-01,Detached,Rowanbank,1183300.0,1252525.0,history_boost
+SYN-0156110,2026-01,Detached,Elmbank,1328400.0,1536447.0,history_boost
+SYN-0063333,2026-01,Detached,Cypressheights,1690700.0,1757408.0,history_boost
+SYN-0018083,2026-01,Condo Apt,Cypresspark,1122000.0,958453.0,history_boost
+SYN-0130250,2026-01,Detached,Cedarwood,843900.0,952433.0,history_boost
+SYN-0131561,2026-01,Freehold Townhouse,Birchheights,850400.0,949138.0,history_boost
+SYN-0106586,2026-01,Condo Apt,Poplarview,828100.0,761801.0,history_boost
+SYN-0114473,2026-01,Condo Apt,Hawthornbourne,1082000.0,915499.0,history_boost
+SYN-0052790,2026-01,Semi-Detached,Maplemills,1554100.0,1500728.0,history_boost
+SYN-0044977,2026-01,Condo Apt,Chestnutgrove,423600.0,409800.0,history_boost
+SYN-0068506,2026-01,Detached,Lindenridge,1103100.0,1362681.0,history_boost
+SYN-0049694,2026-01,Condo Apt,Willowglen,724600.0,761813.0,history_boost
+SYN-0131025,2026-01,Semi-Detached,Mulberrygrove,970200.0,947790.0,history_boost
+SYN-0118402,2026-01,Condo Apt,Sumacpark,319200.0,366479.0,history_boost
+SYN-0000037,2026-01,Detached,Junipergardens,1832000.0,1621776.0,history_boost
+SYN-0055303,2026-01,Condo Apt,Sumacwood,338900.0,371152.0,history_boost
+SYN-0053941,2026-01,Detached,Lindenmills,1461600.0,1620862.0,history_boost
+SYN-0005315,2026-01,Condo Townhouse,Cedarwood,987200.0,908997.0,history_boost
+SYN-0057274,2026-01,Condo Townhouse,Chestnutmills,623600.0,622371.0,history_boost
+SYN-0067499,2026-01,Condo Apt,Balsamgrove,481600.0,496551.0,history_boost
+SYN-0031136,2026-01,Condo Apt,Sumacpark,383400.0,405785.0,history_boost
+SYN-0066160,2026-01,Condo Apt,Juniperhaven,577000.0,636925.0,history_boost
+SYN-0114005,2026-01,Condo Apt,Chestnutbourne,481200.0,495409.0,history_boost
+SYN-0083136,2026-01,Freehold Townhouse,Birchheights,927800.0,892910.0,history_boost
+SYN-0139660,2026-01,Detached,Elmbourne,705500.0,770829.0,history_boost
+SYN-0128776,2026-01,Detached,Hemlockvale,1294300.0,1910405.0,history_boost
+SYN-0064833,2026-01,Condo Apt,Mulberryvale,492100.0,516548.0,history_boost
+SYN-0016170,2026-01,Condo Apt,Cedarglen,351600.0,425434.0,history_boost
+SYN-0123573,2026-01,Condo Apt,Cedarview,401700.0,469284.0,history_boost
+SYN-0094537,2026-01,Condo Apt,Cypressdale,805600.0,646752.0,history_boost
+SYN-0078727,2026-01,Detached,Elmpark,820200.0,801636.0,history_boost
+SYN-0027024,2026-01,Condo Apt,Sumacpark,691500.0,578658.0,history_boost
+SYN-0013127,2026-01,Condo Apt,Walnutfield,691800.0,700269.0,history_boost
+SYN-0055635,2026-01,Condo Townhouse,Rowangardens,760100.0,714572.0,history_boost
+SYN-0152927,2026-01,Condo Apt,Rowangrove,391800.0,513066.0,history_boost
+SYN-0027927,2026-01,Condo Apt,Aspenworth,621400.0,560432.0,history_boost
+SYN-0074865,2026-01,Condo Apt,Hickoryvale,643800.0,633762.0,history_boost
+SYN-0036050,2026-01,Semi-Detached,Magnoliaworth,676400.0,950757.0,history_boost
+SYN-0156424,2026-01,Detached,Sumacfield,671200.0,860592.0,history_boost
+SYN-0051194,2026-01,Co-Op Apt,Elmhaven,1524400.0,1008782.0,history_boost
+SYN-0076677,2026-01,Detached,Chestnutgrove,1162500.0,897810.0,history_boost
+SYN-0122243,2026-01,Detached,Magnoliavale,897400.0,773209.0,history_boost
+SYN-0117528,2026-01,Condo Townhouse,Hickoryhaven,607000.0,659906.0,history_boost
+SYN-0145945,2026-01,Condo Apt,Sumaccrest,846300.0,817986.0,history_boost
+SYN-0153999,2026-01,Condo Apt,Cypressdale,907500.0,602670.0,history_boost
+SYN-0134610,2026-01,Freehold Townhouse,Oakhaven,1073600.0,1015590.0,history_boost
+SYN-0145694,2026-01,Detached,Rowanbank,1192100.0,1018735.0,history_boost
+SYN-0034891,2026-01,Condo Apt,Birchgrove,477400.0,447582.0,history_boost
+SYN-0053188,2026-01,Condo Apt,Hickoryglen,415500.0,445559.0,history_boost
+SYN-0078122,2026-01,Condo Apt,Poplarcrest,514500.0,519089.0,history_boost
+SYN-0002003,2026-01,Condo Apt,Elmview,641200.0,987383.0,history_boost
+SYN-0043806,2026-01,Detached,Sumacdale,2009700.0,2058334.0,history_boost
+SYN-0130816,2026-01,Condo Apt,Beechbourne,637700.0,745158.0,history_boost
+SYN-0102627,2026-01,Condo Apt,Dogwoodmills,516300.0,562306.0,history_boost
+SYN-0029271,2026-01,Condo Apt,Magnoliaworth,473900.0,497260.0,history_boost
+SYN-0081662,2026-01,Condo Townhouse,Aspenworth,427200.0,451295.0,history_boost
+SYN-0011995,2026-01,Condo Apt,Willowview,473400.0,453935.0,history_boost
+SYN-0016819,2026-01,Condo Apt,Oakhaven,577800.0,665413.0,history_boost
+SYN-0046937,2026-01,Condo Apt,Balsamgrove,892100.0,785391.0,history_boost
+SYN-0044762,2026-01,Condo Apt,Elmmills,435600.0,425739.0,history_boost
+SYN-0071566,2026-01,Condo Apt,Mapleview,555900.0,699277.0,history_boost
+SYN-0066866,2026-01,Condo Apt,Walnutfield,1135500.0,1183282.0,history_boost
+SYN-0106448,2026-01,Condo Apt,Chestnutbourne,420200.0,503201.0,history_boost
+SYN-0043673,2026-01,Condo Apt,Sumacworth,716400.0,624830.0,history_boost
+SYN-0155862,2026-01,Condo Apt,Cedarglen,514900.0,563125.0,history_boost
+SYN-0045366,2026-01,Condo Apt,Sequoiaview,712100.0,534410.0,history_boost
+SYN-0059333,2026-01,Detached,Chestnutgrove,876100.0,766843.0,history_boost
+SYN-0041188,2026-01,Condo Apt,Oakbourne,561000.0,542207.0,history_boost
+SYN-0027197,2026-01,Condo Apt,Elmgardens,1107100.0,1189218.0,history_boost

@@ -1,0 +1,30 @@
+{
+  "unit_tests": {
+    "passed": 7,
+    "failed": 0
+  },
+  "official_validate": "Completed all six months for both tracks",
+  "off_market_validation_reproduction": {
+    "matched_predictions": 10069,
+    "exact_match": true
+  },
+  "member3_validation_reproduction": {
+    "matched_predictions": 10069,
+    "exact_match": true
+  },
+  "official_predict": "Completed both tracks",
+  "off_market_submission": {
+    "rows": 3974,
+    "exact_match_to_experiment": true,
+    "official_check": "OK"
+  },
+  "list_aware_submission": {
+    "rows": 4064,
+    "exact_match_to_member3": true,
+    "official_check": "OK"
+  },
+  "official_report": "Completed using MPLBACKEND=Agg",
+  "figures": "Comparison, diagnostics and official price-range figure visually checked",
+  "upstream_starter_commit": "6c5831e12f523d617eccd1418d46a5cf2a0bb8b4",
+  "scope": "Local Member 2 implementation, no hidden test labels or external data used"
+}

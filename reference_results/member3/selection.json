@@ -1,0 +1,19 @@
+{
+  "selected_model": "current_v3",
+  "rule": "Lowest pooled validation MdAPE; MAPE breaks ties. Not an independent unseen holdout.",
+  "validation_months": [
+    "2025-12",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05"
+  ],
+  "candidates": [
+    "current_v3",
+    "member1_base",
+    "member1_our_history",
+    "member1_sales_history",
+    "member1_both_history"
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "selected_model": "history_text_boost",
+  "rule": "Lowest pooled MdAPE; MAPE breaks ties among the five predefined candidates",
+  "warning": "Same validation months used for selection. No independent final holdout; no guarantee on hidden test."
+}
